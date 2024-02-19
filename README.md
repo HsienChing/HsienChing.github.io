@@ -42,16 +42,16 @@ Phys. Chem. Chem. Phys. **18**, 7573 (2016) (SCI), DOI: <https://doi.org/10.1039
 ### Regular articles
 
 1. **H. C. Chung**<sup>\*</sup>,  
-Charge and discharge profiles of repurposed LiFePO$_4$ batteries based on the UL 1974 standard,  
+Charge and discharge profiles of repurposed LiFePO<sub>4</sub> batteries based on the UL 1974 standard,  
 Sci. Data **8**, 165 (2021) (SCI), DOI: <https://doi.org/10.1038/s41597-021-00954-3>
 
 2. **H. C. Chung**<sup>\*</sup> and Y. C. Cheng,  
-Summary of Safety Standards for Repurposing Batteries (汰役電池安全標準的內容與說明),  
-Monthly Journal of Taipower's Engineering \textbf{860}, 35 (2020), <https://www.taipower.com.tw/tc/report.aspx?mid=86>
+Summary of safety standards for repurposing batteries (汰役電池安全標準的內容與說明),  
+Monthly Journal of Taipower's Engineering **860**, 35 (2020), <https://www.taipower.com.tw/tc/report.aspx?mid=86>
 
 3. **H. C. Chung**<sup>\*</sup> and Y. C. Cheng<sup>\*</sup>,
 Action planning and situation analysis of repurposing battery recovery and application in China (中國汰役電池回收利用的推動現況與分析),  
-J. Taiwan Energy \textbf{6}, 425 (2019), <https://km.twenergy.org.tw/Publication/thesis_more?id=234>
+J. Taiwan Energy **6**, 425 (2019), <https://km.twenergy.org.tw/Publication/thesis_more?id=234>
 
 4. **H. C. Chung**<sup>\*</sup>, C. W. Chiu<sup>\*</sup>, and M. F. Lin<sup>\*</sup>,  
 Spin-polarized magneto-electronic properties in buckled monolayer GaAs,  
