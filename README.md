@@ -18,7 +18,7 @@ graphene, carbon-related materials, low-dimensional materials.
 
 ## Current Position
 **RD Manager @ Super Double Power Technology Co., Ltd., Taiwan (_Feb. 2020 - Present_)**
-- Developed off-grid solar energy storage system.
+- Developed off-grid solar energy storage system (ESS).
 - Developed energy management system (EMS).
 
 Past Work Experience: 
