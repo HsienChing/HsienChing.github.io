@@ -297,10 +297,10 @@ defaults:
       show_date: true
       date_format: "%Y-%m-%d"
       read_time: true
-      toc: true
-      toc_sticky: true
-      toc_label: "Table of contents"
-      toc_icon: "columns"
+      # toc: true
+      # toc_sticky: true
+      # toc_label: "Table of contents"
+      # toc_icon: "columns"
       comments: true
       share: true
       related: true
