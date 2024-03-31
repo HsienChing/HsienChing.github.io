@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+# title: "About"
 # excerpt: "Some words."
 last_modified_at: 2024-04-01 00:40:00 +0800 
 # toc: true
