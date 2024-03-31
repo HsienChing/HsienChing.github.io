@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Strange Things in Life"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Hsien-Ching Chung"
+description              : "Life is strange. Just write it down."
 url                      : "https://HsienChing.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HsienChing/HsienChing.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -59,11 +59,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -81,9 +81,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "HsienChing_"
 facebook:
-  username               :
+  username               : "hsienching.chung"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -93,6 +93,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.facebook.com/hsienching.chung"
+    - "https://twitter.com/HsienChing_"
 
 # Analytics
 analytics:
@@ -104,30 +106,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hsien-Ching Chung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "生命很奇怪 <br> 就寫下來吧 <br><br> Life is strange. <br> Just write it down."
+  location         : "Taichung city, Taiwan, Earth"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:hsienching.chung@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/HsienChing_" 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/hsienching.chung"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/HsienChing"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "ORCiD"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-9364-8858"
+
+# Icon search: https://fontawesome.com/v4/icons/
 
 # Site Footer
 footer:
@@ -286,7 +293,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
+      date_format: "%Y-%m-%d"
       read_time: true
-      comments: # true
+      comments: true
+        #provider: "disqus"
+        #disqus:
+        #  shortname: "your-disqus-shortname"
       share: true
       related: true
