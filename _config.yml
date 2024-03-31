@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Hsien-Ching Chung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars.githubusercontent.com/u/64768830" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "生命很奇怪 <br> 就寫下來吧 <br><br> Life is strange. <br> Just write it down."
   location         : "Taichung city, Taiwan, Earth"
   email            :
