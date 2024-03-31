@@ -1,12 +1,17 @@
 ---
 layout: posts
 title:  "GitHub pages template 01"
-# date:   # Format: 2024-02-22 15:40:26 +0800
-categories: GitHub pages template
+# date: 2024-03-31 23:10:00 +0800  # Format: 2024-02-22 15:40:26 +0800
+categories: 
+  - GitHub pages template
+tags:
+  - GitHub pages
 toc: true
 toc_label: "Table of contents"
 toc_icon: "columns"
 ---
+
+{% include toc title = "目錄" %}
 
 # Section 1
 
