@@ -11,8 +11,6 @@ toc_label: "Table of contents"
 toc_icon: "columns"
 ---
 
-{% include toc title = "目錄" %}
-
 # Section 1
 
 11111
