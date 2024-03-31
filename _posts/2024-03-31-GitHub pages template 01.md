@@ -3,10 +3,11 @@
 title:  "GitHub pages template 01"
 # date: 2024-03-31 23:10:00 +0800  # Format: 2024-02-22 15:40:26 +0800
 categories: 
-  - GitHub pages template
-tags:
   - GitHub pages
+tags:
+  - GitHub pages template
 toc: true
+toc_sticky: false
 toc_label: "Table of contents"
 toc_icon: "columns"
 ---
