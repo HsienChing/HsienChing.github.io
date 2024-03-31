@@ -8,7 +8,7 @@ group :jekyll_plugins do
     gem "jekyll-gist"
     gem "jekyll-feed"
     # gem "jemoji"
-    gem 'tzinfo', '~> 2.0'
-    gem "tzinfo-data"
+    # gem 'tzinfo', '~> 2.0'
+    # gem "tzinfo-data"
 end
 
