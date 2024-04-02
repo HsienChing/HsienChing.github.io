@@ -1,7 +1,7 @@
 ---
-title:  "GitHub pages template 01"
+title:  "GitHub pages post markdown file template 01"
 # date: 2024-03-31 23:10:00 +0800  # Format: 2024-02-22 15:40:26 +0800
-excerpt: "A template post markdown file for GitHub pages"
+excerpt: "A template of post markdown file for GitHub pages"
 categories: 
   - GitHub pages
 tags:
