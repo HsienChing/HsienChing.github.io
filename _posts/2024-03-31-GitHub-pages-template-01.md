@@ -1,7 +1,7 @@
 ---
-# layout: posts
 title:  "GitHub pages template 01"
 # date: 2024-03-31 23:10:00 +0800  # Format: 2024-02-22 15:40:26 +0800
+excerpt: "A template post markdown file for GitHub pages"
 categories: 
   - GitHub pages
 tags:
@@ -35,3 +35,8 @@ AAAAA
 ## Subsection 2-B
 
 BBBBB
+
+REF: <https://github.com/HsienChing/HsienChing.github.io/blob/master/_posts/2024-03-31-GitHub-pages-template-01.md>
+
+
+
