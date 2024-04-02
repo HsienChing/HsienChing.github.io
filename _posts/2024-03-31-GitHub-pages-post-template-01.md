@@ -36,7 +36,4 @@ AAAAA
 
 BBBBB
 
-REF: <https://github.com/HsienChing/HsienChing.github.io/blob/master/_posts/2024-03-31-GitHub-pages-template-01.md>
-
-
-
+REF: <https://github.com/HsienChing/HsienChing.github.io/blob/master/_posts/2024-03-31-GitHub-pages-post-template-01.md>
