@@ -16,24 +16,54 @@ toc_icon: "columns"
 
 11111
 
-## Subsection 1-A
+## Subsection 1-1
 
 AAAAA
 
-## Subsection 1-B
+### Subsubsection 1-1-1
 
 BBBBB
+
+## Subsection 1-2
+
+CCCCC
 
 # Section 2
 
-11111
+22222
 
-## Subsection 2-A
+## Subsection 2-1
 
-AAAAA
+Markdown offers support for code snippets:
 
-## Subsection 2-B
+```ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+```
 
-BBBBB
+## Subsection 2-2
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+## Subsection 2-3
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+
+
 
 Template link: <https://github.com/HsienChing/HsienChing.github.io/blob/master/_posts/2024-03-31-GitHub-pages-post-template-01.md>
