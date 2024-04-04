@@ -405,7 +405,7 @@ Wikipedia: Musical instrument classification
 2. 為什麼會討論到雙弦問題? 這是在討論曼陀鈴時，看到雙弦，產生好奇。就看看其他認識的弦樂器，有沒有"雙弦版"。資料一查，還有勒。
 
 # 備註
-本文首發於Blogger
+本文首發於Blogger  
 Link: <https://dream-and-creation.blogspot.com/2024/02/markdown.html>
 
 當時，除了討論這個主題外，同時也是測試blogger的Javascript外掛對於markdown檔案格式的支援程度。
