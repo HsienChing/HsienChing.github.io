@@ -406,7 +406,7 @@ Wikipedia: Musical instrument classification
 
 # 備註
 本文首發於Blogger
-Link: <http://localhost:4000/music/guitar/%E9%9F%B3%E6%A8%82/%E5%90%89%E4%BB%96/Double-String/>
+Link: <https://dream-and-creation.blogspot.com/2024/02/markdown.html>
 
 當時，除了討論這個主題外，同時也是測試blogger的Javascript外掛對於markdown檔案格式的支援程度。
 
