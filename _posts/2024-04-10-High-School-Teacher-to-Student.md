@@ -76,4 +76,4 @@ one point from you.
 That's  
 OK!"
 
-student: "..."
+Student: "..."
