@@ -37,43 +37,43 @@ tags:
 看成  
 "q"，  
 
-扣你
+扣你  
 一分，  
 
-這樣
+這樣  
 OK吧!"  
 
 學生: "..."
 
 ---
 
-High school teacher: 
-"You got a score of 
-100 in physics 
-this time.  
+High school teacher:  
+"You got a score of  
+100 in physics  
+this time.
 
-But 
-no one in our school 
-has passed 
-100 
-in the past years.  
+But  
+no one in our school  
+has passed  
+100  
+in the past years.
 
-This is 
-very strange.  
+This is  
+very strange.
 
-I think 
-it would be better 
-to change it to 99.  
+I think  
+it would be better  
+to change it to 99.
 
-Think of this 
-"9" 
-as 
-"q",  
+Think of this  
+"9"  
+as  
+"q",
 
-I'll deduct 
-one point from you.  
+I'll deduct  
+one point from you.
 
-That's 
-OK!"  
+That's  
+OK!"
 
 student: "..."
