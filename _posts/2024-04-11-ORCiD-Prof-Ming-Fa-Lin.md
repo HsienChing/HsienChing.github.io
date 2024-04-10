@@ -17,7 +17,7 @@ toc_icon: "columns"
 
 2023-09-07 星期四  
 
-在看"Energy Storage and Conversion Materials"這本書時，發現林明發教授的ORCiD連進去，是別人的帳號。  
+在看"Energy Storage and Conversion Materials"這本書時，發現林明發教授的ORCiD連進去，竟然是別人的帳號。  
 
 Book link: <https://doi.org/10.1201/9781003367215>  
 
