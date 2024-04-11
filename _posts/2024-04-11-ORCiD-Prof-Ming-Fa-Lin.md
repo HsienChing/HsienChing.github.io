@@ -21,10 +21,6 @@ toc_icon: "columns"
 
 Book link: <https://doi.org/10.1201/9781003367215>  
 
-跑到這個人的帳號去了。  
-Merlin Örencik  
-<https://orcid.org/0000-0002-6255-2068>  
-
 # 處理方式
 
 ## 寄信給Merlin Örencik
