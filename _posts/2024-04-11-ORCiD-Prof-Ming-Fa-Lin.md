@@ -23,12 +23,11 @@ Book link: <https://doi.org/10.1201/9781003367215>
 
 # 處理方式
 
-## 寄信給Merlin Örencik
+## 寄信給那個"別人的帳號"
 
-採取動作，從發表的文章中，找到他的e-mail。  
-REF: Int. J. Sports Sci. Coach 18 (2023) 717, M. Orencik  
+採取動作，從他ORCiD發表的文章中，找到他的e-mail。  
 
-寄信給Merlin Örencik。
+寄信給那個"別人"。
 
 但沒有獲得回應。
 
