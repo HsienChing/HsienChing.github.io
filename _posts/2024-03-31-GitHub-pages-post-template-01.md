@@ -20,31 +20,31 @@ A suggested way to use this file is to see the source file, and then copy-paste 
 
 Template link: <https://github.com/HsienChing/HsienChing.github.io/blob/master/_posts/2024-03-31-GitHub-pages-post-template-01.md>
 
-# 1. Section heading
+# 1. Section heading (1st-level heading)
 
 Normal text.
 
-## 1.1 Subsection heading
+## 1.1 Subsection heading (2nd-level heading)
 
 Normal text.
 
-### 1.1.1 Subsubsection heading
+### 1.1.1 Subsubsection heading (3rd-level heading)
 
 Normal text.
 
-#### 1.1.1.1 4-th level heading
+#### 1.1.1.1 4th-level heading
 
 Normal text.
 
-##### 1.1.1.1.1 5-th level heading
+##### 1.1.1.1.1 5th-level heading
 
 Normal text.
 
-###### 1.1.1.1.1.1 6-th level heading
+###### 1.1.1.1.1.1 6th-level heading
 
 Normal text.
 
-# 2. Text style
+# 2. Text styles
 
 ## 2.1 Markdown supported
 
@@ -61,9 +61,15 @@ ___Italic bold text___
 
 <u>Underline text</u>
 
+## 2.3 Quoating text
+
+Text that is not a quote
+
+> Text that is a quote
+
 # 3. List
 
-## 3.1 Bullet list
+## 3.1 Bullet lists
 
 Use `*`, `+`, or `-` to build bullet list.
 
@@ -83,7 +89,7 @@ Use `*`, `+`, or `-` to build bullet list.
 + Item
 - Item
 
-## 3.2 Numbered list
+## 3.2 Numbered lists
 
 Use `1.` to build numbered list.
 
@@ -116,6 +122,14 @@ Enter a sentence to terminate the continuing number.
     - ddd
     - eee
 
+## 3.4 Task lists
+
+To mark a task as complete, use [x].
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
 # 4. Code renderer
 
 Normal text.
@@ -144,9 +158,9 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-# 5. Hyperlink
+# 5. Hyperlinks
 
-## 5.1 Inline-style link
+## 5.1 Inline-style links
 
 ### 5.1.1 
 
@@ -162,7 +176,7 @@ This is [My GitHub pages](<https://hsienching.github.io/> "Title") inline link.
 
 [This link](<https://hsienching.github.io/>) has no title attribute.
 
-## 5.2 Reference-style link
+## 5.2 Reference-style links
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
@@ -170,9 +184,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-# 6. Figure
+# 6. Figures
 
-## 6.1 Bitmap figure
+## 6.1 Bitmap figures
+
+Supported file format: PNG, JPG, WebP (tested.)
 
 ### 6.1.1 Normal input by markdown
 
@@ -189,7 +205,9 @@ Change figure size to 50%.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_Guitar_labelled_english.jpg/1024px-Classical_Guitar_labelled_english.jpg){:height="50%" width="50%"}
 
-## 6.2 Vector figure
+## 6.2 Vector figures
+
+Supported file format: SVG (tested.)
 
 ### 6.2.1 Normal input by markdown
 
@@ -206,7 +224,7 @@ Change figure size to 50%.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/07/Earth_poster.svg){:height="50%" width="50%"}
 
-# 7. Table 
+# 7. Tables
 
 ## 7.1 Basic table format
 
@@ -226,7 +244,7 @@ The alignment can be adjusted by `:`.
 |  Data         |  Data         |  Data         |
 |  Data         |  Data         |  Data         |
 
-# 8. Separation line
+# 8. Separation lines
 
 The separation line can be built by three `*`, `-`, or `_`. Spaces can be inserted into the symbols.
 
@@ -252,7 +270,9 @@ This format cannot built the separation line.
 
 *-_  
 
-# 9. Footnote
+# 9. Footnotes
+
+The footnote function is very similar to reference function in LaTeX. It can be treated as reference function in blog.
 
 Footnote demo 1 [^1].  
 Footnote demo 1[^1].  
@@ -268,20 +288,57 @@ Footnote demo 3.[^FOOT_label]
 
 Please note that the footnotes will be put at the end of the post.
 
-# 10. LaTeX syntax
+Comment: The footnote function is very similar to the reference function in LaTeX. It can be treated as a reference function in the blog.
 
-To display equations written by LaTeX syntax, `MathJax` is required.
+# 10. Alerts (GitHub pages feature)
+
+Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information. On GitHub, they are displayed with distinctive colors and icons to indicate the significance of the content.
+
+There are 5 level alerts.
+Syntax:  
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+Here are the example figure for the rendered alerts:  
+![](https://docs.github.com/assets/cb-50447/mw-1440/images/help/writing/alerts-rendered.webp)
+
+REF: <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
+
+# 11. LaTeX syntax
+
+To display equations written by LaTeX syntax, `MathJax` is required.  
+
+`MathJax` is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all modern browsers. See <http://www.mathjax.org/> for additional details about MathJax, and <https://docs.mathjax.org> for the MathJax documentation.
+
+MathJax (Source Repository)  
+<https://github.com/mathjax/MathJax-src>
 
 Suggested Jekyll plugin of `MathJax`:  
-jekyll-spaceship: <https://github.com/jeffreytse/jekyll-spaceship>
+jekyll-spaceship: <https://github.com/jeffreytse/jekyll-spaceship>  
+NOTE: This plugin can be used in local site. However, for GitHub pages, a `build warning` appears. Warning message: "The github-pages gem can't satisfy your Gemfile's dependencies."
 
-## 10.1 Inline-style equation
+## 11.1 Inline-style equations
+
+
 
 This is an equation.
 ${f(x)=a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}}+\cdots$
 This is an equation.
 
-## 10.2 Display-style equation
+## 11.2 Display-style equations
 
 This is an equation.
 $$
