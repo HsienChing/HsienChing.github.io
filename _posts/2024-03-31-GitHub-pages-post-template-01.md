@@ -19,7 +19,7 @@ About this template file:
 
 This is a Markdown template file for GitHub pages.
 
-A suggested way to use this file is to see the source file, and then copy-paste the function you need. Try the code and modify the code in your style.
+Since some code wont' be rendered correctly (owing to the Jekyll environment). A suggested way to use this file is to see the source file, and then copy-paste the function you need. Try the code and modify the code in your style.
 
 Template link: <https://github.com/HsienChing/HsienChing.github.io/blob/master/_posts/2024-03-31-GitHub-pages-post-template-01.md>
 
