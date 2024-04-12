@@ -1,11 +1,13 @@
 ---
-title:  "GitHub pages post markdown file template 01"
+title: "GitHub Pages Post - Markdown File Template 01"
 date: 2024-03-31 23:30:00 +0800
-excerpt: "A markdown template file for GitHub pages"
+excerpt: "A Markdown template file for posts in GitHub pages"
 categories: 
   - GitHub pages
 tags:
   - GitHub pages template
+  - Markdown
+  - Post
 toc: true
 toc_sticky: false
 toc_label: "Table of contents"
@@ -14,7 +16,7 @@ toc_icon: "columns"
 
 About this template file:
 
-This is a markdown template file for GitHub pages.
+This is a Markdown template file for GitHub pages.
 
 A suggested way to use this file is to see the source file, and then copy-paste the function you need. Try the code and modify the code in your style.
 
@@ -66,6 +68,26 @@ ___Italic bold text___
 Text that is not a quote
 
 > Text that is a quote
+
+> Hello, World!
+>
+> Have a nice day!
+>
+> Hsien-Ching Chung
+
+## 2.4 Color text
+
+Markdown doesn't support color. We can use inline HTML inside Markdown to reach this goal.
+
+Syntax:  
+```html
+<span style="color:red">some *red* text</span>
+```
+
+Example:  
+<span style="color:red">some *red* text</span>  
+<span style="color:green">some *green* text</span>  
+<span style="color:blue">some *blue* text</span>  
 
 # 3. List
 
@@ -190,7 +212,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Supported file format: PNG, JPG, WebP (tested.)
 
-### 6.1.1 Normal input by markdown
+### 6.1.1 Normal input by Markdown
 
 The resolution of the original figure is 2,400 × 1,600 pixels.  
 (Source file: <https://commons.wikimedia.org/wiki/File:Classical_Guitar_labelled_english.jpg>)
@@ -199,7 +221,7 @@ The figure fit the column width.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_Guitar_labelled_english.jpg/1024px-Classical_Guitar_labelled_english.jpg)
 
-### 6.1.2 Change figure size by markdown
+### 6.1.2 Change figure size by Markdown
 
 Change figure size to 50%.
 
@@ -209,7 +231,7 @@ Change figure size to 50%.
 
 Supported file format: SVG (tested.)
 
-### 6.2.1 Normal input by markdown
+### 6.2.1 Normal input by Markdown
 
 Jekyll support SVG file (vector figure) rendering.  
 (Source file: <https://commons.wikimedia.org/wiki/File:Earth_poster.svg>)
@@ -218,7 +240,7 @@ The figure fit the column width.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/07/Earth_poster.svg)
 
-### 6.2.2 Change figure size by markdown
+### 6.2.2 Change figure size by Markdown
 
 Change figure size to 50%.
 
@@ -290,7 +312,36 @@ Please note that the footnotes will be put at the end of the post.
 
 Comment: The footnote function is very similar to the reference function in LaTeX. It can be treated as a reference function in the blog.
 
-# 10. Alerts (GitHub pages feature)
+# 10. Hiding content with comments
+
+To hide content from the rendered Markdown by placing the content in an HTML comment.
+
+```Markdown
+<!-- This content will not appear in the rendered Markdown -->
+```
+
+<!-- This content will not appear in the rendered Markdown -->
+
+# 11. Backslash escapes
+
+Markdown provides backslash escapes `\` for the following characters:
+
+```markdown
+\   backslash
+`   backtick
+*   asterisk
+_   underscore
+{}  curly braces
+[]  square brackets
+()  parentheses
+#   hash mark
++   plus sign
+-   minus sign (hyphen)
+.   dot
+!   exclamation mark
+```
+
+# 12. Alerts (GitHub pages feature)
 
 Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information. On GitHub, they are displayed with distinctive colors and icons to indicate the significance of the content.
 
@@ -317,7 +368,7 @@ Here are the example figure for the rendered alerts:
 
 REF: <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 
-# 11. LaTeX syntax
+# 13. LaTeX syntax
 
 To display equations written by LaTeX syntax, `MathJax` is required.  
 
@@ -330,15 +381,15 @@ Suggested Jekyll plugin of `MathJax`:
 jekyll-spaceship: <https://github.com/jeffreytse/jekyll-spaceship>  
 NOTE: This plugin can be used in local site. However, for GitHub pages, a `build warning` appears. Warning message: "The github-pages gem can't satisfy your Gemfile's dependencies."
 
-## 11.1 Inline-style equations
+## 13.1 Inline-style equations
 
-
+This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
 
 This is an equation.
 ${f(x)=a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}}+\cdots$
 This is an equation.
 
-## 11.2 Display-style equations
+## 13.2 Display-style equations
 
 This is an equation.
 $$
@@ -354,6 +405,30 @@ This is an equation.
 (a+b) \times c = a\times c + b \times c \\
 \tag{1.1}
 \end{equation}
+
+
+
+
+
+# About Markdown
+
+> Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is intended to be easy to read in its source code form. Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.
+> 
+> Wikipedia: Markdown  
+> <https://en.wikipedia.org/wiki/Markdown>
+
+Markdown logo:  
+![](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg){:height="30%" width="30%"}
+
+# Related links
+
+John Gruber - Markdown syntax  
+The Daring Fireball Company LLC.  
+<https://daringfireball.net/projects/markdown/syntax>
+
+
+
+
 
 
 
