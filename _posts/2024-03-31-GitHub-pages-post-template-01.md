@@ -796,7 +796,7 @@ Markdown logo:
 
 > Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
 > 
-> John Gruber
+> John Gruber  
 > Markdown syntax - The Daring Fireball Company LLC.  
 > <https://daringfireball.net/projects/markdown/syntax>
 
