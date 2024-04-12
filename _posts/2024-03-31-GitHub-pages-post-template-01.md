@@ -368,11 +368,11 @@ Here are the example figure for the rendered alerts:
 
 REF: <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 
-# 13. LaTeX syntax
+# 13. $LaTeX$ syntax
 
-To display equations written by LaTeX syntax, `MathJax` is required.  
+To display equations written by $LaTeX$ syntax, `MathJax` is required.  
 
-`MathJax` is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all modern browsers. See <http://www.mathjax.org/> for additional details about MathJax, and <https://docs.mathjax.org> for the MathJax documentation.
+`MathJax` is an open-source JavaScript display engine for $LaTeX$, MathML, and AsciiMath notation that works in all modern browsers. See <http://www.mathjax.org/> for additional details about MathJax, and <https://docs.mathjax.org> for the MathJax documentation.
 
 MathJax (Source Repository)  
 <https://github.com/mathjax/MathJax-src>
@@ -383,19 +383,20 @@ NOTE: This plugin can be used in local site. However, for GitHub pages, a `build
 
 ## 13.1 Inline-style equations
 
-This sentence uses `$` delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
+This sentence uses `$` delimiters to show $LaTeX$ math inline: $\sqrt{3x-1}+(1+x)^2$
 
-This is an equation.
-${f(x)=a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}}+\cdots$
-This is an equation.
+This is an equation,
+${f(x)=a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}}+\cdots$,
+where there is no label (tag).
 
 ## 13.2 Display-style equations
 
-This is an equation.
+This is an equation with label (tag).
 $$
 {f(x)=a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}}+\cdots \tag{1.1}
 $$
-This is an equation.
+
+This is an equation with label (tag).
 
 \begin{equation}
 (a+b) \times c = a\times c + b \times c \\
@@ -406,9 +407,12 @@ This is an equation.
 \tag{1.1}
 \end{equation}
 
+## 13.3 Issue discussion
 
+LaTeX math expressions can be rendered natively in Markdown on GitHub.  
+REF: <https://github.blog/2022-05-19-math-support-in-markdown/>
 
-
+However, in other platform (such as [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes)), we still require `MathJax`.
 
 # About Markdown
 
@@ -425,13 +429,6 @@ Markdown logo:
 John Gruber - Markdown syntax  
 The Daring Fireball Company LLC.  
 <https://daringfireball.net/projects/markdown/syntax>
-
-
-
-
-
-
-
 
 # Appendix: Markdown template file
 
