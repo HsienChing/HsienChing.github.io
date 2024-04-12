@@ -316,7 +316,7 @@ Comment: The footnote function is very similar to the reference function in LaTe
 
 To hide content from the rendered Markdown by placing the content in an HTML comment.
 
-```Markdown
+```markdown
 <!-- This content will not appear in the rendered Markdown -->
 ```
 
@@ -383,7 +383,7 @@ NOTE: This plugin can be used in local site. However, for GitHub pages, a `build
 
 ## 13.1 Inline-style equations
 
-This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+This sentence uses `$` delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
 
 This is an equation.
 ${f(x)=a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}}+\cdots$
