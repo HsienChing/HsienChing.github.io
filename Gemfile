@@ -13,5 +13,6 @@ group :jekyll_plugins do
     gem "jekyll-include-cache"
     # gem 'tzinfo', '~> 2.0'
     # gem "tzinfo-data"
+    gem 'jekyll-spaceship'
 end
 
