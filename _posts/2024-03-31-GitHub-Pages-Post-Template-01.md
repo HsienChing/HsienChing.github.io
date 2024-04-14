@@ -190,7 +190,7 @@ A single backtick in a code span: `` ` ``
 
 A backtick-delimited string in a code span: `` `foo` ``
 
-More detailed syntax about backtick (\`) can be found in the link.
+More detailed syntax about backtick (\`) can be found in the link.  
 <https://stackoverflow.com/questions/55586867/how-to-put-in-markdown-an-inline-code-block-that-only-contains-a-backtick-char>
 
 ## 2.5 Color text
@@ -396,6 +396,12 @@ Syntax:
 
     ```[specified language]  
     This is a code block.  
+    ```
+
+Syntax:
+
+    ```javascript  
+    console.log('Hello world');
     ```
 
 Result:
