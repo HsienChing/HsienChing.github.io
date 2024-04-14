@@ -11,31 +11,31 @@ categories:
 我爬著山，  
 在玉山。
 
-左邊
-是
+左邊  
+是  
 山壁，
 
-右邊
-是
+右邊  
+是  
 懸崖，
 
-前面
+前面  
 沒有人，
 
-後面
+後面  
 沒有人，
 
-手機通訊
-是
+手機通訊  
+是  
 零格，
  
 我在想  
-萬能的
-錢
+萬能的  
+錢  
 再多
 
-在這種地方
-要
+在這種地方  
+要  
 找誰去交易?
 
 去萬能!
@@ -57,7 +57,7 @@ There's no one
 in front of me,
 
 There's no one  
-behind,  
+behind,
 
 Cell phone communication  
 is  
