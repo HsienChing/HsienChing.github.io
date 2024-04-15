@@ -12,9 +12,11 @@ main:
   #   url: /sitemap/
   - title: "About"
     url: /about/
-  - title: "Posts"
+  - title: "☕️Support 🍵贊助"
+    url: /support/
+  - title: "🗓Posts"
     url: /year-archive/
-  - title: "Categories"
+  - title: "📂Categories"
     url: /categories/
-  - title: "Tags"
+  - title: "🏷Tags"
     url: /tags/
