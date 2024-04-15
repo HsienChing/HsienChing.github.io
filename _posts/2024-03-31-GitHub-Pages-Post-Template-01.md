@@ -134,7 +134,7 @@ Syntax:
 Result:  
 <u>Underline text</u>
 
-## 2.3 Quoating text
+## 2.3 Quote text
 
 Text that is not a quote.
 
@@ -208,6 +208,126 @@ Result:
 <span style="color:red">some *red* text</span>  
 <span style="color:green">some *green* text</span>  
 <span style="color:blue">some *blue* text</span>  
+
+## 2.6 Highlight text
+This isn't common, but some Markdown processors allow you to highlight text. 
+To highlight words, use two equal signs (==) before and after the words.
+
+Syntax:  
+```markdown
+I need to highlight these ==very important words==.
+```
+
+Result:  
+I need to highlight these ==very important words==.  
+
+NOTE: If we still see (==) around the highlight text, it means that the Markdown processors don't support the syntax.
+
+Or we can use HTML syntax to highlight text.
+
+Syntax:
+```html
+I need to highlight these <mark>very important words</mark>.
+```
+
+Result:  
+I need to highlight these <mark>very important words</mark>.
+
+## 2.7 Superscript text
+
+This isn't common, but some Markdown processors allow you to use superscript to position one or more characters slightly above the normal line of type. 
+To create a superscript, use one caret symbol (^) before and after the characters.
+
+Syntax:
+```markdown
+X^2^
+```
+
+Result:  
+X^2^
+
+NOTE: If we still see (^) around the highlight text, it means that the Markdown processors don't support the syntax.
+
+Or we can use HTML syntax to superscript text.
+
+Syntax:
+```html
+X<sup>2</sup>
+```
+
+Result:  
+X<sup>2</sup>
+
+Or we can use $LaTeX$ syntax to superscript text.
+
+Syntax:
+```markdown
+X$^2$
+```
+
+Result:  
+X$^2$
+
+## 2.8 Subscript  text
+This isn't common, but some Markdown processors allow you to use subscript to position one or more characters slightly above the normal line of type. 
+To create a subscript, use one tilde symbol (~) before and after the characters.
+
+Syntax:
+```markdown
+X~2~
+```
+
+Result:  
+X~2~
+
+NOTE: If we still see tildes (~) around the highlight text, it means that the Markdown processors don't support the syntax.
+
+Or we can use HTML syntax to subscript text.
+
+Syntax:
+```html
+X<sub>2</sub>
+```
+
+Result:  
+X<sub>2</sub>
+
+Or we can use $LaTeX$ syntax to subscript text.
+
+Syntax:
+```markdown
+X$_2$
+```
+
+Result:  
+X$_2$
+
+## 2.9 Emoji
+
+There are two ways to add emoji to Markdown files:  
+1. Copy and paste the emoji into your Markdown-formatted text.
+2. Use emoji shortcodes.
+
+### 2.9.1 Copy and paste emoji
+
+In most cases, you can simply copy an emoji from a source (e.g., `Emojipedia`) and paste it into your document. 
+Many Markdown applications will automatically display the emoji in the Markdown-formatted text. 
+The HTML and PDF files exported from the Markdown application should display the emoji normally.
+
+NOTE: If you're using a static site generator (such as GitHub Pages), make sure you encode HTML pages as UTF-8.
+
+###  2.9.2 Use emoji shortcodes
+
+Some Markdown applications allow you to insert emoji by typing emoji shortcodes. 
+These begin and end with a colon (:) and include the name of an emoji.
+
+Syntax:
+```markdown
+Hello World! :joy:
+```
+
+Result:  
+Hello World! 😂
 
 # 3. List
 
@@ -372,9 +492,9 @@ Result:
 
 NOTE: Regular Markdown syntax is not processed within code blocks, e.g., asterisks (\*) are just literal asterisks within a code block. This means it's also easy to use Markdown to write about Markdown's own syntax.
 
-## Pre-formatted code blocks (three backticks enclosure version)
+## Pre-formatted code blocks (fenced code blocks version)
 
-To create a pre-formatted code block, wrap the code with three backticks (```` ``` ````).
+To create a pre-formatted code block, wrap the code with three backticks (```` ``` ````) or three tildes (`~~~`). It also called "fenced code blocks."
 
 Syntax:
 
@@ -387,10 +507,21 @@ Result:
 console.log('Hello world');
 ```
 
-## 4.2 Syntax highlighting
+Syntax:
+
+    ~~~
+    This is a code block.  
+    ~~~
+
+Result:
+~~~
+console.log('Hello world');
+~~~
+
+## 4.2 Syntax highlighting in fenced code blocks
 
 Optionally, a language can be specified for a code block to enable syntax highlighting. 
-This can be done by appending the specified language to the starting three backticks (```` ``` ````).
+This can be done by appending the specified language to the starting three backticks (```` ``` ````) or three tildes (`~~~`).
 
 Syntax:
 
@@ -408,6 +539,17 @@ Result:
 ```javascript
 console.log('Hello world');
 ```
+
+Syntax:
+
+    ~~~javascript  
+    console.log('Hello world');
+    ~~~
+
+Result:
+~~~javascript
+console.log('Hello world');
+~~~
 
 # 5. Hyperlinks
 
@@ -717,34 +859,7 @@ _   underscore
 !   exclamation mark
 ```
 
-# 12. Alerts (GitHub Pages feature)
-
-Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information. On GitHub, they are displayed with distinctive colors and icons to indicate the significance of the content.
-
-There are 5 level alerts.
-Syntax:  
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-Here are the example figure for the rendered alerts:  
-![](https://docs.github.com/assets/cb-50447/mw-1440/images/help/writing/alerts-rendered.webp)
-
-REF: <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
-
-# 13. $LaTeX$ syntax
+# 12. $LaTeX$ syntax supported by MathJax
 
 To display equations written by $LaTeX$ syntax, `MathJax` is required.  
 
@@ -760,7 +875,7 @@ jekyll-spaceship: <https://github.com/jeffreytse/jekyll-spaceship>
 NOTE: This plugin can be used in local site. However, for GitHub Pages, a `build warning` appears.  
 Warning message: "The github-pages gem can't satisfy your Gemfile's dependencies."
 
-## 13.1 Inline-style equations
+## 12.1 Inline-style equations
 
 Syntax:
 ```
@@ -782,7 +897,7 @@ This is an equation,
 ${f(x)=a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}}+\cdots$,
 where there is no tag (label).
 
-## 13.2 Display-style equations
+## 12.2 Display-style equations
 
 This is an equation with tag (label).
 For narmal display, the $LaTeX$ equation is enclosed by `$$`.
@@ -850,12 +965,39 @@ $$
 \end{align}
 $$
 
-## 13.3 Issue discussion
+## 12.3 Issue discussion
 
 LaTeX math expressions can be rendered natively in Markdown on GitHub.  
 REF: <https://github.blog/2022-05-19-math-support-in-markdown/>
 
 However, in other platform (such as [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes)), we still require `MathJax`.
+
+# 13. Alerts (GitHub feature)
+
+Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information. On GitHub, they are displayed with distinctive colors and icons to indicate the significance of the content.
+
+There are 5 level alerts.
+Syntax:  
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+Here are the example figure for the rendered alerts:  
+![](https://docs.github.com/assets/cb-50447/mw-1440/images/help/writing/alerts-rendered.webp)
+
+REF: <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 
 # About Markdown
 
