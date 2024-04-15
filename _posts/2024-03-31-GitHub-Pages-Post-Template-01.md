@@ -302,33 +302,6 @@ X$_2$
 Result:  
 X$_2$
 
-## 2.9 Emoji
-
-There are two ways to add emoji to Markdown files:  
-1. Copy and paste the emoji into your Markdown-formatted text.
-2. Use emoji shortcodes.
-
-### 2.9.1 Copy and paste emoji
-
-In most cases, you can simply copy an emoji from a source (e.g., `Emojipedia`) and paste it into your document. 
-Many Markdown applications will automatically display the emoji in the Markdown-formatted text. 
-The HTML and PDF files exported from the Markdown application should display the emoji normally.
-
-NOTE: If you're using a static site generator (such as GitHub Pages), make sure you encode HTML pages as UTF-8.
-
-###  2.9.2 Use emoji shortcodes
-
-Some Markdown applications allow you to insert emoji by typing emoji shortcodes. 
-These begin and end with a colon (:) and include the name of an emoji.
-
-Syntax:
-```markdown
-Hello World! :joy:
-```
-
-Result:  
-Hello World! 😂
-
 # 3. List
 
 ## 3.1 Bullet lists
@@ -859,7 +832,35 @@ _   underscore
 !   exclamation mark
 ```
 
-# 12. $LaTeX$ syntax supported by MathJax
+# 12. Emoji
+
+There are two ways to add emoji to Markdown files:  
+1. Copy and paste the emoji into your Markdown-formatted text.
+2. Use emoji shortcodes.
+
+## 12.1 Copy and paste emoji
+
+In most cases, you can simply copy an emoji from a source (e.g., `Emojipedia`) and paste it into your document. 
+Many Markdown applications will automatically display the emoji in the Markdown-formatted text. 
+The HTML and PDF files exported from the Markdown application should display the emoji normally.
+
+NOTE: If you're using a static site generator (such as GitHub Pages), make sure you encode HTML pages as UTF-8.
+
+##  12.2 Use emoji shortcodes
+
+Some Markdown applications allow you to insert emoji by typing emoji shortcodes. 
+These begin and end with a colon (:) and include the name of an emoji.
+
+Syntax:
+```markdown
+Hello World! :joy:
+```
+
+Result:  
+Hello World! 😂
+
+
+# 13. $LaTeX$ syntax supported by MathJax
 
 To display equations written by $LaTeX$ syntax, `MathJax` is required.  
 
@@ -875,7 +876,7 @@ jekyll-spaceship: <https://github.com/jeffreytse/jekyll-spaceship>
 NOTE: This plugin can be used in local site. However, for GitHub Pages, a `build warning` appears.  
 Warning message: "The github-pages gem can't satisfy your Gemfile's dependencies."
 
-## 12.1 Inline-style equations
+## 13.1 Inline-style equations
 
 Syntax:
 ```
@@ -897,7 +898,7 @@ This is an equation,
 ${f(x)=a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}}+\cdots$,
 where there is no tag (label).
 
-## 12.2 Display-style equations
+## 13.2 Display-style equations
 
 This is an equation with tag (label).
 For narmal display, the $LaTeX$ equation is enclosed by `$$`.
@@ -965,14 +966,14 @@ $$
 \end{align}
 $$
 
-## 12.3 Issue discussion
+## 13.3 Issue discussion
 
 LaTeX math expressions can be rendered natively in Markdown on GitHub.  
 REF: <https://github.blog/2022-05-19-math-support-in-markdown/>
 
 However, in other platform (such as [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes)), we still require `MathJax`.
 
-# 13. Alerts (GitHub feature)
+# 14. Alerts (GitHub feature)
 
 Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information. On GitHub, they are displayed with distinctive colors and icons to indicate the significance of the content.
 
