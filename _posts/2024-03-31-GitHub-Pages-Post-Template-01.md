@@ -21,6 +21,13 @@ About this template file:
 
 This is a Markdown template file for GitHub Pages.
 
+A suggested way to use this file:  
+1. Search for the function you want.
+2. Copy and Paste the code you want to your Markdown file
+3. Fine-tuning the code to the style you like.
+
+Enjoy! ^_^
+
 # 1. Section heading (1st-level heading)
 
 Markdown supports two styles of headers, setext and atx.
@@ -42,7 +49,7 @@ This is an H2
 
 ## 1.2 Atx-style heading
 
-There are 6 levels of atx-style heading in Markdown as shown in this section.
+There are 6 levels of atx-style headings in Markdown as shown in this section.
 
 Syntax:  
 ```markdown
@@ -74,7 +81,7 @@ Normal text.
 
 ## 2.1 Markdown supported text syntax
 
-For italic text:
+### 2.1.1 For italic text
 
 Syntax:  
 ```markdown
@@ -86,7 +93,7 @@ Result:
 *Italic text*  
 _Italic text_  
 
-For bold text:
+### 2.1.2 For bold text
 
 Syntax:  
 ```markdown
@@ -98,7 +105,7 @@ Result:
 **Bold text**  
 __Bold text__
 
-For italic bold text:
+### 2.1.3 For italic bold text
 
 Syntax:  
 ```markdown
@@ -110,7 +117,7 @@ Result:
 ***Italic bold text***  
 ___Italic bold text___  
 
-For delete text:
+### 2.1.4 For delete (strikethrough) text
 
 Syntax:  
 ```markdown
@@ -120,7 +127,7 @@ Syntax:
 Result:  
 ~~Delete text~~
 
-## 2.2 HTML supported text syntax
+## 2.2 underline text (HTML syntax)
 
 Markdown doesn't support underline text.
 
@@ -136,10 +143,27 @@ Result:
 
 ## 2.3 Quote text
 
-Text that is not a quote.
+Markdown uses e-mail conventions for quoting blocks of text. 
+A block quotation is one or more paragraphs or other block elements (e.g., lists or headers), with each line preceded by a `>` character and a space.
 
+Syntax:
+```markdown
+> Text that is a quote.
+```
+
+Result:  
 > Text that is a quote.
 
+Syntax:
+```markdown
+> Hello, World!
+>
+> Have a nice day!
+>
+> Hsien-Ching Chung
+```
+
+Result:  
 > Hello, World!
 >
 > Have a nice day!
@@ -148,11 +172,37 @@ Text that is not a quote.
 
 Nested quote:
 
+Syntax:
+```markdown
 > Hello, World!
 >
 > > Have a nice day!
 > >
 > > Hsien-Ching Chung
+```
+
+Result:  
+> Hello, World!
+>
+> > Have a nice day!
+> >
+> > Hsien-Ching Chung
+
+Syntax:
+```markdown
+> Hello, World!
+>
+>> Have a nice day!
+>>
+>> Hsien-Ching Chung
+```
+
+Result:  
+> Hello, World!
+>
+>> Have a nice day!
+>>
+>> Hsien-Ching Chung
 
 ## 2.4 Code text
 
@@ -735,6 +785,7 @@ _____
 ```
 
 Result:  
+
 ***
 
 * * *
@@ -798,7 +849,7 @@ Footnote demo 3.[^FOOT_label]
 
 NOTE: The footnotes will be put at the end of the post.
 
-Comment: The footnote function is very similar to the reference function in LaTeX. It can be treated as a reference function in the blog.
+Comment: The footnote function is very similar to the reference function in $LaTeX$. It can be treated as a reference function in the blog.
 
 # 10. Hiding content with comments
 
@@ -815,7 +866,7 @@ That's right! You won't see the result, since it is hidden.
 
 # 11. Backslash escapes
 
-Markdown provides backslash escapes `\` for the following characters:
+Markdown provides backslash escapes (`\`) for the following characters:
 
 ```markdown
 \   backslash
