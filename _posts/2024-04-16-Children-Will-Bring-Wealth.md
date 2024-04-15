@@ -1,5 +1,5 @@
 ---
-title:  "孩子會帶財? <br> The Child Will Bring Wealth?"
+title:  "孩子會帶財? <br> Children Will Bring Wealth?"
 date: 2024-04-16 02:20:00 +0800
 excerpt: ""
 categories: 
@@ -101,7 +101,7 @@ categories:
 
 ---
 
-**The child will bring wealth!**
+**Children will bring wealth!**
 
 This is a term  
 used by  
@@ -110,7 +110,7 @@ to persuade
 young people  
 to have children.
 
-**The child will bring wealth?**
+**Children will bring wealth?**
 
 Children will  
 bring a pile of  
@@ -130,7 +130,7 @@ would not have
 the problem of  
 declining birth rate!
 
-**The child will bring wealth?**
+**Children will bring wealth?**
 
 Children will  
 reconstruct  
@@ -146,7 +146,7 @@ directly
 enter  
 the life!
 
-**The child will bring wealth?**
+**Children will bring wealth?**
 
 Pay attention  
 to who is  
@@ -171,7 +171,7 @@ Losers
 have  
 no voice!
 
-**The child will bring wealth?**
+**Children will bring wealth?**
 
 Maybe this  
 "wealth"  
