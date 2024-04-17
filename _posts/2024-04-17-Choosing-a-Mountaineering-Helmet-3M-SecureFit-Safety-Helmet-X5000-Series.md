@@ -73,11 +73,11 @@ toc_icon: "columns"
 
 ## 安規
 
-安規方面，X5000安全帽，符合
-1. ANSI/ISEA Z89.1-2014 (American national standard For industrial head protection，工業頭部保護，美國國家標準)
-2. EN 12492 (Mountaineering helmets standards，登山安全帽標準，歐盟標準)。具備 EN 12492 要求的衝擊及穿透測試等級。
-3. EN 397 (Industrial safety helmets standards，工業安全帽標準，歐盟標準)
-4. CNS 1336 (Industrial protective helmets，工業用防護頭盔標準，台灣標準)
+安規方面，X5000安全帽，符合多項標準:  
+1. **ANSI/ISEA Z89.1-2014**。American national standard For industrial head protection，工業頭部保護，美國國家標準。
+2. **EN 12492**。Mountaineering helmets standards，登山安全帽標準，歐盟標準。(具備 EN 12492 要求的衝擊及穿透測試等級。)
+3. **EN 397**。Industrial safety helmets standards，工業安全帽標準，歐盟標準。
+4. **CNS 1336**。Industrial protective helmets，工業用防護頭盔標準，台灣標準。
 
 單看安規，感覺不強。有香港網友直接拍影片實測。
 
@@ -198,14 +198,16 @@ REF:
 
 ## 重量問題
 
-功能性那麼強，那麼很可能就會在這個地方出現問題。
+功能性那麼強，那麼很可能就會在重量這個地方出現問題。
 
 美國跟台灣的官網就沒講重量，有問題歐!
 
 果然，技術文件中就提到重量為406克，換算成英制則為14.3盎司。
 (1盎司等於28.3495公克)
 
-跟一般登山品牌產品的5.5~13盎司，X5000安全帽就偏重了。
+跟一般登山品牌產品的5.5~13盎司，可見X5000安全帽就偏重了。
+
+同時也可以知道"輕量化"也是一般登山品牌追求的重點。
 
 ## 美觀?
 
@@ -221,7 +223,7 @@ REF:
 
 最後就是要到手。
 
-![](/assets/image/2024/20240416_100406.jpg)
+![](/assets/image/2024/2024-04-16-100406-3M-X5000.jpg)
 
 搞定!
 
