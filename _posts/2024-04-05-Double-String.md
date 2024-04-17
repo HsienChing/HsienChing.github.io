@@ -1,5 +1,5 @@
 ---
-title:  "[音樂] 曼陀林、烏克麗麗、吉他、魯特琴的 雙弦 (Double string) 複弦 討論"
+title: "[音樂] 曼陀林、烏克麗麗、吉他、魯特琴的 雙弦 (Double string) 複弦 討論"
 date: 2024-04-05 01:15:00 +0800
 excerpt: "主要討論一下，曼陀林、烏克麗麗、吉他、魯特琴的雙弦(Double string)標準調音。"
 categories: 
