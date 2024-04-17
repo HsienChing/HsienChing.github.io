@@ -97,7 +97,7 @@ Petzl: Understanding your helmet’s European certification
 
 外國網友針對幾款工業安全帽進行評比，X5000安全帽位列第一，當然這個第一只能參考。畢竟每個人的判斷標準不同。但至少是肯定X5000安全帽的品質。
 
-YouTube: 2023 Best Safety Helmet [Top 5 Safety Helmet For You]
+YouTube: 2023 Best Safety Helmet [Top 5 Safety Helmet For You]  
 <https://www.youtube.com/watch?v=_Alg7VX3kx0>
 
 REF:  
@@ -187,7 +187,7 @@ REF:
 
 ## 與一般登山品牌安全帽的差異性
 
-3M在他的官網有提出安全帽的特性，這些特性拉開了他與一般登山品牌的不同。
+3M在他的官網有提出安全帽的特性，這些特性拉開了他與一般登山品牌的不同。  
 <https://www.3m.com/3M/en_US/p/d/b5005066150/>
 
 1. **Pressure diffusion technology (壓力擴散技術)**。可有效降低前額20%的壓力。
@@ -259,21 +259,21 @@ YouTube: 登山客攀玉山遭落石擊中身亡 專家籲雨後也應配戴頭�
 
 ---
 
-Switchback Travel網站，找裝備。
+Switchback Travel網站，找裝備。  
 <https://www.switchbacktravel.com/>
 
 Switchback Travel網站的登山頭盔推薦  
 <https://www.switchbacktravel.com/best-climbing-helmets>
 
-OutdoorGearLab (會檔台灣跟中國的IP，需要用VPN)
+OutdoorGearLab (會檔台灣跟中國的IP，需要用VPN)  
 <https://www.outdoorgearlab.com/>
 
 ---
 
 YouTube: 【極限撞擊測試】幾十蚊同幾百蚊安全帽有咩分別 ？雞蛋妹挑機話你知！  
-<https://www.youtube.com/watch?v=9ACXtw7wyVM>
-介紹3M™ SECUREFIT™ X5000系列透氣安全帽，符合歐盟標準EN12492。
-歐盟標準EN12492可承受5公斤重物自200公分高自由落下。
+<https://www.youtube.com/watch?v=9ACXtw7wyVM>  
+介紹3M™ SECUREFIT™ X5000系列透氣安全帽，符合歐盟標準EN12492。  
+歐盟標準EN12492可承受5公斤重物自200公分高自由落下。  
 而一般安全帽的歐盟標準EN397，可承受5公斤重物自100公分高自由落下。
 
 
@@ -283,9 +283,9 @@ YouTube: 【極限撞擊測試】幾十蚊同幾百蚊安全帽有咩分別 ？�
 3M台灣官網: 3M™ SecureFit™ 安全帽X5000系列  
 <https://www.3m.com.tw/3M/zh_TW/p/d/b5005066150/>
 
-3M美國官網: 3M™ SecureFit™ X5000 Series Safety Helmets
-<https://www.3m.com/3M/en_US/p/d/b5005066150/>
-3M美國官網的介紹明顯，資訊量大過3M台灣官網太多。要看就看這個。
+3M美國官網: 3M™ SecureFit™ X5000 Series Safety Helmets  
+<https://www.3m.com/3M/en_US/p/d/b5005066150/>  
+3M美國官網的介紹明顯，資訊量大過3M台灣官網太多。要看就看這個。  
 例如: 不同顏色、不同細節的安全帽型號對照表。
 
 YouTube: 3M™ SecureFit™ Safety Helmet Video Construction  
@@ -299,7 +299,7 @@ YouTube: 3M™ SecureFit™ Safety Helmet X5000 Series
 <https://www.youtube.com/watch?v=wFd8frKwBEM>  
 介紹3M™ SecureFit™ Safety Helmet X5000 Series的各部位功能。
 
-YouTube: 2023 Best Safety Helmet [Top 5 Safety Helmet For You]
+YouTube: 2023 Best Safety Helmet [Top 5 Safety Helmet For You]  
 <https://www.youtube.com/watch?v=_Alg7VX3kx0>
 
 1. 3M X5000 https://amzn.to/3mth5Xx
@@ -308,8 +308,8 @@ YouTube: 2023 Best Safety Helmet [Top 5 Safety Helmet For You]
 4. MSA V-Gard https://amzn.to/3GFCaEN
 5. Kask Super Plasma https://amzn.to/3GIjhBb
 
-YouTube: 🧰 Top 5 Best Safety Helmets for Construction | Helmets review
-<https://www.youtube.com/watch?v=8ARSHS_Ne5w>
+YouTube: 🧰 Top 5 Best Safety Helmets for Construction | Helmets review  
+<https://www.youtube.com/watch?v=8ARSHS_Ne5w>  
 介紹建築用安全帽。
 
 1. SHK-1 VENTED 
@@ -321,11 +321,11 @@ YouTube: 🧰 Top 5 Best Safety Helmets for Construction | Helmets review
 ---
 
 YouTube: BEST CLIMBING HELMETS: 7 Climbing Helmets (2023 Buying Guide)  
-<https://www.youtube.com/watch?v=kXeIoYUnT3c>
-登山頭盔挑選重點
-Comfort
-Ventilation
-Weight
+<https://www.youtube.com/watch?v=kXeIoYUnT3c>  
+登山頭盔挑選重點  
+Comfort  
+Ventilation  
+Weight  
 
 1. Black Diamond Vision Climbing Helmet
 2. Petzl Sirocco Climbing Helmet
@@ -338,7 +338,7 @@ Weight
 ---
 
 YouTube: 登山》三條魚百寶袋 詹喬愉登山背包大搜密  
-<https://www.youtube.com/watch?v=G8uic6q7exM>
+<https://www.youtube.com/watch?v=G8uic6q7exM>  
 本片岩盔只出現一下，但有介紹一些其他裝備。
 
 YouTube: 買錯最貴！！我們是如何認識自己，買東西不踩雷！近期使用滿意裝備分享＋買過最後悔的戶外裝備......ft. Surfshark VPN  
