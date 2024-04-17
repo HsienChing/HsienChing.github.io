@@ -1,5 +1,5 @@
 ---
-title:  "綠色跑車 <br> Green Sports Car"
+title: "綠色跑車 <br> Green Sports Car"
 date: 2024-04-08 22:20:00 +0800
 excerpt: ""
 categories: 
