@@ -81,7 +81,7 @@ YouTube: 登山客攀玉山遭落石擊中身亡 專家籲雨後也應配戴頭�
 ## 安規
 
 安規方面，X5000安全帽，符合多項標準:  
-1. **ANSI/ISEA Z89.1-2014**。American national standard For industrial head protection，工業頭部保護，美國國家標準。
+1. **ANSI/ISEA Z89.1-2014, Type I, Class C**。American national standard For industrial head protection，工業頭部保護，美國國家標準。
 2. **EN 12492**。Mountaineering helmets standards，登山安全帽標準，歐盟標準。(具備 EN 12492 要求的衝擊及穿透測試等級。)
 3. **EN 397**。Industrial safety helmets standards，工業安全帽標準，歐盟標準。
 4. **CNS 1336**。Industrial protective helmets，工業用防護頭盔標準，台灣標準。
