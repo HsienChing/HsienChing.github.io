@@ -26,6 +26,13 @@ toc_icon: "columns"
 
 那就要開始做功課了。
 
+REF:  
+YouTube: 玉山最後一哩路 長碎石坡 戴岩盔防落石｜TVBS新聞 @TVBSNEWS01  
+<https://www.youtube.com/watch?v=2iPCON8ypHw>
+
+YouTube: 登山客攀玉山遭落石擊中身亡 專家籲雨後也應配戴頭盔｜20230530 公視晚間新聞  
+<https://www.youtube.com/watch?v=k-gHY0hBSmQ>
+
 # 挑選登山頭盔/岩盔/登山安全帽
 
 2024-04-15 星期一
