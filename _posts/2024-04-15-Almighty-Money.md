@@ -1,5 +1,5 @@
 ---
-title:  "錢很萬能?! <br> Almighty Money?!"
+title: "錢很萬能?! <br> Almighty Money?!"
 date: 2024-04-15 00:05:00 +0800
 excerpt: ""
 categories: 
