@@ -1,5 +1,5 @@
 ---
-title:  "[林明發] 關於林明發特聘教授的ORCiD"
+title: "[林明發] 關於林明發特聘教授的ORCiD"
 date: 2024-04-11 00:35:00 +0800
 excerpt: ""
 categories: 
