@@ -1,9 +1,9 @@
 ---
-title: "那些年，我被拒絕的故事 4 <br> The Story of My Rejection in Those Years. 4"
+title: "那些年，我被拒絕的故事 4 <br> The Story of My Rejections in Those Years. 4"
 date: 2024-04-21 15:30:00 +0800
 excerpt: ""
 categories: 
-  - The story of my rejection in those years.
+  - The story of my rejections in those years.
   - 那些年，我被拒絕的故事
 # tags:
 # toc: true
