@@ -408,10 +408,10 @@ Wikipedia: Musical instrument classification
 本文首發於Blogger  
 Link: <https://dream-and-creation.blogspot.com/2024/02/markdown.html>
 
-當時，除了討論這個主題外，同時也是測試blogger的Javascript外掛對於markdown檔案格式的支援程度。
+當時，除了討論這個主題外，同時也是測試Blogger的Javascript外掛對於Markdown檔案格式的支援程度。
 
-發到這個GitHub pages的靜態網頁上，也是為了測試對於markdown檔案格式的支援程度。
+發到這個GitHub Pages的靜態網頁上，也是為了測試對於Markdown檔案格式的支援程度。
 
-當然，GitHub pages原生就是支援markdown檔案格式，因此他的網頁版面呈現狀況會好很多。也會自動生成目錄。
+當然，GitHub Pages原生就是支援Markdown檔案格式，因此他的網頁版面呈現狀況會好很多。也會自動生成目錄。
 
-未來，如果該Po文有修正，將會以GitHub pages上的版本為主。
+未來，如果該Po文有修正，將會以GitHub Pages上的版本為主。
