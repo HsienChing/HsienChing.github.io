@@ -1,5 +1,5 @@
 ---
-title: "那些年，我被拒絕的故事 1 <br> The story of my rejection in those years. 1"
+title: "那些年，我被拒絕的故事 1 <br> The Story of My Rejection in Those Years. 1"
 date: 2024-04-18 04:10:00 +0800
 excerpt: ""
 categories: 
