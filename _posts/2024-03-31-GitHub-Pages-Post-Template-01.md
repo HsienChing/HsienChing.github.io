@@ -594,9 +594,9 @@ Link: <https://hsienching.github.io/>
 Result:  
 Link: <https://hsienching.github.io/>
 
-### 5.1.2 Use syntax `![Alt name](<URL> "Title")`
+### 5.1.2 Use syntax `[Alt name](<URL> "Title")`
 
-Use the syntax `![Alt name](<URL> "Title")` to show figures.
+Use the syntax `[Alt name](<URL> "Title")` to show links.
 
 Syntax:
 ```markdown

@@ -30,14 +30,11 @@ PS: 發哥講過的名言不少，突然要回憶，反而頭腦空了。總之�
 
 # 相關Po文
 
-[教授名言] 人一生通常至少要換三次工作!
-<https://hsienching.github.io/professor%20talk/%E6%95%99%E6%8E%88%E5%90%8D%E8%A8%80/Professor-Talk-03/>
+[[教授名言] 人一生通常至少要換三次工作!](<https://hsienching.github.io/2024/04/06/Professor-Talk-03/>)
 
-[教授名言] 物理系的課，通常要修三次。第一次是修符號，第二次是修公式，第三次才是看物理。  
-<https://hsienching.github.io/professor%20talk/%E6%95%99%E6%8E%88%E5%90%8D%E8%A8%80/Professor-Talk-02/>
+[[教授名言] 物理系的課，通常要修三次。第一次是修符號，第二次是修公式，第三次才是看物理。](<https://hsienching.github.io/2024/04/04/Professor-Talk-02/>)
 
-[教授名言] 如果你很認真念，都還記不住的話。那去睡個覺，明天起來就會懂一點了。我都是今天睡一覺，明天就會了。  
-<https://hsienching.github.io/professor%20talk/%E6%95%99%E6%8E%88%E5%90%8D%E8%A8%80/Professor-Talk-01/>
+[[教授名言] 如果你很認真念，都還記不住的話。那去睡個覺，明天起來就會懂一點了。我都是今天睡一覺，明天就會了。](<https://hsienching.github.io/2024/04/03/Professor-Talk-01/>)
 
 # 相關連結
 

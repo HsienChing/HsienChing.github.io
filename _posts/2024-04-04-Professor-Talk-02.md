@@ -26,8 +26,8 @@ tags:
 
 # 相關Po文
 
-[教授名言] 如果你很認真念，都還記不住的話。那去睡個覺，明天起來就會懂一點了。我都是今天睡一覺，明天就會了。  
-<https://hsienching.github.io/professor%20talk/%E6%95%99%E6%8E%88%E5%90%8D%E8%A8%80/Professor-Talk-01/>
+[[教授名言] 如果你很認真念，都還記不住的話。那去睡個覺，明天起來就會懂一點了。我都是今天睡一覺，明天就會了。](<https://hsienching.github.io/2024/04/03/Professor-Talk-01/>)
+
 
 # 相關連結
 
