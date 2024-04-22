@@ -1,5 +1,5 @@
 ---
-title: "高中老師對學生 <br> High school teacher to student"
+title: "高中老師對學生 <br> High School Teacher to Student"
 date: 2024-04-10 10:25:00 +0800
 excerpt: ""
 categories: 
