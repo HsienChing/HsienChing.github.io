@@ -1,7 +1,7 @@
 ---
 title: "[拆除腦中的炸彈] 高斯發明複數? <br> [Defuse the Bomb in your Brain] Did Gauss Invent Complex numbers?"
 date: 2024-04-23 03:55:00 +0800
-# excerpt: ""
+excerpt: ""
 categories: 
   - Study
   - 學習
