@@ -720,6 +720,43 @@ Where `id` is the name of a defined figure reference (label). Figure references 
 
 NOTE: As of this writing, Markdown has no syntax for specifying the dimensions of an figure; if this is important to you, you can simply use regular HTML `<img>` tags.
 
+## 6.3 Figure captions
+
+Markdown does not support figure captions. 
+Please use HTML syntax to overcome the issue.
+
+Syntax:
+```html
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_Guitar_labelled_english.jpg/1024px-Classical_Guitar_labelled_english.jpg" alt="" style="width:70%">
+  <figcaption>This is figure caption.</figcaption>
+</figure>
+```
+
+Result:  
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_Guitar_labelled_english.jpg/1024px-Classical_Guitar_labelled_english.jpg" alt="" style="width:70%">
+  <figcaption>This is figure caption.</figcaption>
+</figure>
+
+Syntax:
+```html
+<figure>
+<center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_Guitar_labelled_english.jpg/1024px-Classical_Guitar_labelled_english.jpg" alt="" style="width:70%">
+  <figcaption>This is figure caption.</figcaption>
+</center>
+</figure>
+```
+
+Result:  
+<figure>
+<center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Classical_Guitar_labelled_english.jpg/1024px-Classical_Guitar_labelled_english.jpg" alt="" style="width:70%">
+  <figcaption>This is figure caption.</figcaption>
+</center>
+</figure>
+
 # 7. Tables
 
 ## 7.1 Basic table format
