@@ -48,7 +48,7 @@ toc_icon: "columns"
 
 <figure>
 <center>
-  <img src="/assets/image/2024/20240420_172950.jpg" alt="" style="width:70%">
+  <img src="/assets/image/2024/20240420_172950.jpg" alt="" style="width:90%">
   <figcaption>鍾獻慶於天池山莊 (2024-04-20)。</figcaption>
 </center>
 </figure>
@@ -71,7 +71,7 @@ toc_icon: "columns"
 
 <figure>
 <center>
-  <img src="/assets/image/2024/20240420_192126.jpg" alt="" style="width:70%">
+  <img src="/assets/image/2024/20240420_192126.jpg" alt="" style="width:90%">
   <figcaption>伍元和老師於天池山莊演講 (2024-04-20)。</figcaption>
 </center>
 </figure>
