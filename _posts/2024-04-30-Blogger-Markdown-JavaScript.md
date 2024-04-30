@@ -1,6 +1,6 @@
 ---
 title: "在blogger上使用Markdown，並貼上漂亮code的方法。但並不是很好用。"
-date: 2024-0-30 10:10:00 +0800
+date: 2024-04-30 10:35:00 +0800
 excerpt: "尋找在blogger上使用Markdown，並貼上漂亮code的方法。測試完後，發現並不是很好用。要好好貼程式碼，還是來GitHub吧! ^_^"
 categories:
   - Blogger
