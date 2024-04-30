@@ -1,7 +1,7 @@
 ---
 title: "關於林明發特聘教授的英文維基百科"
 date: 2024-04-29 10:10:00 +0800
-excerpt: ""
+excerpt: "分享一下獻慶幫指導教授林明發(發哥)，建立英文維基百科文本並投稿成功的過程。"
 categories: 
   - Professor
   - 教授
@@ -16,7 +16,7 @@ toc_label: "Table of contents"
 toc_icon: "columns"
 ---
 
-這裡分享一下獻慶幫指導教授林明發(發哥)，建立英文維基百科的過程。
+這裡分享一下獻慶幫指導教授林明發(發哥)，建立英文維基百科文本並投稿成功的過程。
 
 由於發哥非常低調，也不像其他教授會寫一些簡短的CV放在期刊論文用(例如: IEEE期刊上常看到的作者介紹)。當時為了發表[奈米石墨帶的回顧文章](<https://doi.org/10.1039%2FC5CP06533J>)，獻慶特地去幫發哥寫了一個通用的小介紹，用來放在論文上。後來研究室其他文章或書籍中的介紹，大致上也採用這個版本。
 
@@ -56,6 +56,8 @@ toc_icon: "columns"
 
 前前後後，資料大概準備將近兩個月。
 
+使用這種格式的方式，是基於系統化整理資料，容易在小區塊的架構下，去把資料整理好。也方便後續進行文章撰寫。
+
 # 將資料寫成英文版維基百科格式
 
 英文維基百科有自己的技術語言跟書寫習慣。
@@ -76,7 +78,7 @@ toc_icon: "columns"
 
 投稿完後，原本稿件頁面的畫面上頭會顯示一個黃色方框，表示等候審稿中，目前共有2411件等候審稿(這個數字不是定值，常常會跳到不同的數字)，大約需要兩個月的時間。要注意維基百科的審稿並沒有按照順序來，所以不見得會兩個月就會正常審到。
 
-> Review waiting, please be patient.
+> **Review waiting, please be patient.**  
 > This may take 2 months or more, since drafts are reviewed in no specific order. There are 2,411 pending submissions waiting for review.
 >
 > * If the submission is **accepted**, then this page will be moved into the article space.
@@ -86,7 +88,7 @@ toc_icon: "columns"
 <figure>
 <center>
   <img src="/assets/image/2024/2024-04-17-Submitting-to-Wikipedia.jpg" alt="" style="width:90%">
-  <figcaption>投稿完後，原本稿件頁面的畫面上頭會顯示一個顏色方塊，等候審稿中，目前共有2411件等候審稿，大約需要兩個月的時間。</figcaption>
+  <figcaption>投稿完後，原本稿件頁面的畫面上頭會顯示一個淺黃色方塊，等候審稿中，目前共有2411件等候審稿，大約需要兩個月的時間。</figcaption>
 </center>
 </figure>
 
@@ -122,14 +124,14 @@ Draft:Ming-Fa Lin
 <figure>
 <center>
   <img src="/assets/image/2024/User-contributions-for-Hsienching-2024-04-26.jpg" alt="" style="width:90%">
-  <figcaption>作者使用者頁面，完整審稿流程截圖。 (截圖日期: 2024-04-26)。</figcaption>
+  <figcaption>英文維基百科作者使用者頁面，完整審稿流程截圖。 (截圖日期: 2024-04-26)。</figcaption>
 </center>
 </figure>
 
 <figure>
 <center>
   <img src="/assets/image/2024/Ming-Fa-Lin-Revision-History-2024-04-27.jpg" alt="" style="width:90%">
-  <figcaption>`Ming-Fa Lin`文章頁面，完整審稿流程截圖。 (截圖日期: 2024-04-27)。</figcaption>
+  <figcaption>英文維基百科"Ming-Fa Lin"文章頁面，完整審稿流程截圖。 (截圖日期: 2024-04-27)。</figcaption>
 </center>
 </figure>
 
@@ -140,7 +142,7 @@ Draft:Ming-Fa Lin
 <figure>
 <center>
   <img src="/assets/image/2024/Wikipedia-Article-Ming-Fa-Lin-Accepted-2024-04-25.jpg" alt="" style="width:90%">
-  <figcaption>作者使用者頁面，出現綠色方框，裡面的文字是通知投稿成功。</figcaption>
+  <figcaption>作者使用者頁面，出現淺綠色方框，裡面的文字是通知投稿成功。</figcaption>
 </center>
 </figure>
 
@@ -175,6 +177,7 @@ Wikipedia: [Category:21st-century Taiwanese scientists](<https://en.wikipedia.or
 5. 人生在世，資源有限，能幫的不多。可以做到的事情，就盡力吧!
 6. 現在在英文維基打還沒完全打完`Ming-Fa Lin`全名，就會跳出發哥的查詢結果，爽!
 7. 也許在未來，發哥的小朋友，在尋找發哥的生命軌跡時，他的維基百科是另一個起點。
+8. 發哥有太多故事，但有許多東西，是無法寫上維基百科。很多人也許會覺得發哥還有更多故事，但也要找得到佐證資料，找不到就不算了，很有可能會被當作"小說"。維基百科不會放任正是條目上，放小說。
 
 > 發哥留下自己存在的軌跡，我相信他的學生們，未來也會有自己的故事!
 >
