@@ -101,7 +101,8 @@ toc_icon: "columns"
 
 審稿時的文章標題跟連結:  
 Draft:Ming-Fa Lin  
-<https://en.wikipedia.org/wiki/Draft:Ming-Fa_Lin>
+<https://en.wikipedia.org/wiki/Draft:Ming-Fa_Lin>  
+(由於該文章已經被接受成為正式文章，所以該連結會直接連接到正式文章，目前已經看不到`Draft:`字樣。)
 
 若審稿人正在進行審稿，則該草稿上面會顯示淺藍色方框，表示正在審稿中，請勿更動該稿件，以免多人同時修改，造成衝突。
 

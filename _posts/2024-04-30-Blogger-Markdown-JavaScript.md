@@ -1,7 +1,7 @@
 ---
-title: "在blogger上使用Markdown，並貼上漂亮code的方法。但並不是很好用。"
+title: "在Blogger上使用Markdown語法，並貼上漂亮code的方法。但並不是很好用。"
 date: 2024-04-30 10:35:00 +0800
-excerpt: "尋找在blogger上使用Markdown，並貼上漂亮code的方法。測試完後，發現並不是很好用。要好好貼程式碼，還是來GitHub吧! ^_^"
+excerpt: "尋找在Blogger上使用Markdown語法，並貼上漂亮code的方法。測試完後，發現並不是很好用。要好好貼程式碼，還是來GitHub吧! ^_^"
 categories:
   - Blogger
 tags:
@@ -39,7 +39,7 @@ REF: 在 Blogger 中使用 Markdown
 
 # 轉換原理
 
-要在 blogger 上使用 Markdown 其實很簡單，主要概念是用 JavaScript 將 Markdown 的文章內容抓出來，然後用網路上的 JavaScript 函式庫 showdown 將 Markdown 文章轉為 html ，然後再更新回去。
+要在 Blogger 上使用 Markdown 其實很簡單，主要概念是用 JavaScript 將 Markdown 的文章內容抓出來，然後用網路上的 JavaScript 函式庫 showdown 將 Markdown 文章轉為 html ，然後再更新回去。
 
 程式相當簡單，接著在寫 blog 時只需要注意兩件事:
 
@@ -87,7 +87,7 @@ Array.prototype.forEach.call(posts, function(el, i) {
 
 獻慶在自己的Blogger上使用該JavaScript，讓Blogger可支援Markdown格式。
 
-範例Po文在這裡，該Po文使用Markdown語法進行寫作。
+範例Po文在這裡，該Po文使用Markdown語法進行寫作。  
 [[音樂] 曼陀林、烏克麗麗、吉他、魯特琴的 雙弦 (Double string) 複弦 討論](<https://dream-and-creation.blogspot.com/2024/02/Markdown.html>)
 
 # 感想
