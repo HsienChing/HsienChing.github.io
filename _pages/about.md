@@ -15,10 +15,10 @@ last_modified_at: 2024-05-02 17:30:00 +0800
 -->
 
 ## Expertise Keywords
-### Industry  
+### Industry
 Lithium-ion battery, secondary battery, repurposing battery, energy storage system, data analysis, energy management system.
 
-### Science  
+### Science
 graphene, carbon-related materials, low-dimensional materials.
 
 ## Education
@@ -31,7 +31,7 @@ graphene, carbon-related materials, low-dimensional materials.
 - Developed off-grid solar energy storage system (ESS).
 - Developed energy management system (EMS).
 
-Past Work Experience: 
+Past Work Experience:
 [Please see ORCiD](https://orcid.org/0000-0001-9364-8858)
 
 ## Current Projects
