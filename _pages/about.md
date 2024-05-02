@@ -2,9 +2,11 @@
 permalink: /about/
 title: "About Dr. Hsien-Ching Chung"
 # excerpt: "Some words."
-last_modified_at: 2024-04-01 00:40:00 +0800 
+last_modified_at: 2024-05-02 17:30:00 +0800 
 # toc: true
 ---
+
+> I'm an ordinary person with some dreams. I'll achieve my dreams step by step.
 
 # Physics, Researcher, Engineer
 
@@ -20,9 +22,9 @@ Lithium-ion battery, secondary battery, repurposing battery, energy storage syst
 graphene, carbon-related materials, low-dimensional materials.
 
 ## Education
-- Ph. D., Physics | National Cheng Kung University (_Jul. 2011_)								       		
-- M. S., Physics	| National Cheng Kung University (_Jun. 2006_)	 			        		
-- B. S., Physics | National Cheng Kung University (_Jun. 2003_)
+- Ph. D., Physics | National Cheng Kung University (Jul. 2011).
+- M. S., Physics | National Cheng Kung University (Jun. 2006).
+- B. S., Physics | National Cheng Kung University (Jun. 2003).
 
 ## Current Position
 **RD Manager @ Super Double Power Technology Co., Ltd., Taiwan (_Feb. 2020 - Present_)**
