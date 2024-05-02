@@ -11,6 +11,7 @@ tags:
   - Adobe
   - Premiere
   - Nvidia
+  - CPU
   - GPU
 # toc: true
 # toc_sticky: false

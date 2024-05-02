@@ -10,6 +10,8 @@ tags:
   - 處理問題
   - Wikipedia
   - 維基百科
+  - Ming-Fa Lin
+  - 林明發
 toc: true
 toc_sticky: false
 toc_label: "Table of contents"

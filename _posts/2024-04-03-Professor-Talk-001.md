@@ -1,5 +1,5 @@
 ---
-title: "[教授名言] 如果你很認真念，都還記不住的話。那去睡個覺，明天起來就會懂一點了。我都是今天睡一覺，明天就會了。"
+title: "[教授名言001] 如果你很認真念，都還記不住的話。那去睡個覺，明天起來就會懂一點了。我都是今天睡一覺，明天就會了。"
 date: 2024-04-03 00:03:00 +0800
 excerpt: ""
 categories: 
@@ -8,6 +8,8 @@ categories:
 tags:
   - Quote
   - 名言
+  - Jenn-Shyong Hwang
+  - 黃正雄
 # toc: true
 # toc_sticky: false
 # toc_label: "Table of contents"

@@ -1,5 +1,5 @@
 ---
-title: "[教授名言] 你以為人都不會變嗎!"
+title: "[教授名言005] 你以為人都不會變嗎!"
 date: 2024-04-25 02:25:00 +0800
 excerpt: ""
 categories: 
@@ -8,6 +8,8 @@ categories:
 tags:
   - Quote
   - 名言
+  - Ming-Fa Lin
+  - 林明發
 ---
 
 > 你以為人都不會變嗎!
@@ -24,15 +26,17 @@ tags:
 
 # 相關Po文
 
-[[教授名言] 好好活著! 對社會有貢獻!](<https://hsienching.github.io/2024/04/07/Professor-Talk-004/>)
+[[教授名言004] 好好活著! 對社會有貢獻!](<https://hsienching.github.io/2024/04/07/Professor-Talk-004/>)
 
-[[教授名言] 人一生通常至少要換三次工作!](<https://hsienching.github.io/2024/04/06/Professor-Talk-003/>)
+[[教授名言003] 人一生通常至少要換三次工作!](<https://hsienching.github.io/2024/04/06/Professor-Talk-003/>)
 
-[[教授名言] 物理系的課，通常要修三次。第一次是修符號，第二次是修公式，第三次才是看物理。](<https://hsienching.github.io/2024/04/04/Professor-Talk-002/>)
+[[教授名言002] 物理系的課，通常要修三次。第一次是修符號，第二次是修公式，第三次才是看物理。](<https://hsienching.github.io/2024/04/04/Professor-Talk-002/>)
 
-[[教授名言] 如果你很認真念，都還記不住的話。那去睡個覺，明天起來就會懂一點了。我都是今天睡一覺，明天就會了。](<https://hsienching.github.io/2024/04/03/Professor-Talk-001/>)
+[[教授名言001] 如果你很認真念，都還記不住的話。那去睡個覺，明天起來就會懂一點了。我都是今天睡一覺，明天就會了。](<https://hsienching.github.io/2024/04/03/Professor-Talk-001/>)
 
 # 相關連結
+
+Wikipedia: [Ming-Fa Lin](<https://en.wikipedia.org/wiki/Ming-Fa_Lin>)
 
 成大物理: 林明發特聘教授  
 <https://www.phys.ncku.edu.tw/committees-detail/47/>  
