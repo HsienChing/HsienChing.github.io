@@ -1,6 +1,6 @@
 ---
 title: "那些年，我被拒絕的故事 5 <br> The Story of My Rejections in Those Years. 5"
-date: 2024-05-04 00:01:00 +0800
+date: 2024-05-05 00:01:00 +0800
 excerpt: ""
 categories: 
   - The story of my rejections in those years.
