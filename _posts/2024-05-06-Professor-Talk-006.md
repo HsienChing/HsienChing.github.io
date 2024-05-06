@@ -78,7 +78,7 @@ Wikipedia: David J. Griffiths
 
 # 相關Po文
 
-[[教授名言005] 你以為人都不會變嗎!]](<https://hsienching.github.io/2024/04/25/Professor-Talk-005/>)
+[[教授名言005] 你以為人都不會變嗎!](<https://hsienching.github.io/2024/04/25/Professor-Talk-005/>)  
 
 [[教授名言004] 好好活著! 對社會有貢獻!](<https://hsienching.github.io/2024/04/07/Professor-Talk-004/>)
 
