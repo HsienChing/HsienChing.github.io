@@ -48,8 +48,7 @@ GOOD! ^_^
 
 # 相關Po文
 
-[關於這個系列 - 那些年，我被拒絕的故事 / 
-About the Series - The Story of My Rejections in Those Years.](<https://hsienching.github.io/2024/04/22/About-the-Series-the-Story-of-My-Rejections-in-Those-Years/>)
+[關於這個系列 - 那些年，我被拒絕的故事 / About the Series - The Story of My Rejections in Those Years.](<https://hsienching.github.io/2024/04/22/About-the-Series-the-Story-of-My-Rejections-in-Those-Years/>)
 
 [那些年，我被拒絕的故事 2 / The Story of My Rejections in Those Years. 2](<https://hsienching.github.io/2024/04/19/The-Story-of-My-Rejections-in-Those-Years-002/>)
 

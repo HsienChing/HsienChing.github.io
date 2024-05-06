@@ -111,3 +111,15 @@ categories:
 > 我們得，找自己的路!
 >
 > 鍾獻慶
+
+# 相關Po文
+
+[關於這個系列 - 那些年，我被拒絕的故事 / About the Series - The Story of My Rejections in Those Years.](<https://hsienching.github.io/2024/04/22/About-the-Series-the-Story-of-My-Rejections-in-Those-Years/>)
+
+[那些年，我被拒絕的故事 4 / The Story of My Rejections in Those Years. 4](<https://hsienching.github.io/2024/04/21/The-Story-of-My-Rejections-in-Those-Years-004/>)
+
+[那些年，我被拒絕的故事 3 / The Story of My Rejections in Those Years. 3](<https://hsienching.github.io/2024/04/20/The-Story-of-My-Rejections-in-Those-Years-003/>)
+
+[那些年，我被拒絕的故事 2 / The Story of My Rejections in Those Years. 2](<https://hsienching.github.io/2024/04/19/The-Story-of-My-Rejections-in-Those-Years-002/>)
+
+[那些年，我被拒絕的故事 1 / The Story of My Rejections in Those Years. 1](<https://hsienching.github.io/2024/04/18/The-Story-of-My-Rejections-in-Those-Years-001/>)
