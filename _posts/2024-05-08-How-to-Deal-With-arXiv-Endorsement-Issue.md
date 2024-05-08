@@ -314,12 +314,14 @@ E-mail: o.j.t.borsboom@tue.nl
 
 E-mail都順利寄出，沒有e-mail失效的回信回傳。但都沒回應。
 
+還是要繼續找方法去嘗試。
+
 arXiv上面有提到誰可以endorse
 
 The arXiv endorsement system  
 <https://info.arxiv.org/help/endorsement.html>
 
-按文章下面的"Which authors of this paper are endorsers?"，會看到誰具有endorse的資格，直接e-mail給他。請他幫忙。
+按文章下面的"Which authors of this paper are endorsers?"，會看到誰具有endorse的資格，可以endorse什麼項目，直接e-mail給他。請他幫忙。
 
 ## 第三輪 - 嘗試
 
@@ -489,7 +491,9 @@ Cell Balancing for the Transportation Sector: Techniques, Challenges, and Future
 
 當天(2024-05-07)下午，Prof. David A. Howey來信回應，他可以幫忙，但遵守arXiv規則，需要看要發表的論文，來確定是否合適。獻慶直接將論文寄過去給他看，過沒多久，arXiv官方就發e-mail通知endorse成功。
 
-稍後，Prof. Onel Alcaraz López有來信，給了endorse的建議。Prof. Simon Tindemans也有來信，他可以幫忙，但也是說要看paper。
+稍後，Prof. Sridhar Iyer來信說已經幫忙endorse。  
+Prof. Onel Alcaraz López有來信。  
+Prof. Simon Tindemans也有來信，給了endorse的建議，他可以幫忙，但也是說要看paper。
 
 ## 第三輪 - 成功檢討
 
@@ -575,8 +579,10 @@ ORCiD: https://orcid.org/0000-0001-9364-8858
 
 總之，這個門終於打開了! 而未來也知道該如何開門!
 
-感謝Prof. David A. Howey, Prof. Onel Alcaraz López, Prof. Simon Tindemans的大力幫忙與建議!
+感謝Prof. David A. Howey, Prof. Sridhar Iyer, Prof. Onel Alcaraz López, Prof. Simon Tindemans的大力幫忙與建議!
 
 感謝過程中沒回應的人們。他們的無回應，讓我們知道要找不同的方法去嘗試。
+
+從這件事情的處理，我們可以看到許多元素。要達到目標，除了努力，還有方法，最後眾人幫忙。
 
 GOOD! ^_^
