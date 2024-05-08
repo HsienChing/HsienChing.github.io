@@ -1,12 +1,13 @@
 ---
-title: "如何處理arXiv endorsement <br> How to Deal With arXiv Endorsement Issue"
-date: 2023-05-08 11:11:11 +0800
+title: "如何處理arXiv Endorsement問題 <br> How to Deal With arXiv Endorsement Issue"
+date: 2024-05-08 11:11:11 +0800
 excerpt: "在獻慶的博士班時期，大學長曾說過，在arXiv系統上要改領域投稿，需要找推薦人(endoser)。而這件事情很難處理。在過了十多年後，獻慶正好也遇到這個問題，只好自己來踢鐵板了。這是一個慢慢踢鐵板，最後成功的紀錄!"
 categories: 
   - arXiv
 tags:
   - Solving issues
   - 處理問題
+  - arXiv endorsement
 toc: true
 toc_sticky: false
 toc_label: "Table of contents"
@@ -18,7 +19,7 @@ toc_icon: "columns"
 想要感受踢鐵板過程，就從頭開始看。
 (本文的格式跟內容，並沒有要整理得很漂亮，重點是呈現過程。)
 
-想要看怎麼做最順，就從`第二輪 - 問題檢討`開始看 (去目錄按`第二輪 - 問題檢討`比較快)。
+想要看怎麼做最順，就從`第二輪 - 問題檢討`開始看 (去目錄按`第二輪 - 問題檢討`直接跳過去看，比較快)。
 
 # 關於arXiv endorsement issue
 
@@ -522,7 +523,7 @@ Endorser進行endorse的動作後，arXiv官方就寄e-mail來通知，已經被
 
 感謝信:  
 ```
-Title: [arXiv issue resolved][Thanks for your help] The preprint has been published in arXiv.
+Title: [arXiv issue solved][Thanks for your help] The preprint has been published in arXiv.
 
 Dear Prof. ********,
 
@@ -547,7 +548,7 @@ ORCiD: https://orcid.org/0000-0001-9364-8858
 
 告知信:  
 ```
-Title: [arXiv issue resolved] The arXiv endorsement issue has been solved. The preprint has been published in arXiv.
+Title: [arXiv issue solved] The arXiv endorsement issue has been solved. The preprint has been published in arXiv.
 
 Dear Prof. ********,
 
@@ -568,7 +569,7 @@ ORCiD: https://orcid.org/0000-0001-9364-8858
 
 # 感想
 
-很困難沒錯，但得去試，去找方法。
+很困難沒錯，前前後後，搞了很久。但得去試，去找方法。
 
 有好的方法，就快了，但還是得去試。
 
