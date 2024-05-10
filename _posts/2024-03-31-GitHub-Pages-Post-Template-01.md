@@ -892,13 +892,34 @@ Comment: The footnote function is very similar to the reference function in $LaT
 
 To hide content from the rendered Markdown by placing the content in an HTML comment.
 
+## 10.1 Single-line comments
+
 Syntax:
 ```markdown
-<!-- This content will not appear in the rendered Markdown -->
+<!-- This content will not appear in the rendered Markdown. -->
 ```
 
 Result:  
-<!-- This content will not appear in the rendered Markdown -->  
+<!-- This content will not appear in the rendered Markdown. -->  
+That's right! You won't see the result, since it is hidden.
+
+## 10.2 Multi-line comments
+
+Syntax:
+```markdown
+<!--
+This content will not appear in the rendered Markdown.
+This content will not appear in the rendered Markdown.
+This content will not appear in the rendered Markdown.
+-->
+```
+
+Result:  
+<!--
+This content will not appear in the rendered Markdown.
+This content will not appear in the rendered Markdown.
+This content will not appear in the rendered Markdown.
+-->  
 That's right! You won't see the result, since it is hidden.
 
 # 11. Backslash escapes

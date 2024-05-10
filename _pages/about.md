@@ -8,6 +8,17 @@ last_modified_at: 2024-05-02 17:30:00 +0800
 
 > I'm an ordinary person with some dreams. I'll achieve my dreams step by step.
 
+---
+
+# Dreams might be achieved throuth this blog
+
+1. A poetry collection, containing 100 poems.
+2. Some small life stories.
+
+---
+
+**Brief formal CV**
+
 # Physics, Researcher, Engineer
 
 <!--
