@@ -1,25 +1,60 @@
 ---
-permalink: /about/
 title: "About Dr. Hsien-Ching Chung"
-# excerpt: "Some words."
-last_modified_at: 2024-05-02 17:30:00 +0800 
-# toc: true
+permalink: /about/
+layout: single
+last_modified_at: 2024-05-10 11:00:00 +0800 
 ---
 
-> I'm an ordinary person with some dreams. I'll achieve my dreams step by step.
+> I'm an ordinary person with some strange dreams. I'll achieve my dreams step by step.
 
----
-
-# Dreams might be achieved throuth this blog
-
-1. A poetry collection, containing 100 poems.
-2. Some small life stories.
+> Some life events that are strange to me, and I will write them down. I hope these stories might encourage others. In the strange world. You are not alone! I will be with you.
 
 ---
 
-**Brief formal CV**
+# Dreams might be achieved through this blog
 
-# Physics, Researcher, Engineer
+1. A poetry collection, containing 100 poems. (來出個詩集，蒐集100首)
+2. Some life stories that might encourage others. (In the strange world. You are not alone! I will be with you.)
+
+
+
+
+# Dreams that have been achieved through this blog
+
+On going.
+
+
+
+
+---
+
+# Support / 贊助
+
+> 創作總是需要支持與贊助!
+> 
+> 來杯咖啡吧!
+> 
+> 成為我們一起前進的動力!
+
+> Creation always requires support and sponsorship!
+> 
+> Buy me a coffee!
+> 
+> Be the driving force for us to move forward together!
+
+<a href="https://www.buymeacoffee.com/hsienching" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+![QR code of BMC](/assets/image/support/bmc_qr.png){:height="30%" width="30%"}
+
+# About Our recent projects and servies on high mountains
+
+Building and maintaining the off-grid solar energy storage systems on high mountains, such as Paiyun Lodge (the highest lodge in Taiwan), Tianchi Lodge (a famous lodge in Taiwan), and Jiujiu Lodge.
+
+> It is our responsibility to maintain the power system of the lodge well so that our mountain friends can have good service!
+
+# About Me (Brief formal CV)
+
+**Physics, Researcher, Engineer**
 
 <!--
 #### Technical Skills: Python, AWS, MATLAB, 
