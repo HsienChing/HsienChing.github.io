@@ -27,6 +27,10 @@ toc_icon: "columns"
 
 獻慶將preprint投稿到arXiv。由於獻慶不是該領域的人，就會遇到需要endorsement的問題。
 
+在arXiv上投稿到不同領域時，arXiv系統會阻擋投稿流程，並出現下列訊息。
+
+並且會寄一封公版的e-mail到註冊的信箱，方便我們寄信，請人幫忙endorse。
+
 > Endorsement needed for eess.SY
 > You must get an endorsement from another user to submit an article to category eess.SY (Systems and Control).
 > 
@@ -44,9 +48,31 @@ toc_icon: "columns"
 > 
 > Your unique endorsement code is: ******
 
+公版e-mail大概長這樣。其中******是個人的endorse code。
+
+> 主旨: arXiv endorsement request from Hsien-Ching Chung
+> 
+> 內容:  
+> (Hsien-Ching Chung should forward this email to someone who's registered
+> as an endorser for the eess.SY (Systems and Control) subject class of
+> arXiv.)
+> 
+> Hsien-Ching Chung requests your endorsement to submit an article to the
+> eess.SY section of arXiv. To tell us that you would (or would not) like
+> to endorse this person, please visit the following URL:
+> 
+> https://arxiv.org/auth/endorse?x=******
+> 
+> If that URL does not work for you, please visit
+> 
+> http://arxiv.org/auth/endorse.php
+> 
+> and enter the following six-digit alphanumeric string:
+> 
+> Endorsement Code: ******
+
 <!--
-
-
+https://github.com/HsienChing/Project-Life-Trace/blob/main/Dataset/H.C.-Chung/E-mails/arXiv-Endorsement/2024-05-07-arXiv-Endorsement-e-mail.pdf
 -->
 
 # 如何處理
@@ -62,7 +88,6 @@ toc_icon: "columns"
 所以必須要講清楚身分跟目的。這樣對方才知道該不該幫忙，如何幫忙。
 
 以增加endorsement的成功率。
-
 
 信件內容:  
 ```
@@ -500,6 +525,21 @@ Cell Balancing for the Transportation Sector: Techniques, Challenges, and Future
 Prof. Onel Alcaraz López有來信。  
 Prof. Simon Tindemans也有來信，給了endorse的建議，他可以幫忙，但也是說要看paper。
 
+<!--
+Prof. David A. Howey
+https://github.com/HsienChing/Project-Life-Trace/blob/main/Dataset/H.C.-Chung/E-mails/arXiv-Endorsement/2024-05-07-Contact-with-Prof.-David-Howey.pdf
+
+Prof. Sridhar Iyer
+https://github.com/HsienChing/Project-Life-Trace/blob/main/Dataset/H.C.-Chung/E-mails/arXiv-Endorsement/2024-05-07-Contact-with-Prof.-Sridhar-Iyer.pdf
+https://github.com/HsienChing/Project-Life-Trace/blob/main/Dataset/H.C.-Chung/E-mails/arXiv-Endorsement/2024-05-08-Contact-with-Prof.-Sridhar-Iyer.pdf
+
+Prof. Onel Alcaraz López
+https://github.com/HsienChing/Project-Life-Trace/blob/main/Dataset/H.C.-Chung/E-mails/arXiv-Endorsement/2024-05-07-Contact-with-Prof.-Onel-Alcaraz-Lopez.pdf
+
+Prof. Simon Tindemans
+https://github.com/HsienChing/Project-Life-Trace/blob/main/Dataset/H.C.-Chung/E-mails/arXiv-Endorsement/2024-05-07-Contact-with-Prof.-Simon-Tindemans.pdf
+-->
+
 ## 第三輪 - 成功檢討
 
 從arXiv官網上的文章下面，確認作者有沒有endorse的能力，再去聯絡該作者，請求幫忙。是比較有效率的方式。
@@ -516,6 +556,14 @@ Endorser進行endorse的動作後，arXiv官方就寄e-mail來通知，已經被
 > eess.SY (Systems and Control). To continue the submission process
 > visit:
 > https://arxiv.org/submit/
+
+從E-mail可看到，有三個時間點被endorse。
+1. 7 May 2024 at 17:37  
+2. 7 May 2024 at 21:00  
+3. 7 May 2024 at 21:29  
+
+REF:  
+arXiv: [You now can submit to eess.SY.pdf](<https://github.com/HsienChing/Project-Life-Trace/blob/main/Dataset/H.C.-Chung/E-mails/arXiv-Endorsement/2024-05-07-arXiv-You-now-can-submit-to-eess.SY.pdf>)
 
 # 成功被endorse後，後續動作
 

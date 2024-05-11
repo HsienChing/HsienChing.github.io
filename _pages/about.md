@@ -48,7 +48,7 @@ On going.
 
 # About Our recent projects and servies on high mountains
 
-Building and maintaining the off-grid solar energy storage systems on high mountains, such as Paiyun Lodge (the highest lodge in Taiwan), Tianchi Lodge (a famous lodge in Taiwan), and Jiujiu Lodge.
+Building and maintaining the off-grid solar energy storage systems on high mountains, such as Paiyun Lodge (the highest lodge in Taiwan), Tianchi Lodge (a famous "five star" lodge in Taiwan), and Jiujiu Lodge.
 
 > It is our responsibility to maintain the power system of the lodge well so that our mountain friends can have good service!
 
