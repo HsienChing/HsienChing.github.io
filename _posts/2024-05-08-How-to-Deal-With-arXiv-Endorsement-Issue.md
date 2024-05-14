@@ -573,6 +573,8 @@ arXiv: [You now can submit to eess.SY.pdf](<https://github.com/HsienChing/Projec
 
 目前這篇文章，"Long-term usage of the off-grid photovoltaic system with lithium-ion battery-based energy storage system on high mountains: A case study in Payiun Lodge on Mt. Jade in Taiwan"，已經順利投稿在arXiv上。
 
+<embed src="https://arxiv.org/pdf/2405.04225" type="application/pdf" width="100%" height="100%">
+
 文章arXiv連結: <https://arxiv.org/abs/2405.04225>
 
 ## 感謝幫忙的人們
