@@ -1,9 +1,9 @@
 ---
-title: "關於這個系列 - 那些年，我被拒絕的故事 <br> About the Series - The Story of My Rejections in Those Years."
+title: "關於這個系列 - 那些年，我被拒絕的故事 <br> About the Series - The Stories of My Rejections in Those Years."
 date: 2024-04-22 13:15:00 +0800
 excerpt: ""
-categories: 
-  - The story of my rejections in those years.
+categories:
+  - The stories of my rejections in those years.
   - 那些年，我被拒絕的故事
 # tags:
 # toc: true

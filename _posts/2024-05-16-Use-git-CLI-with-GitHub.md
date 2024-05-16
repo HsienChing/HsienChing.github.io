@@ -1,5 +1,5 @@
 ---
-title: "[學習] 使用git CLI (基礎篇) 並與GitHub共同運作"
+title: "[學習] 使用git CLI並與GitHub共同運作(基礎篇)"
 date: 2024-05-16 10:15:00 +0800
 excerpt: "簡單講一下，基礎的git CLI操作。"
 categories:

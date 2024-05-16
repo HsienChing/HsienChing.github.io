@@ -1,9 +1,9 @@
 ---
-title:  "那些年，我被拒絕的故事 2 <br> The Story of My Rejections in Those Years. 2"
+title:  "那些年，我被拒絕的故事 2 <br> The Stories of My Rejections in Those Years. 2"
 date: 2024-04-19 14:22:00 +0800
 excerpt: ""
 categories: 
-  - The story of my rejections in those years.
+  - The stories of my rejections in those years.
   - 那些年，我被拒絕的故事
 # tags:
 # toc: true
@@ -58,6 +58,6 @@ GOOD! ^_^
 
 # 相關Po文
 
-[關於這個系列 - 那些年，我被拒絕的故事 / About the Series - The Story of My Rejections in Those Years.](<https://hsienching.github.io/2024/04/22/About-the-Series-the-Story-of-My-Rejections-in-Those-Years/>)
+[關於這個系列 - 那些年，我被拒絕的故事 / About the Series - The Stories of My Rejections in Those Years.](<https://hsienching.github.io/2024/04/22/About-the-Series-the-Stories-of-My-Rejections-in-Those-Years/>)
 
-[那些年，我被拒絕的故事 1 / The Story of My Rejections in Those Years. 1](<https://hsienching.github.io/2024/04/18/The-Story-of-My-Rejections-in-Those-Years-001/>)
+[那些年，我被拒絕的故事 1 / The Stories of My Rejections in Those Years. 1](<https://hsienching.github.io/2024/04/18/The-Stories-of-My-Rejections-in-Those-Years-001/>)
