@@ -1,6 +1,6 @@
 ---
 title: "[林明發] 關於林明發特聘教授的博士論文英文題目"
-#date: 2024-04-11 00:35:00 +0800
+date: 2024-05-15 10:30:00 +0800
 excerpt: "林明發特聘教授的博士論文英文題目有誤。已請國家圖書館及清大圖書館更正完畢。"
 categories:
   - Professor
@@ -51,11 +51,13 @@ Link: <https://nthu.primo.exlibrisgroup.com/permalink/886UST_NTHU/13efpo6/alma99
 看來連清大圖書館都要請求更改了。
 
 <!--
-Incorrect English title - screenshot
+
+Incorrect English title - screenshots
 
 https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d8036d2eccb4a90/Dataset/H.C.-Chung/E-mails/Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction/Screenshot-2024-04-26-Incorrect-English-title-MF.Lin-PhD-Dissertation-NDLTD.jpg
 
 https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d8036d2eccb4a90/Dataset/H.C.-Chung/E-mails/Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction/Screenshot-2024-04-26-Incorrect-English-title-MF.Lin-PhD-Dissertation-NTHU-Library.jpg
+
 -->
 
 ## 請求更正
@@ -67,7 +69,7 @@ https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d
 [清大圖書館回覆更正完成e-mail](<https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d8036d2eccb4a90/Dataset/H.C.-Chung/E-mails/Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction/2024-04-29-Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction-NTHU-Library.pdf>)
 
 國家圖書館，反應稍慢，到第14天，也就是5月10日完成更新。  
-(這段期間，請求了三次修改通知。原本還考慮直接打電話過去告知問題。)
+(這段期間，請求了三次修改通知(04/26, 04/30, 05/06)。原本還考慮直接打電話過去告知問題。)
 
 [國家圖書館回覆更正完成e-mail](<https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d8036d2eccb4a90/Dataset/H.C.-Chung/E-mails/Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction/2024-05-10-Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction-NDLTD.pdf>)
 
@@ -88,8 +90,9 @@ https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d
 > 
 > I've informed the two libraries to correct the English title. I will modify the typo on the Wikipedia article page after the libraries correct the issues.
 
-REF:  
-<https://en.wikipedia.org/wiki/Talk:Ming-Fa_Lin>
+Wikipedia: [Talk:Ming-Fa_Lin](<https://en.wikipedia.org/wiki/Talk:Ming-Fa_Lin>)
+
+開topic的原因是，要讓讀者知道，資料更新的原因及處理方式。
 
 後續清大圖書館跟國家圖書館中，資料的更新狀況，就回覆在這個主題下面。
 
