@@ -54,5 +54,4 @@ categories:
 
 # 相關Po文
 
-文章列表:  
-<https://hsienching.github.io/categories/#%E9%82%A3%E4%BA%9B%E5%B9%B4-%E6%88%91%E8%A2%AB%E6%8B%92%E7%B5%95%E7%9A%84%E6%95%85%E4%BA%8B>
+文章列表: [那些年，我被拒絕的故事](<https://hsienching.github.io/categories/#%E9%82%A3%E4%BA%9B%E5%B9%B4-%E6%88%91%E8%A2%AB%E6%8B%92%E7%B5%95%E7%9A%84%E6%95%85%E4%BA%8B>) 
