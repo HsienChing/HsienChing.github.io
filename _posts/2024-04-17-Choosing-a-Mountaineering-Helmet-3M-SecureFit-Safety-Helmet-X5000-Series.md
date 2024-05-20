@@ -230,7 +230,7 @@ REF:
 
 最後就是要到手。
 
-![](/assets/image/2024/2024-04-16-100406-3M-X5000.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/image/2024/2024-04-16-100406-3M-X5000.jpg)
 
 搞定!
 

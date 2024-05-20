@@ -197,7 +197,7 @@ REF:
 
 來試試看!
 
-![Google Chrome F12 Console](/assets/image/2024/Google-Chrome-F12-Console.jpg){:height="50%" width="50%"}
+![Google Chrome F12 Console]({{ site.url }}{{ site.baseurl }}/assets/image/2024/Google-Chrome-F12-Console.jpg){:height="50%" width="50%"}
 
 第一次貼碼時，Chrome還警告非專業人員請勿亂貼程式碼，可能會造成不明原因問題。要輸入程式碼前，請輸入"通關密語"(通關密碼，Chrome已經直接寫在上面了，只是要人自己輸入，確定狀況。這可能是針對"小白"設計的安全措施，但對獻慶這種"老白"，老是在白癡，就沒差了。)
 

@@ -89,7 +89,7 @@ toc_icon: "columns"
 
 <figure>
 <center>
-  <img src="/assets/images/2024/2024-04-17-Submitting-to-Wikipedia.jpg" alt="" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/2024-04-17-Submitting-to-Wikipedia.jpg" alt="" style="width:90%">
   <figcaption>投稿完後，原本稿件頁面的畫面上頭會顯示一個淺黃色方塊，等候審稿中，目前共有2411件等候審稿，大約需要兩個月的時間。</figcaption>
 </center>
 </figure>
@@ -110,7 +110,7 @@ Draft:Ming-Fa Lin
 
 <figure>
 <center>
-  <img src="/assets/images/2024/2024-04-25-Review-in-Progress.jpg" alt="" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/2024-04-25-Review-in-Progress.jpg" alt="" style="width:90%">
   <figcaption>若審稿人正在進行審稿，則該草稿上面會顯示淺藍色方框，表示正在審稿中，請勿更動該稿件，以免多人同時修改，造成衝突。</figcaption>
 </center>
 </figure>
@@ -126,14 +126,14 @@ Draft:Ming-Fa Lin
 
 <figure>
 <center>
-  <img src="/assets/images/2024/User-contributions-for-Hsienching-2024-04-26.jpg" alt="" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/User-contributions-for-Hsienching-2024-04-26.jpg" alt="" style="width:90%">
   <figcaption>英文維基百科作者使用者頁面，完整審稿流程截圖。 (截圖日期: 2024-04-26)。</figcaption>
 </center>
 </figure>
 
 <figure>
 <center>
-  <img src="/assets/images/2024/Ming-Fa-Lin-Revision-History-2024-04-27.jpg" alt="" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/Ming-Fa-Lin-Revision-History-2024-04-27.jpg" alt="" style="width:90%">
   <figcaption>英文維基百科"Ming-Fa Lin"文章頁面，完整審稿流程截圖。 (截圖日期: 2024-04-27)。</figcaption>
 </center>
 </figure>
@@ -144,7 +144,7 @@ Draft:Ming-Fa Lin
 
 <figure>
 <center>
-  <img src="/assets/images/2024/Wikipedia-Article-Ming-Fa-Lin-Accepted-2024-04-25.jpg" alt="" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/Wikipedia-Article-Ming-Fa-Lin-Accepted-2024-04-25.jpg" alt="" style="width:90%">
   <figcaption>作者使用者頁面，出現淺綠色方框，裡面的文字是通知投稿成功。</figcaption>
 </center>
 </figure>
