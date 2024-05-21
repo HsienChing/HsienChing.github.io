@@ -192,11 +192,8 @@ Wikipedia: [Category:21st-century Taiwanese scientists](<https://en.wikipedia.or
 
 # 相關連結
 
-林明發特聘教授的英文維基百科  
-<https://en.wikipedia.org/wiki/Ming-Fa_Lin>
+Wikipedia: [Ming-Fa Lin](<https://en.wikipedia.org/wiki/Ming-Fa_Lin>)  
 
-國立成功大學理學院: 【恭賀】本院陳泉宏、張為民、林明發、許進恭、林弘萍、陳淑慧、葉晨聖、孫亦文、張泰榕、鄭沐政、陳昭宇、吳品頡、黃勝廣、李亞儒教授榮獲2022年全球前2%頂尖科學家  
-<https://science.ncku.edu.tw/p/406-1016-261494,r668.php>
+國立成功大學理學院: [【恭賀】本院陳泉宏、張為民、林明發、許進恭、林弘萍、陳淑慧、葉晨聖、孫亦文、張泰榕、鄭沐政、陳昭宇、吳品頡、黃勝廣、李亞儒教授榮獲2022年全球前2%頂尖科學家](<https://science.ncku.edu.tw/p/406-1016-261494,r668.php>)
 
-Wikipedia: Help:Your first article  
-<https://en.wikipedia.org/wiki/Help:Your_first_article>
+Wikipedia: [Help:Your first article](<https://en.wikipedia.org/wiki/Help:Your_first_article>)

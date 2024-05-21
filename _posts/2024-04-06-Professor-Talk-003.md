@@ -40,5 +40,4 @@ tags:
 
 # 相關連結
 
-成大物理: 田聰教授  
-<https://www.phys.ncku.edu.tw/committees-detail/95/>  
+成大物理: [田聰教授](<https://www.phys.ncku.edu.tw/committees-detail/95/>)

@@ -143,8 +143,7 @@ MathJax的JavaScript程式碼附在下面。
 
 NOTE: `MathJax`在GitHub上的來源庫裡面，寫著`release-v2 v2.7.9`，於是獻慶就測試將MathJax的JavaScript程式碼裡面的版本改成2.7.9，經過測試，OK。(未來有新版的時候，可以自行修改。)
 
-GitHub: MathJax (Source Repository)  
-<https://github.com/mathjax/MathJax-src>
+GitHub: [MathJax (Source Repository)](<https://github.com/mathjax/MathJax-src>)
 
 GOOD! ^_^
 
@@ -197,8 +196,7 @@ GOOD! ^_^
 
 > `MathJax` is an open-source JavaScript display engine for $LaTeX$, MathML, and AsciiMath notation that works in all modern browsers.
 >
-> GitHub: MathJax (Source Repository)  
-> <https://github.com/mathjax/MathJax-src>
+> GitHub: [MathJax (Source Repository)](<https://github.com/mathjax/MathJax-src>)
 
 See <http://www.mathjax.org/> for additional details about MathJax, and <https://docs.mathjax.org> for the MathJax documentation.
 
@@ -207,17 +205,12 @@ See <http://www.mathjax.org/> for additional details about MathJax, and <https:/
 
 # 相關連結
 
-Minjeong Choi: How to use Latex(MathJax) on Minimal Mistakes Github blogs  
-<https://choimon.github.io/blog/mathjax-for-minimalmistakes-githubpage/>
+Minjeong Choi: [How to use Latex(MathJax) on Minimal Mistakes Github blogs](<https://choimon.github.io/blog/mathjax-for-minimalmistakes-githubpage/>)
 
-Singyuan's Blog: Add LaTeX to Minimal Mistake Jekyll    
-<https://singyuan.github.io/posts/mathjax/add_tex/>
+Singyuan's Blog: [Add LaTeX to Minimal Mistake Jekyll](<https://singyuan.github.io/posts/mathjax/add_tex/>)
 
-Janmeppe.com: How to add Latex to Minimal Mistakes  
-<https://www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/>
+Janmeppe.com: [How to add Latex to Minimal Mistakes](<https://www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/>)
 
-GitHub community: How to display Math on Github-Pages? #22525  
-<https://github.com/orgs/community/discussions/22525>
+GitHub community: [How to display Math on Github-Pages? #22525](<https://github.com/orgs/community/discussions/22525>)
 
-Wikipedia: Maxwell's equations  
-<https://en.wikipedia.org/wiki/Maxwell%27s_equations>
+Wikipedia: [Maxwell's equations](<https://en.wikipedia.org/wiki/Maxwell%27s_equations>)

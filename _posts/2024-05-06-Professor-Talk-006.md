@@ -90,5 +90,4 @@ Wikipedia: David J. Griffiths
 
 # 相關連結
 
-成大物理: 黃正雄教授  
-<https://www.phys.ncku.edu.tw/committees-detail/132/>
+成大物理: [黃正雄教授](<https://www.phys.ncku.edu.tw/committees-detail/132/>)

@@ -42,5 +42,4 @@ PS: 發哥講過的名言不少，突然要回憶，反而頭腦空了。總之�
 
 Wikipedia: [Ming-Fa Lin](<https://en.wikipedia.org/wiki/Ming-Fa_Lin>)
 
-成大物理: 林明發特聘教授  
-<https://www.phys.ncku.edu.tw/committees-detail/47/>  
+成大物理: [林明發特聘教授](<https://www.phys.ncku.edu.tw/committees-detail/47/>)

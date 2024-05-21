@@ -95,20 +95,14 @@ REF:
 
 # 相關連結
 
-Wikipedia: 複數 (數學)  
-<https://zh.wikipedia.org/zh-tw/%E5%A4%8D%E6%95%B0_(%E6%95%B0%E5%AD%A6)>
+Wikipedia: [複數 (數學)](<https://zh.wikipedia.org/zh-tw/%E5%A4%8D%E6%95%B0_(%E6%95%B0%E5%AD%A6)>)
 
-Wikipedia: Complex number  
-<https://en.wikipedia.org/wiki/Complex_number>
+Wikipedia: [Complex number](<https://en.wikipedia.org/wiki/Complex_number>)  
 
-CASE 報科學:【大宇宙小故事】25 從自然數到超複數  
-<https://case.ntu.edu.tw/blog/?p=28301>
+CASE 報科學: [【大宇宙小故事】25 從自然數到超複數](<https://case.ntu.edu.tw/blog/?p=28301>)
 
-Wikipedia: Carl Friedrich Gauss  
-<https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss>
+Wikipedia: [Carl Friedrich Gauss](<https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss>)
 
-Wikipedia: Caspar Wessel  
-<https://en.wikipedia.org/wiki/Caspar_Wessel>
+Wikipedia: [Caspar Wessel](<https://en.wikipedia.org/wiki/Caspar_Wessel>)
 
-Wikipedia: Cramming (education)  
-<https://en.wikipedia.org/wiki/Cramming_(education)>
+Wikipedia: [Cramming (education)](<https://en.wikipedia.org/wiki/Cramming_(education)>)

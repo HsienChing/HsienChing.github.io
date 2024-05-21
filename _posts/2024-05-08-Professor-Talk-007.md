@@ -50,8 +50,7 @@ NOTE: 獻慶還記得，當時溫老師的課，都需要同學自己來印講�
 
 # 相關連結
 
-成大物理: 溫清榕教授  
-<https://www.phys.ncku.edu.tw/committees-detail/339/>
+成大物理: [溫清榕教授](<https://www.phys.ncku.edu.tw/committees-detail/339/>)
 
 <!-- 
 Facebook: <https://www.facebook.com/profile.php?id=100000138597933> 

@@ -38,5 +38,4 @@ tags:
 
 Wikipedia: [Ming-Fa Lin](<https://en.wikipedia.org/wiki/Ming-Fa_Lin>)
 
-成大物理: 林明發特聘教授  
-<https://www.phys.ncku.edu.tw/committees-detail/47/>  
+成大物理: [林明發特聘教授](<https://www.phys.ncku.edu.tw/committees-detail/47/>)

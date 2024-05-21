@@ -91,5 +91,4 @@ toc_icon: "columns"
 
 # 相關連結
 
-天池山莊  
-<https://tconline.forest.gov.tw/>
+[天池山莊官網](<https://tconline.forest.gov.tw/>)

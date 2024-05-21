@@ -32,5 +32,4 @@ tags:
 
 # 相關連結
 
-成大物理: 盧炎田教授  
-<https://www.phys.ncku.edu.tw/committees-detail/129/>
+成大物理: [盧炎田教授](<https://www.phys.ncku.edu.tw/committees-detail/129/>)

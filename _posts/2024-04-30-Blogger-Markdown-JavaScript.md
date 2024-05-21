@@ -15,8 +15,7 @@ toc_icon: "columns"
 
 # 找尋方法並測試
 
-REF: 在 blogger 貼漂亮 code 的方法（使用 Markdown 和 prettyprint）  
-<https://etrex.blogspot.com/2017/03/blogger-code-Markdown-prettyprint.html>
+根據資料[在 blogger 貼漂亮 code 的方法（使用 Markdown 和 prettyprint）](<https://etrex.blogspot.com/2017/03/blogger-code-Markdown-prettyprint.html>)，進行修改並測試。
 
 測試後，發現主要問題:  
 1. 超連結消失。使用Markdown語法`<>`標注的超連結會消失。
@@ -24,8 +23,7 @@ REF: 在 blogger 貼漂亮 code 的方法（使用 Markdown 和 prettyprint）
 3. 表格無法顯示。
 4. 爆圖問題。使用`Simple Literate theme`會爆圖，就是圖面超過Po文寬度，炸到框外去了。`Contempo theme`就不會爆。
 
-REF: 在 Blogger 中使用 Markdown  
-<https://blog.imfing.com/2020/04/Markdown-in-blogger/>
+根據資料[在 Blogger 中使用 Markdown](<https://blog.imfing.com/2020/04/Markdown-in-blogger/>)，進行修改並測試。
 
 測試後，發現主要問題:  
 1. 超連結消失。使用Markdown語法`<>`標注的超連結會消失。(有解決)
@@ -49,8 +47,7 @@ REF: 在 Blogger 中使用 Markdown
 上面的程式碼區塊除了 Markdown 的轉換之外，也引用了 Google 的 prettify 函式庫來做程式碼的上色。
 
 REF:  
-Markdown on Google blogger  
-<https://lausai360.blogspot.com/2018/11>
+[Markdown on Google blogger](<https://lausai360.blogspot.com/2018/11>)
 
 # 經過整理後，最後貼上去Blogger的JavaScript
 
@@ -96,8 +93,7 @@ Array.prototype.forEach.call(posts, function(el, i) {
 
 # 相關連結
 
-GitHub: showdownjs / showdown  
-<https://github.com/showdownjs/showdown>
+GitHub: [showdownjs / showdown](<https://github.com/showdownjs/showdown>)
 
 CDN  
 You can also use one of several CDNs available:  

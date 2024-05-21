@@ -27,11 +27,10 @@ toc_icon: "columns"
 那就要開始做功課了。
 
 REF:  
-YouTube: 玉山最後一哩路 長碎石坡 戴岩盔防落石｜TVBS新聞 @TVBSNEWS01  
-<https://www.youtube.com/watch?v=2iPCON8ypHw>
+YouTube: [玉山最後一哩路 長碎石坡 戴岩盔防落石｜TVBS新聞 @TVBSNEWS01](<https://www.youtube.com/watch?v=2iPCON8ypHw>)
 
-YouTube: 登山客攀玉山遭落石擊中身亡 專家籲雨後也應配戴頭盔｜20230530 公視晚間新聞  
-<https://www.youtube.com/watch?v=k-gHY0hBSmQ>
+YouTube: [登山客攀玉山遭落石擊中身亡 專家籲雨後也應配戴頭盔｜20230530 公視晚間新聞](<https://www.youtube.com/watch?v=k-gHY0hBSmQ>)
+
 
 # 挑選登山頭盔/岩盔/登山安全帽
 
@@ -94,45 +93,35 @@ YouTube: 登山客攀玉山遭落石擊中身亡 專家籲雨後也應配戴頭�
 
 一般安全帽被砸個稀巴爛，而X5000安全帽則順利存活。
 
-YouTube: 【極限撞擊測試】幾十蚊同幾百蚊安全帽有咩分別 ？雞蛋妹挑機話你知！  
-<https://www.youtube.com/watch?v=9ACXtw7wyVM>  
+YouTube: [【極限撞擊測試】幾十蚊同幾百蚊安全帽有咩分別 ？雞蛋妹挑機話你知！](<https://www.youtube.com/watch?v=9ACXtw7wyVM>) 
 
 想要看歐盟標準 EN 12492 跟 EN 397 更多的差異比較。可以參考Petzl公司的圖文比對。
 
-Petzl: Understanding your helmet’s European certification  
-<https://www.petzl.com/INT/en/Professional/Understanding-your-helmet-s-European-certification?ProductName=STRATO>
+Petzl: [Understanding your helmet’s European certification](<https://www.petzl.com/INT/en/Professional/Understanding-your-helmet-s-European-certification?ProductName=STRATO>)
 
 外國網友針對幾款工業安全帽進行評比，X5000安全帽位列第一，當然這個第一只能參考。畢竟每個人的判斷標準不同。但至少是肯定X5000安全帽的品質。
 
-YouTube: 2023 Best Safety Helmet [Top 5 Safety Helmet For You]  
-<https://www.youtube.com/watch?v=_Alg7VX3kx0>
+YouTube: [2023 Best Safety Helmet [Top 5 Safety Helmet For You]](<https://www.youtube.com/watch?v=_Alg7VX3kx0>)
 
 REF:  
-ANSI Z89.1 – Industrial Head Protection  
-<https://blog.ansi.org/ansi-isea-z891-industrial-head-protection/>
+[ANSI Z89.1 – Industrial Head Protection](<https://blog.ansi.org/ansi-isea-z891-industrial-head-protection/>)
 
-ANSI/ISEA Z89.1-2014 (R2019)  
-<https://webstore.ansi.org/standards/isea/ansiiseaz892014r2019?source=blog&_gl=1*n5qtn0*_gcl_au*MTE4ODc3MjM4My4xNzEzMjU0OTgy>
+[ANSI/ISEA Z89.1-2014 (R2019)](<https://webstore.ansi.org/standards/isea/ansiiseaz892014r2019?source=blog&_gl=1*n5qtn0*_gcl_au*MTE4ODc3MjM4My4xNzEzMjU0OTgy>)
 
-Petzl: Understanding your helmet’s European certification  
-<https://www.petzl.com/INT/en/Professional/Understanding-your-helmet-s-European-certification?ProductName=STRATO>  
+Petzl: [Understanding your helmet’s European certification](<https://www.petzl.com/INT/en/Professional/Understanding-your-helmet-s-European-certification?ProductName=STRATO>)   
 Petzl公司有對EN 12492及EN 397這兩個歐盟標準，做個圖文比對。
 
-經濟部標準檢驗局「工業用防護頭盔」檢驗標準介紹 - 臺南分局 林士正  
-<https://www.bsmi.gov.tw/wSite/public/Attachment/f1523350233564.pdf>
+[經濟部標準檢驗局「工業用防護頭盔」檢驗標準介紹 - 臺南分局 林士正](<https://www.bsmi.gov.tw/wSite/public/Attachment/f1523350233564.pdf>)
 
-經濟部標準檢驗局 CNS 1336「產業用防護頭盔」(99年版)與CNS1336「工地用安全帽」(94年版)差異性隻比較研究  
-<https://tainan.bsmi.gov.tw/wSite/public/Data/f1369616347063.pdf>
+[經濟部標準檢驗局 CNS 1336「產業用防護頭盔」(99年版)與CNS1336「工地用安全帽」(94年版)差異性隻比較研究](<https://tainan.bsmi.gov.tw/wSite/public/Data/f1369616347063.pdf>)
 
 ## 基本功能
 
 安全方面的疑慮解決了，那再回來看X5000安全帽的各部位基本功能。直接看影片比較有感覺。
 
-YouTube: 3M X5000 Series Helmets 新造型X5000系列安全帽  
-<https://www.youtube.com/watch?v=30OICta3ba8>  
-
-YouTube: 3M™ SecureFit™ Safety Helmet X5000 Series  
-<https://www.youtube.com/watch?v=wFd8frKwBEM>  
+YouTube: [3M X5000 Series Helmets 新造型X5000系列安全帽](<https://www.youtube.com/watch?v=30OICta3ba8>)
+  
+YouTube: [3M™ SecureFit™ Safety Helmet X5000 Series](<https://www.youtube.com/watch?v=wFd8frKwBEM>)
 
 這裡列一下美國官網提供的基本規格，方便參考。
 
@@ -189,8 +178,7 @@ NOTE: 眼尖的朋友會發現美國官網提供的資料較多，也較詳細�
 \* The product life as defined above is indicative data. The product life is subject to many external and non-controllable factors and should not be interpreted as a warranty.
 
 REF:  
-3M™ SecureFit™ Safety Helmet X5000/X5500 - Technical Data Sheet  
-<https://multimedia.3m.com/mws/media/1976529O/3m-datasheet-head-x5500-helmet-v2.pdf>
+[3M™ SecureFit™ Safety Helmet X5000/X5500 - Technical Data Sheet](<https://multimedia.3m.com/mws/media/1976529O/3m-datasheet-head-x5500-helmet-v2.pdf>)  
 
 ## 與一般登山品牌安全帽的差異性
 
@@ -230,7 +218,7 @@ REF:
 
 最後就是要到手。
 
-![]({{ site.url }}{{ site.baseurl }}/assets/image/2024/2024-04-16-100406-3M-X5000.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/2024/2024-04-16-100406-3M-X5000.jpg)
 
 搞定!
 
@@ -238,31 +226,23 @@ REF:
 
 # 相關Po文
 
-[職業安全衛生] 農林業安全衛生危害預防系列課程 (勞動部 職安署職業安全衛生數位學習平台)  
-<https://dream-and-creation.blogspot.com/2023/09/blog-post_24.html>
+[[職業安全衛生] 農林業安全衛生危害預防系列課程 (勞動部 職安署職業安全衛生數位學習平台)](<https://dream-and-creation.blogspot.com/2023/09/blog-post_24.html>)
 
-[職業安全衛生] 營造業相關系列課程 (勞動部 職安署職業安全衛生數位學習平台)  
-<https://dream-and-creation.blogspot.com/2023/09/blog-post_16.html>
+[[職業安全衛生] 營造業相關系列課程 (勞動部 職安署職業安全衛生數位學習平台)](<https://dream-and-creation.blogspot.com/2023/09/blog-post_16.html>)
 
-[職業安全衛生] 製造業常見危害系列課程 (勞動部 職安署職業安全衛生數位學習平台)  
-<https://dream-and-creation.blogspot.com/2023/09/blog-post_9.html>
+[[職業安全衛生] 製造業常見危害系列課程 (勞動部 職安署職業安全衛生數位學習平台)](<https://dream-and-creation.blogspot.com/2023/09/blog-post_9.html>)
 
-[職業安全衛生] 勞動部 全民勞教e網 及 職安署職業安全衛生數位學習平台  
-<https://dream-and-creation.blogspot.com/2023/08/e.html>
+[[職業安全衛生] 勞動部 全民勞教e網 及 職安署職業安全衛生數位學習平台](<https://dream-and-creation.blogspot.com/2023/08/e.html>)
 
-[證照] 丙種職業安全衛生業務主管教育訓練 - 上課過程 及 考照分享  
-<https://dream-and-creation.blogspot.com/2022/08/blog-post_29.html>
+[[證照] 丙種職業安全衛生業務主管教育訓練 - 上課過程 及 考照分享](<https://dream-and-creation.blogspot.com/2022/08/blog-post_29.html>)
 
-[學習] 自然人憑證過期兼損毀。要重辦。順便認識IC卡結構。  
-<https://dream-and-creation.blogspot.com/2023/07/ic.html>
+[[學習] 自然人憑證過期兼損毀。要重辦。順便認識IC卡結構。](<https://dream-and-creation.blogspot.com/2023/07/ic.html>)
 
 # 相關連結
 
-YouTube: 玉山最後一哩路 長碎石坡 戴岩盔防落石｜TVBS新聞 @TVBSNEWS01  
-<https://www.youtube.com/watch?v=2iPCON8ypHw>
+YouTube: [玉山最後一哩路 長碎石坡 戴岩盔防落石｜TVBS新聞 @TVBSNEWS01](<https://www.youtube.com/watch?v=2iPCON8ypHw>) 
 
-YouTube: 登山客攀玉山遭落石擊中身亡 專家籲雨後也應配戴頭盔｜20230530 公視晚間新聞  
-<https://www.youtube.com/watch?v=k-gHY0hBSmQ>
+YouTube: [登山客攀玉山遭落石擊中身亡 專家籲雨後也應配戴頭盔｜20230530 公視晚間新聞](<https://www.youtube.com/watch?v=k-gHY0hBSmQ>)
 
 ---
 
@@ -277,37 +257,29 @@ OutdoorGearLab (會檔台灣跟中國的IP，需要用VPN)
 
 ---
 
-YouTube: 【極限撞擊測試】幾十蚊同幾百蚊安全帽有咩分別 ？雞蛋妹挑機話你知！  
-<https://www.youtube.com/watch?v=9ACXtw7wyVM>  
+YouTube: [【極限撞擊測試】幾十蚊同幾百蚊安全帽有咩分別 ？雞蛋妹挑機話你知！](<https://www.youtube.com/watch?v=9ACXtw7wyVM>)  
 介紹3M™ SECUREFIT™ X5000系列透氣安全帽，符合歐盟標準EN12492。  
 歐盟標準EN12492可承受5公斤重物自200公分高自由落下。  
 而一般安全帽的歐盟標準EN397，可承受5公斤重物自100公分高自由落下。
 
 
-3M台灣官網: 3M 安全帽  
-<https://www.3m.com.tw/3M/zh_TW/p/c/ppe/head-face-protection/hard-hats/>
+3M台灣官網: [3M 安全帽](<https://www.3m.com.tw/3M/zh_TW/p/c/ppe/head-face-protection/hard-hats/>)  
 
-3M台灣官網: 3M™ SecureFit™ 安全帽X5000系列  
-<https://www.3m.com.tw/3M/zh_TW/p/d/b5005066150/>
+3M台灣官網: [3M™ SecureFit™ 安全帽X5000系列](<https://www.3m.com.tw/3M/zh_TW/p/d/b5005066150/>)  
 
-3M美國官網: 3M™ SecureFit™ X5000 Series Safety Helmets  
-<https://www.3m.com/3M/en_US/p/d/b5005066150/>  
+3M美國官網: [3M™ SecureFit™ X5000 Series Safety Helmets](<https://www.3m.com/3M/en_US/p/d/b5005066150/>)  
 3M美國官網的介紹明顯，資訊量大過3M台灣官網太多。要看就看這個。  
 例如: 不同顏色、不同細節的安全帽型號對照表。
 
-YouTube: 3M™ SecureFit™ Safety Helmet Video Construction  
-<https://www.youtube.com/watch?v=LX6QFDMioNE>
+YouTube: [3M™ SecureFit™ Safety Helmet Video Construction](<https://www.youtube.com/watch?v=LX6QFDMioNE>)  
 
-YouTube: 3M X5000 Series Helmets 新造型X5000系列安全帽  
-<https://www.youtube.com/watch?v=30OICta3ba8>  
+YouTube: [3M X5000 Series Helmets 新造型X5000系列安全帽](<https://www.youtube.com/watch?v=30OICta3ba8>)  
 介紹3M™ SecureFit™ Safety Helmet X5000 Series的各部位功能。
 
-YouTube: 3M™ SecureFit™ Safety Helmet X5000 Series  
-<https://www.youtube.com/watch?v=wFd8frKwBEM>  
+YouTube: [3M™ SecureFit™ Safety Helmet X5000 Series](<https://www.youtube.com/watch?v=wFd8frKwBEM>)  
 介紹3M™ SecureFit™ Safety Helmet X5000 Series的各部位功能。
 
-YouTube: 2023 Best Safety Helmet [Top 5 Safety Helmet For You]  
-<https://www.youtube.com/watch?v=_Alg7VX3kx0>
+YouTube: [2023 Best Safety Helmet [Top 5 Safety Helmet For You]](<https://www.youtube.com/watch?v=_Alg7VX3kx0>)  
 
 1. 3M X5000 https://amzn.to/3mth5Xx
 2. Klein Tools 60516 https://amzn.to/3MCgblZ
@@ -315,8 +287,7 @@ YouTube: 2023 Best Safety Helmet [Top 5 Safety Helmet For You]
 4. MSA V-Gard https://amzn.to/3GFCaEN
 5. Kask Super Plasma https://amzn.to/3GIjhBb
 
-YouTube: 🧰 Top 5 Best Safety Helmets for Construction | Helmets review  
-<https://www.youtube.com/watch?v=8ARSHS_Ne5w>  
+YouTube: [🧰 Top 5 Best Safety Helmets for Construction | Helmets review](<https://www.youtube.com/watch?v=8ARSHS_Ne5w>)  
 介紹建築用安全帽。
 
 1. SHK-1 VENTED 
@@ -327,8 +298,7 @@ YouTube: 🧰 Top 5 Best Safety Helmets for Construction | Helmets review
 
 ---
 
-YouTube: BEST CLIMBING HELMETS: 7 Climbing Helmets (2023 Buying Guide)  
-<https://www.youtube.com/watch?v=kXeIoYUnT3c>  
+YouTube: [BEST CLIMBING HELMETS: 7 Climbing Helmets (2023 Buying Guide)](<https://www.youtube.com/watch?v=kXeIoYUnT3c>)  
 登山頭盔挑選重點  
 Comfort  
 Ventilation  
@@ -344,10 +314,8 @@ Weight
 
 ---
 
-YouTube: 登山》三條魚百寶袋 詹喬愉登山背包大搜密  
-<https://www.youtube.com/watch?v=G8uic6q7exM>  
+YouTube: [登山》三條魚百寶袋 詹喬愉登山背包大搜密](<https://www.youtube.com/watch?v=G8uic6q7exM>)  
 本片岩盔只出現一下，但有介紹一些其他裝備。
 
-YouTube: 買錯最貴！！我們是如何認識自己，買東西不踩雷！近期使用滿意裝備分享＋買過最後悔的戶外裝備......ft. Surfshark VPN  
-<https://www.youtube.com/watch?v=bGuGy2SdSbU>  
+YouTube: [買錯最貴！！我們是如何認識自己，買東西不踩雷！近期使用滿意裝備分享＋買過最後悔的戶外裝備......ft. Surfshark VPN](<https://www.youtube.com/watch?v=bGuGy2SdSbU>)  
 本片沒有談到岩盔，但有介紹一些其他裝備。
