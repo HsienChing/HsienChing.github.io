@@ -80,12 +80,12 @@ REF:
 ## 演奏欣賞
 
 YouTube: [Gibson 1918 A style mandolin](<https://www.youtube.com/watch?v=shAcHMs9_80>)
- 
+
 YouTube: [Mandolin Comparison - Bourgeois, Randy Wood, Doug Clark & The Loar](<https://www.youtube.com/watch?v=TzN9ZGdz4oA>)
 
 YouTube: [Avi Avital - Vivaldi: Mandolin Concerto In C Major (Live)](<https://www.youtube.com/watch?v=aXBWrNN64z8>)
 
-YouTube: [Anatoly Beloshitsky - "In Spanish Style" | Ekaterina Skliar, mandolin & Anna Kislitsyna, piano](<https://www.youtube.com/watch?v=xVkAQlybLT8>)
+YouTube: [Anatoly Beloshitsky - "In Spanish Style" \| Ekaterina Skliar, mandolin & Anna Kislitsyna, piano](<https://www.youtube.com/watch?v=xVkAQlybLT8>)
 
 ------------------------
 
@@ -174,7 +174,7 @@ YouTube: [Guitar Literature 吉他的歷史與曲目 1: 源起; 文藝復興](<h
 3. YouTube: [Guns N' Roses - November Rain (2022 Version)](<https://www.youtube.com/watch?v=4_fvXrgAm1A>)     
 4. Ruey Yen (嚴瑞祥) - 外婆的澎湖灣  
    從影片8:37開始  
-5. YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) | Stages](<https://www.youtube.com/watch?v=4fk2prKnYnI>)
+5. YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) \| Stages](<https://www.youtube.com/watch?v=4fk2prKnYnI>)
 
 (嚴瑞祥教授本身也是一位奇人。大學時期念物理，後來轉行搞音樂。讓我想到日本作曲家"川井憲次"。)
 
