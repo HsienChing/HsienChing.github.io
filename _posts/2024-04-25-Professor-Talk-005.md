@@ -26,7 +26,7 @@ tags:
 
 # 相關Po文
 
-[[教授名言004] 好好活著! 對社會有貢獻!]({{ site.baseurl}}{% link _posts\2024-04-07-Professor-Talk-004.md %})
+[[教授名言004] 好好活著! 對社會有貢獻!]({{ site.baseurl }}{% link _posts/2024-04-07-Professor-Talk-004.md %})
 
 [[教授名言003] 人一生通常至少要換三次工作!]({{ site.baseurl }}{% link _posts/2024-04-06-Professor-Talk-003.md %})
 
