@@ -55,8 +55,8 @@ B規為正常的A規的次級品，就業者而言，A規產品被市場一般�
 
 # 相關連結
 
-Mobile1: [我的太陽能發電](<https://www.mobile01.com/topicdetail.php?f=335&t=2718509&p=6>)
+Mobile1: [我的太陽能發電](https://www.mobile01.com/topicdetail.php?f=335&t=2718509&p=6)
 
-每日頭條: [如何鑑定太陽能光伏板的A、B、C等級？](<https://kknews.cc/zh-tw/news/ne9pa42.html>)
+每日頭條: [如何鑑定太陽能光伏板的A、B、C等級？](https://kknews.cc/zh-tw/news/ne9pa42.html)
 
-Digitimes: [B規太陽能電池](<https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000167376_5MK2NV7S87ON735UWEWOW>)
+Digitimes: [B規太陽能電池](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000167376_5MK2NV7S87ON735UWEWOW)
