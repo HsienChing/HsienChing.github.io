@@ -39,7 +39,7 @@ toc_icon: "columns"
 
 由於距離4月3日花蓮地震(芮氏規模7.2級)沒多久，目前台灣仍然餘震不斷。於山區行走時，仍可見小落石不斷。由於有落石的危險，請戴登山用安全帽登山。
 
-維基百科: [2024年花蓮地震](<https://zh.wikipedia.org/zh-tw/2024%E5%B9%B4%E8%8A%B1%E8%93%AE%E5%9C%B0%E9%9C%87>) 
+維基百科: [2024年花蓮地震](https://zh.wikipedia.org/zh-tw/2024%E5%B9%B4%E8%8A%B1%E8%93%AE%E5%9C%B0%E9%9C%87) 
 
 # 維保工作
 
@@ -53,7 +53,7 @@ toc_icon: "columns"
 
 <figure>
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/20240420_172950.jpg" alt="" style="width:90%">
+  <img src="{{ site.baseurl }}{% link /assets/images/2024/20240420_172950.jpg %}" alt="" style="width:90%">
   <figcaption>鍾獻慶於天池山莊 (2024-04-20)。</figcaption>
 </center>
 </figure>
@@ -70,11 +70,11 @@ toc_icon: "columns"
 > 台灣的古道專家，目前擔任台灣山徑古道協會理事長及嘉明湖山屋管理員。  
 > 伍元和老師從23歲開始整個生命只想投 入登山，從山林及古道調查到上山帶隊的山野教育，同時是山的說書人、著名的古道專家，倡導「生活即登山，登山即生活」。
 > 
-> [天池山莊夜間講座](<https://www.facebook.com/events/s/%E5%A4%A9%E6%B1%A0%E5%B1%B1%E8%8E%8A%E5%A4%9C%E9%96%93%E8%AC%9B%E5%BA%A7/950218209709177/>)
+> [天池山莊夜間講座](https://www.facebook.com/events/s/%E5%A4%A9%E6%B1%A0%E5%B1%B1%E8%8E%8A%E5%A4%9C%E9%96%93%E8%AC%9B%E5%BA%A7/950218209709177/)
 
 <figure>
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/20240420_192126.jpg" alt="" style="width:90%">
+  <img src="{{ site.baseurl }}{% link /assets/images/2024/20240420_192126.jpg %}" alt="" style="width:90%">
   <figcaption>伍元和老師於天池山莊演講 (2024-04-20)。</figcaption>
 </center>
 </figure>
@@ -87,8 +87,8 @@ toc_icon: "columns"
 
 # 相關Po文
 
-[[職業安全衛生] 挑選登山頭盔/岩盔/登山安全帽。3M™ SecureFit™ X5000 系列安全帽。](<https://hsienching.github.io/2024/04/17/Choosing-a-Mountaineering-Helmet-3M-SecureFit-Safety-Helmet-X5000-Series/>)
+[[職業安全衛生] 挑選登山頭盔/岩盔/登山安全帽。3M™ SecureFit™ X5000 系列安全帽。]({{ site.baseurl }}{% link _posts/2024-04-17-Choosing-a-Mountaineering-Helmet-3M-SecureFit-Safety-Helmet-X5000-Series.md %})
 
 # 相關連結
 
-[天池山莊官網](<https://tconline.forest.gov.tw/>)
+[天池山莊官網](https://tconline.forest.gov.tw/)

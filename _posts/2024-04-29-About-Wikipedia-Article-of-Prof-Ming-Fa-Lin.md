@@ -20,7 +20,7 @@ toc_icon: "columns"
 
 這裡分享一下獻慶幫指導教授林明發(發哥)，建立英文維基百科文本並投稿成功的過程。
 
-由於發哥非常低調，也不像其他教授會寫一些簡短的CV放在期刊論文用(例如: IEEE期刊上常看到的作者介紹)。當時為了發表[奈米石墨帶的回顧文章](<https://doi.org/10.1039%2FC5CP06533J>)，獻慶特地去幫發哥寫了一個通用的小介紹，用來放在論文上。後來研究室其他文章或書籍中的介紹，大致上也採用這個版本。
+由於發哥非常低調，也不像其他教授會寫一些簡短的CV放在期刊論文用(例如: IEEE期刊上常看到的作者介紹)。當時為了發表[奈米石墨帶的回顧文章](https://doi.org/10.1039%2FC5CP06533J)，獻慶特地去幫發哥寫了一個通用的小介紹，用來放在論文上。後來研究室其他文章或書籍中的介紹，大致上也採用這個版本。
 
 至於要寫維基百科的文本，可能有人會說，拿發哥的CV來就好，他的個人網頁上有CV。
 
@@ -42,14 +42,14 @@ toc_icon: "columns"
 
 # 準備英文版資料
 
-從獻慶以前幫發哥寫的期刊用英文小介紹開始，慢慢加料。發哥的照片則使用當年在[回顧文章](<https://doi.org/10.1039%2FC5CP06533J>)中用的那張。
+從獻慶以前幫發哥寫的期刊用英文小介紹開始，慢慢加料。發哥的照片則使用當年在[回顧文章](https://doi.org/10.1039%2FC5CP06533J)中用的那張。
 
 英文版內容，總共分成幾個區塊:  
 1. **Brief description (Top).** 基本上，使用獻慶以前幫發哥寫的期刊用英文小介紹，再加上下面幾個區塊的資料小整理，濃縮在這個區塊。
 2. **Education.** 這個畢業學校，資料還算好找，直接找碩論跟博論的當參考文獻就差不多OK了。
 3. **Professional experience.** 這個使用發哥官網CV裡面的資料，參考文獻使用國科會的出版品，就OK了。
 4. **Research fields.** 把發哥主要的研究領域列出來，就OK了。
-5. **Honors and awards.** 由於發哥的CV裡面都不寫這塊。差點找不到資料。後來在國科會的出版品慢慢挖出來。當然，最亮眼的莫過於2023年獲得"[2022年全球前2%頂尖科學家](<https://science.ncku.edu.tw/p/406-1016-261494,r668.php>)"表彰。
+5. **Honors and awards.** 由於發哥的CV裡面都不寫這塊。差點找不到資料。後來在國科會的出版品慢慢挖出來。當然，最亮眼的莫過於2023年獲得"[2022年全球前2%頂尖科學家](https://science.ncku.edu.tw/p/406-1016-261494,r668.php)"表彰。
 6. **Research projects.** 直接使用"政府研究資訊系統"資料庫，直接把計畫案列表出來後，整理。
 7. **Selected publications.** 300篇文章太多了，難以整理。直接貼上發哥的Scopus跟Google Scholar連結。選擇出版品方面，則參考發哥CV裡面的書籍列表跟回顧文章列表。
 8. **References.** 參考文獻的格式，要使用維基百科的語法。
@@ -89,7 +89,7 @@ toc_icon: "columns"
 
 <figure>
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/2024-04-17-Submitting-to-Wikipedia.jpg" alt="" style="width:90%">
+  <img src="{{ site.baseurl }}{% link /assets/images/2024/2024-04-17-Submitting-to-Wikipedia.jpg %}" alt="" style="width:90%">
   <figcaption>投稿完後，原本稿件頁面的畫面上頭會顯示一個淺黃色方塊，等候審稿中，目前共有2411件等候審稿，大約需要兩個月的時間。</figcaption>
 </center>
 </figure>
@@ -110,7 +110,7 @@ Draft:Ming-Fa Lin
 
 <figure>
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/2024-04-25-Review-in-Progress.jpg" alt="" style="width:90%">
+  <img src="{{ site.baseurl }}{% link /assets/images/2024/2024-04-25-Review-in-Progress.jpg %}" alt="" style="width:90%">
   <figcaption>若審稿人正在進行審稿，則該草稿上面會顯示淺藍色方框，表示正在審稿中，請勿更動該稿件，以免多人同時修改，造成衝突。</figcaption>
 </center>
 </figure>
@@ -126,14 +126,14 @@ Draft:Ming-Fa Lin
 
 <figure>
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/User-contributions-for-Hsienching-2024-04-26.jpg" alt="" style="width:90%">
+  <img src="{{ site.baseurl }}{% link /assets/images/2024/User-contributions-for-Hsienching-2024-04-26.jpg %}" alt="" style="width:90%">
   <figcaption>英文維基百科作者使用者頁面，完整審稿流程截圖。 (截圖日期: 2024-04-26)。</figcaption>
 </center>
 </figure>
 
 <figure>
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/Ming-Fa-Lin-Revision-History-2024-04-27.jpg" alt="" style="width:90%">
+  <img src="{{ site.baseurl }}{% link /assets/images/2024/Ming-Fa-Lin-Revision-History-2024-04-27.jpg %}" alt="" style="width:90%">
   <figcaption>英文維基百科"Ming-Fa Lin"文章頁面，完整審稿流程截圖。 (截圖日期: 2024-04-27)。</figcaption>
 </center>
 </figure>
@@ -144,7 +144,7 @@ Draft:Ming-Fa Lin
 
 <figure>
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2024/Wikipedia-Article-Ming-Fa-Lin-Accepted-2024-04-25.jpg" alt="" style="width:90%">
+  <img src="{{ site.baseurl }}{% link /assets/images/2024/Wikipedia-Article-Ming-Fa-Lin-Accepted-2024-04-25.jpg %}" alt="" style="width:90%">
   <figcaption>作者使用者頁面，出現淺綠色方框，裡面的文字是通知投稿成功。</figcaption>
 </center>
 </figure>
@@ -169,8 +169,8 @@ GOOD! ^_^
 後來搞清楚是自己打錯字後，重新寫上"Category:21st-century Taiwanese scientists"，搞定。
 
 現在發哥在這兩個分類都可以看到:  
-Wikipedia: [Category:20th-century Taiwanese scientists](<https://en.wikipedia.org/wiki/Category:20th-century_Taiwanese_scientists>)  
-Wikipedia: [Category:21st-century Taiwanese scientists](<https://en.wikipedia.org/wiki/Category:21st-century_Taiwanese_scientists>)
+Wikipedia: [Category:20th-century Taiwanese scientists](https://en.wikipedia.org/wiki/Category:20th-century_Taiwanese_scientists)  
+Wikipedia: [Category:21st-century Taiwanese scientists](https://en.wikipedia.org/wiki/Category:21st-century_Taiwanese_scientists)
 
 # 感想及感謝
 1. 感謝王欲銘、黎維邦於蒐集資料的過程中討論。
@@ -188,12 +188,12 @@ Wikipedia: [Category:21st-century Taiwanese scientists](<https://en.wikipedia.or
 
 # 相關Po文
 
-[[林明發] 關於林明發特聘教授的ORCiD](<https://hsienching.github.io/2024/04/11/ORCiD-Prof-Ming-Fa-Lin/>)
+[[林明發] 關於林明發特聘教授的ORCiD]({{ site.baseurl }}{% link _posts/2024-04-11-ORCiD-Prof-Ming-Fa-Lin.md %})
 
 # 相關連結
 
-Wikipedia: [Ming-Fa Lin](<https://en.wikipedia.org/wiki/Ming-Fa_Lin>)  
+Wikipedia: [Ming-Fa Lin](https://en.wikipedia.org/wiki/Ming-Fa_Lin)  
 
-國立成功大學理學院: [【恭賀】本院陳泉宏、張為民、林明發、許進恭、林弘萍、陳淑慧、葉晨聖、孫亦文、張泰榕、鄭沐政、陳昭宇、吳品頡、黃勝廣、李亞儒教授榮獲2022年全球前2%頂尖科學家](<https://science.ncku.edu.tw/p/406-1016-261494,r668.php>)
+國立成功大學理學院: [【恭賀】本院陳泉宏、張為民、林明發、許進恭、林弘萍、陳淑慧、葉晨聖、孫亦文、張泰榕、鄭沐政、陳昭宇、吳品頡、黃勝廣、李亞儒教授榮獲2022年全球前2%頂尖科學家](https://science.ncku.edu.tw/p/406-1016-261494,r668.php)
 
-Wikipedia: [Help:Your first article](<https://en.wikipedia.org/wiki/Help:Your_first_article>)
+Wikipedia: [Help:Your first article](https://en.wikipedia.org/wiki/Help:Your_first_article)

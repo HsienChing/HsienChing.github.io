@@ -245,5 +245,5 @@ javascript:(function(){for(i=0;i<document.images.length;i++)document.images[i].s
 
 # 相關連結
 
-[Chrome瀏覽器F12網頁開發工具教學](<https://web4theme.com/article/chrome%E7%80%8F%E8%A6%BD%E5%99%A8f12%E7%B6%B2%E9%A0%81%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7%E6%95%99%E5%AD%B8.html>)  
+[Chrome瀏覽器F12網頁開發工具教學](https://web4theme.com/article/chrome%E7%80%8F%E8%A6%BD%E5%99%A8f12%E7%B6%B2%E9%A0%81%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7%E6%95%99%E5%AD%B8.html)  
 使用`F12`可以打開控制台(其實應該叫做"網頁開發工具")。問題解決完後，去查才知道的。

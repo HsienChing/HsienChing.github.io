@@ -53,4 +53,4 @@ PS 2: 沒事不要隨便更新Premiere版本。
 
 # 相關連結
 
-[Mercury Playback Engine (GPU Accelerated) 演算器](<https://helpx.adobe.com/tw/x-productkb/multi/gpu-acceleration-and-hardware-encoding.html>)
+[Mercury Playback Engine (GPU Accelerated) 演算器](https://helpx.adobe.com/tw/x-productkb/multi/gpu-acceleration-and-hardware-encoding.html)

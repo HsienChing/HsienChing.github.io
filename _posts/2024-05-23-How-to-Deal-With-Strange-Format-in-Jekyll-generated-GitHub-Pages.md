@@ -28,12 +28,12 @@ toc_icon: "columns"
 Markdwon的檔案寫這樣:
 
 ```markdown
-YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) | Stages](<https://www.youtube.com/watch?v=4fk2prKnYnI>)
+YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) | Stages](https://www.youtube.com/watch?v=4fk2prKnYnI)
 ```
 
 結果顯示成這樣:
 
-YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) | Stages](<https://www.youtube.com/watch?v=4fk2prKnYnI>)
+YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) | Stages](https://www.youtube.com/watch?v=4fk2prKnYnI)
 
 NOTE: 在本機或GitHub上看檔案時，一切都正常，一直到網頁在GitHub Pages上呈現出來後，才看到"走鐘"。
 
@@ -42,12 +42,12 @@ NOTE: 在本機或GitHub上看檔案時，一切都正常，一直到網頁在Gi
 將Markdwon的檔案改寫，使用backslash escapes (`\`)，在`|`前面加入`\`。
 
 ```markdown
-YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) \| Stages](<https://www.youtube.com/watch?v=4fk2prKnYnI>)
+YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) \| Stages](https://www.youtube.com/watch?v=4fk2prKnYnI)
 ```
 
 顯示就變正常了:
 
-YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) \| Stages](<https://www.youtube.com/watch?v=4fk2prKnYnI>)
+YouTube: [B. B. King - The Thrill Is Gone (Live at Montreux 1993) \| Stages](https://www.youtube.com/watch?v=4fk2prKnYnI)
 
 NOTE: 在`|`前面加入`\`後，在本機或GitHub上看檔案時，也仍保持正常。
 
@@ -75,4 +75,4 @@ title: "使用Jekyll架網站時，\"GitHub Pages\"網頁的顯示會出現奇�
 
 # 相關Po文
 
-[GitHub Pages Post - Markdown File Template 01/#11-backslash-escapes](<https://hsienching.github.io/2024/03/31/GitHub-Pages-Post-Template-01/#11-backslash-escapes>)
+[GitHub Pages Post - Markdown File Template 01/#11-backslash-escapes]({{ site.baseurl }}{% link _posts/2024-03-31-GitHub-Pages-Post-Template-01.md %}#11-backslash-escapes)

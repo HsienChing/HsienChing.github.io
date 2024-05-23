@@ -95,5 +95,4 @@ toc_icon: "columns"
 
 # 相關連結
 
-Stack overflow: [Recommended way to embed PDF in HTML?](<https://stackoverflow.com/questions/291813/recommended-way-to-embed-pdf-in-html>)
-
+Stack overflow: [Recommended way to embed PDF in HTML?](https://stackoverflow.com/questions/291813/recommended-way-to-embed-pdf-in-html)

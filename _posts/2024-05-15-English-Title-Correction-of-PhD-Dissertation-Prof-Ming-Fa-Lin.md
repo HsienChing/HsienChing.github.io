@@ -66,12 +66,12 @@ https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d
 
 清大圖書館，反應最快，三天後(4月29日)就更新完成。
 
-[清大圖書館回覆更正完成e-mail](<https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d8036d2eccb4a90/Dataset/H.C.-Chung/E-mails/Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction/2024-04-29-Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction-NTHU-Library.pdf>)
+[清大圖書館回覆更正完成e-mail](https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d8036d2eccb4a90/Dataset/H.C.-Chung/E-mails/Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction/2024-04-29-Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction-NTHU-Library.pdf)
 
 國家圖書館，反應稍慢，到第14天，也就是5月10日完成更新。  
 (這段期間，請求了三次修改通知(04/26, 04/30, 05/06)。原本還考慮直接打電話過去告知問題。)
 
-[國家圖書館回覆更正完成e-mail](<https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d8036d2eccb4a90/Dataset/H.C.-Chung/E-mails/Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction/2024-05-10-Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction-NDLTD.pdf>)
+[國家圖書館回覆更正完成e-mail](https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d8036d2eccb4a90/Dataset/H.C.-Chung/E-mails/Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction/2024-05-10-Ming-Fa-Lin-PhD-Dissertation-English-Title-Correction-NDLTD.pdf)
 
 ## 英文維基百科更正
 
@@ -90,7 +90,7 @@ https://github.com/HsienChing/Project-Life-Trace/blob/aae9056f83a4fe02f475018a1d
 > 
 > I've informed the two libraries to correct the English title. I will modify the typo on the Wikipedia article page after the libraries correct the issues.
 
-Wikipedia: [Talk:Ming-Fa_Lin](<https://en.wikipedia.org/wiki/Talk:Ming-Fa_Lin>)
+Wikipedia: [Talk:Ming-Fa_Lin](https://en.wikipedia.org/wiki/Talk:Ming-Fa_Lin)
 
 開topic的原因是，要讓讀者知道，資料更新的原因及處理方式。
 
@@ -114,11 +114,11 @@ Wikipedia: [Talk:Ming-Fa_Lin](<https://en.wikipedia.org/wiki/Talk:Ming-Fa_Lin>)
 
 # 相關Po文
 
-[[林明發] 關於林明發特聘教授的ORCiD](<https://hsienching.github.io/2024/04/11/ORCiD-Prof-Ming-Fa-Lin/>)
+[[林明發] 關於林明發特聘教授的ORCiD]({{ site.baseurl }}{% link _posts/2024-04-11-ORCiD-Prof-Ming-Fa-Lin.md %})
 
-[關於林明發特聘教授的英文維基百科](<https://hsienching.github.io/2024/04/29/About-Wikipedia-Article-of-Prof-Ming-Fa-Lin/>)
+[關於林明發特聘教授的英文維基百科]({{ site.baseurl }}{% link _posts/2024-04-29-About-Wikipedia-Article-of-Prof-Ming-Fa-Lin.md %})
 
-Blogger: [[臺灣博碩士論文知識加值系統] 單層與雙層奈米石墨帶的電子及光學性質，英文姓名錯誤更正](<https://dream-and-creation.blogspot.com/2023/12/blog-post.html>)  
+Blogger: [[臺灣博碩士論文知識加值系統] 單層與雙層奈米石墨帶的電子及光學性質，英文姓名錯誤更正](https://dream-and-creation.blogspot.com/2023/12/blog-post.html)  
 這是類似的問題，發生在獻慶的博士論文。只不過這次是英文姓名錯誤。
 
 # 相關連結
