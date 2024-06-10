@@ -8,10 +8,6 @@ categories:
 # tags:
 ---
 
-<!--
-分享給Steve Vai  用FB
--->
-
 一個  
 奇怪  
 的夢，  
