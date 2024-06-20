@@ -56,6 +56,16 @@ GOOD! ^_^
 >
 > 鍾獻慶
 
+# 祝福
+
+每個人可能都會有一段不好的時期，也封閉自己，也不想與他人有交流。
+
+O學長當年遭遇什麼狀況，這是獻慶無法理解。
+
+只能祝福他順利走出自己的狀況。
+
+目前看他的工作與事業也邁入正軌，應該是OK了啦!
+
 # 相關Po文
 
 [關於這個系列 - 那些年，我被拒絕的故事 / About the Series - The Stories of My Rejections in Those Years.]({{ site.baseurl }}{% link _posts/2024-04-22-About-the-Series-the-Stories-of-My-Rejections-in-Those-Years.md %})
