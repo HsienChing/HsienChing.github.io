@@ -92,3 +92,5 @@ toc_icon: "columns"
 # 相關連結
 
 [天池山莊官網](https://tconline.forest.gov.tw/)
+
+銅門乙線山岳塾: [山塾長｜伍元和](https://5dollarstw.wordpress.com/%E5%B1%B1%E5%A1%BE%E9%95%B7%EF%BD%9C%E4%BC%8D%E5%85%83%E5%92%8C/)
