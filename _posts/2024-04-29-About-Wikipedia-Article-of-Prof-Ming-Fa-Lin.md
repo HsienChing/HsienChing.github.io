@@ -1,5 +1,5 @@
 ---
-title: "關於林明發特聘教授的英文維基百科"
+title: "關於林明發特聘教授的英文維基百科 (About the English Wikipedia Page of Distinguished Professor Ming-Fa Lin)"
 date: 2024-04-29 10:10:00 +0800
 excerpt: "分享一下獻慶幫指導教授林明發(發哥)，建立英文維基百科文本並投稿成功的過程。"
 categories: 

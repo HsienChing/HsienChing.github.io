@@ -1,5 +1,5 @@
 ---
-title: "[林明發] 關於林明發特聘教授的博士論文英文題目"
+title: "[林明發] 關於林明發特聘教授的博士論文英文題目 (About the English Title Correction of PhD Dissertation of Distinguished Professor Ming-Fa Lin)"
 date: 2024-05-15 10:30:00 +0800
 excerpt: "林明發特聘教授的博士論文英文題目有誤。已請國家圖書館及清大圖書館更正完畢。"
 categories:
