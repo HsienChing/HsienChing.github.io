@@ -3,7 +3,7 @@ title: "祝福一起撐過凱米颱風 <br> Wish We Can Survive Typhoon Gaemi To
 date: 2024-07-25 18:00:00 +0800
 excerpt: ""
 categories:
-  - I bless
+  - I Bless
   - 我祝福
 # tags:
 ---
@@ -24,5 +24,9 @@ Even if there is a disaster, get over it as soon as possible!
 
 <!--
 FB: https://www.facebook.com/hsienching.chung/posts/pfbid0bj1kMfHEgt7CsDdzULeUBa3Ki9T59qqcx3JGNt81MANw3zsiyqCuT6MpjvCUoE7Zl
+
+Twitter:
+https://x.com/HsienChing_/status/1816648950126117172
+https://x.com/HsienChing_/status/1816649142984409129
 -->
 
