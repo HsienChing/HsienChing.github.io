@@ -32,4 +32,20 @@ FB: https://www.facebook.com/share/p/o8Mteg2AY1QMh5VA/
 
 ---
 
+2024-07-14 Sunday
 
+Hot day at noon
+
+I went out on my motorcycle to buy lunch boxes for the whole family
+
+I was almost baked!
+
+On the way back, on Jhongming South Road
+
+There were two buses parked together in front, so I also stopped the motorcycle and waited behind, so that it would be safe.
+
+Then, I saw an interesting scene
+
+An elder sister got off the bus in front and got on the bus in the back directly.
+
+What a coincidence!
