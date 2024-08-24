@@ -557,13 +557,14 @@ Wikipedia: [Palatino](https://en.wikipedia.org/wiki/Palatino)
 <!--
 FB:
 1. https://www.facebook.com/hsienching.chung/posts/pfbid0DToXShdBxGoiMuVLkh9WKkxLay4GjSW3DHQqYj3HD3nmgYWF6RCMzQphtpUHNy8xl
-2. 
-
+2. https://www.facebook.com/hsienching.chung/posts/pfbid0n4p4gtER3AM86FxVTxU8vy2HzqjhVbz9ptNsQR9aZGd8JEnr7nHPLcGiq5ygTZE1l
 
 Twitter:
 1. https://x.com/HsienChing_/status/1801462065950847408
 2. https://x.com/HsienChing_/status/1804160428249092511
 3. https://x.com/HsienChing_/status/1806908399625675089
+4. https://x.com/HsienChing_/status/1827275851546947996
+5. https://x.com/HsienChing_/status/1827276503874224262
 
 -->
 
@@ -586,6 +587,5 @@ Twitter:
 "On Nov. 10th, 2022, the project acceptance procedure was carried out, and the system was officially operating."
 
 表示出版社又打錯字了。可見只用24小時來進行proofreading狀況會如何。
-
 
 -->
