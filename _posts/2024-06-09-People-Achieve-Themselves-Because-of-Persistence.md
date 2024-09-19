@@ -149,7 +149,7 @@ words
 conveys  
 the emotion  
 of  
-"ridicule",  
+"ridicule,"  
 but  
 does  
 not  

@@ -69,7 +69,7 @@ Sometimes
 we  
 hear:  
 "Don't be  
-clever"
+little clever"
 
 But  
 in fact,  
@@ -98,7 +98,7 @@ improvement
 by  
 humans!
 
-Cleverness  
+Little cleverness  
 is  
 very important,  
 it is  

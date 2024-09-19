@@ -63,7 +63,7 @@ permutations
 can  
 be  
 called  
-"poetry".
+"poetry."
 
 The people  
 who can  
@@ -77,7 +77,7 @@ It does not
 necessarily  
 require the  
 so-called  
-"understanding"!
+"understanding!"
 
 I just  
 hope that  

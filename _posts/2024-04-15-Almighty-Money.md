@@ -28,9 +28,9 @@ categories:
 手機通訊  
 是  
 零格，
- 
+
 我在想  
-萬能的  
+"萬能"的  
 錢  
 再多
 
@@ -38,7 +38,7 @@ categories:
 要  
 找誰去交易?
 
-去萬能!
+去"萬能"!
 
 ---
 
@@ -62,7 +62,7 @@ behind,
 Cell phone communication  
 is  
 zero,
- 
+
 I'm thinking  
 "Almighty"  
 money  
@@ -72,4 +72,4 @@ In a place like this,
 Who should I  
 turn to for business?
 
-Be "Almighty"!
+Be "Almighty!"

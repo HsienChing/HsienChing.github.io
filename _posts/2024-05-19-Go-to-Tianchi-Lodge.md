@@ -1,6 +1,6 @@
 ---
 title: "往天池山莊 <br> Go to Tianchi Lodge"
-date: 2024-05-19 00:10:00 +0800  # Format: 2024-02-22 15:40:26 +0800
+date: 2024-05-19 00:10:00 +0800
 excerpt: ""
 categories:
   - Poem
@@ -141,7 +141,7 @@ steps.
 There were  
 two round trips  
 in total.  
-It’s a  
+It's a  
 two-day trip,  
 one day to  
 come and  
@@ -192,7 +192,7 @@ suddenly
 lighted up!  
 Hence  
 this  
-article!
+poem!
 
 Then,  
 go back to  

@@ -92,7 +92,7 @@ the enemy
 
 Children  
 are  
-the enemy
+enemies
 
 The whole world  
 is  

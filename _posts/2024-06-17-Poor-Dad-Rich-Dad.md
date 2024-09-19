@@ -329,7 +329,7 @@ note
 that  
 "the dead  
 have no  
-voice".  
+voice."  
 A bunch of  
 "rich dads"  
 whose  

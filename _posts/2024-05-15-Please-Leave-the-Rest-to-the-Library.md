@@ -107,7 +107,7 @@ categories:
 是否  
 有用!
 
-若沒用，  
+若沒用。  
 請勿  
 浪費  
 資源  
@@ -233,8 +233,8 @@ whether
 this thing  
 is useful!
 
-If it doesn’t work,  
-don't  
+If it doesn't work.  
+Don't  
 waste  
 resources  
 on learning!

@@ -1,5 +1,5 @@
 ---
-title: "老闆錢不夠買機械手臂 <br> The Boss Doesn't Have Enough Money To Buy Robotic Arms"
+title: "老闆錢不夠買機械手臂 <br> The Boss Doesn't Have Enough Money to Buy Robotic Arms"
 date: 2024-06-12 00:10:00 +0800
 excerpt: ""
 categories:

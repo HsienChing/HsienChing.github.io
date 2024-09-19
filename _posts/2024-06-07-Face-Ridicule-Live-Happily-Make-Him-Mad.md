@@ -261,7 +261,7 @@ you can.
 So  
 who  
 is  
-"short-sighted"?
+"short-sighted?"
 
 Face  
 ridicule and  

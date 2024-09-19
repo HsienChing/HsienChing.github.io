@@ -31,7 +31,7 @@ categories:
 There are  
 always obstacles  
 that people  
-can’t get over!
+can't get over!
 
 Appears  
 often and  

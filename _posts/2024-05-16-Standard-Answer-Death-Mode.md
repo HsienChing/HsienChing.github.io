@@ -94,7 +94,7 @@ solve
 the problem  
 that  
 has been  
-"stuck".
+"stuck."
 
 Enter  
 "standard answer  

@@ -123,7 +123,7 @@ unlimited imagination.
 As long as  
 you  
 have  
-"passive income",  
+"passive income,"  
 you  
 will  
 be  
@@ -138,16 +138,16 @@ there is
 never  
 anything  
 called  
-"passive income"!
+"passive income!"
 
 If you  
-don’t  
+don't  
 believe it,  
 please  
 actually  
 do it!
 
-We don’t  
+We don't  
 need to  
 argue  
 about  
@@ -160,7 +160,7 @@ use your life
 to run  
 what you  
 think of as  
-"passive income"!
+"passive income!"
 
 Use your life  
 to  
@@ -186,11 +186,11 @@ So,
 now,  
 which one  
 is  
-"active income"?  
+"active income?"  
 And  
 which one  
 is  
-"passive income"?
+"passive income?"
 
 "Passive income"  
 that  
@@ -198,4 +198,4 @@ requires
 "active management"  
 should not  
 be called  
-"passive income"!
+"passive income!"

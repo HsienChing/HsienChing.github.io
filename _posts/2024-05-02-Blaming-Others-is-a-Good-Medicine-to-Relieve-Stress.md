@@ -71,7 +71,7 @@ categories:
 要  
 誠實面對  
 一些問題，  
-吃迷藥  
+嗑藥  
 是  
 解決不了問題!
 
@@ -97,7 +97,7 @@ and
 ignorance of  
 others.
 
-It’s  
+It's  
 really  
 very  
 refreshing!  

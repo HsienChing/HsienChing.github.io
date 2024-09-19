@@ -33,9 +33,9 @@ tags:
 99好了。  
 
 把這個  
-"9"  
+'9'  
 看成  
-"q"，  
+'q'，  
 
 扣你  
 一分，  
@@ -66,9 +66,9 @@ it would be better
 to change it to 99.
 
 Think of this  
-"9"  
+'9'  
 as  
-"q",
+'q,'
 
 I'll deduct  
 one point from you.

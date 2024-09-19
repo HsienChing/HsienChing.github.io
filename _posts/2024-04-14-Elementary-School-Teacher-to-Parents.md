@@ -25,8 +25,8 @@ categories:
 
 但  
 答案  
-總是
-對的。  
+總是  
+對的。
 
 ---
 
@@ -41,5 +41,5 @@ calculating,
 
 but  
 the answer  
-is always 
+is always  
 right.

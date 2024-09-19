@@ -1,5 +1,5 @@
 ---
-title: "去做我們覺得可能的夢想 <br> To Achive Dreams We Think are Possible"
+title: "去做我們覺得可能的夢想 <br> To Achieve Dreams We Think are Possible"
 date: 2024-05-24 00:10:00 +0800
 excerpt: ""
 categories:
@@ -183,7 +183,7 @@ and
 crude  
 words  
 like  
-"Just do it!
+"Just do it!"
 
 If  
 we have  

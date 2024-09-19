@@ -164,7 +164,7 @@ issue.
 
 In the end,  
 I said,  
-let’s  
+let's  
 bet!
 
 There are  
@@ -181,7 +181,7 @@ so they
 use the same  
 insurance method.
 
-Let’s see  
+Let's see  
 whether  
 insurance companies  
 will  
