@@ -1,5 +1,5 @@
 ---
-title: "自由滑行的舒適感 <br> Free-sliding Comfort"
+title: "自由滑行的舒適感 <br> Free-Sliding Comfort"
 date: 2024-07-10 00:10:00 +0800
 excerpt: ""
 categories:

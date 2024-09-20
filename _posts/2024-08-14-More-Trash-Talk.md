@@ -1,5 +1,5 @@
 ---
-title: "多來些垃圾話吧 <br> More trash talk"
+title: "多來些垃圾話吧 <br> More Trash Talk"
 date: 2024-08-14 00:10:00 +0800
 excerpt: ""
 categories:

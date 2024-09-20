@@ -63,7 +63,7 @@ feeling of
 the  
 only  
 one  
-in the world"!
+in the world!"
 
 See  
 a  
