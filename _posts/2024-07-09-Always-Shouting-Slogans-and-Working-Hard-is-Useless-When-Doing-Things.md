@@ -166,14 +166,14 @@ too difficult
 to complete,  
 which  
 requires  
-"work hard",  
+"work hard,"  
 such  
 comforting  
 words.
 
 After  
 saying  
-"work hard",  
+"work hard,"  
 if  
 there are  
 no  
@@ -183,7 +183,7 @@ resources
 invested,  
 it  
 becomes  
-"end of working hard"!
+"end of working hard!"
 
 But  
 many times,  
@@ -207,7 +207,7 @@ us
 feel  
 tired!  
 Disgusted with  
-"work hard"!
+"work hard!"
 
 We  
 need  

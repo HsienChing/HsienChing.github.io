@@ -77,7 +77,7 @@ categories:
 問
 
 為什麼  
-國家  
+政府  
 要  
 採取  
 這種  
@@ -162,7 +162,7 @@ you
 ask
 
 Why does  
-the country  
+the government  
 adopt  
 this kind  
 of  

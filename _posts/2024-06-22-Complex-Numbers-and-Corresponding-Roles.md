@@ -162,7 +162,7 @@ characters
 be  
 upgraded  
 to  
-"gods".
+"gods."
 
 Oh!  
 That  
@@ -179,7 +179,7 @@ I
 listened to  
 Joe Satriani's  
 song  
-ight Years Away  
+Light Years Away  
 and  
 got  
 some  

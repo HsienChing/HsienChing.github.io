@@ -137,7 +137,7 @@ categories:
 
 \-\-\-
 
-聽 Joe Satriani 的曲子Light Years Away，來了些靈感!
+聽 Joe Satriani 的曲子"Light Years Away"，來了些靈感!
 
 REF:  
 YouTube: [Joe Satriani - Light Years Away](https://www.youtube.com/watch?v=r2zjKYJHQnQ)

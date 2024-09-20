@@ -100,8 +100,7 @@ categories:
 也會  
 不同。
 
-很多  
-社會  
+很多   
 頂尖  
 的  
 創作，  
@@ -209,7 +208,7 @@ like
 I have  
 written  
 a  
-"trash talk"!
+"trash talk!"
 
 In fact,
 
@@ -239,7 +238,6 @@ will of course
 be different.
 
 Many of  
-society's  
 top creations  
 may not  
 have been  

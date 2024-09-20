@@ -148,7 +148,7 @@ every day
 Watch a video  
 every day
 
-Etc
+etc
 
 It  
 only  

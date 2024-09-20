@@ -30,7 +30,7 @@ categories:
 "年輕人  
 做事  
 比較有  
-"彈性"啦!  
+'彈性'啦!  
 而且  
 一個  
 成功  
@@ -68,7 +68,7 @@ this happen!"
 Ching:  
 "Young people  
 are more  
-"flexible"  
+'flexible'  
 in doing  
 things!  
 And  

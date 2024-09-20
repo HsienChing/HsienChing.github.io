@@ -64,6 +64,6 @@ Jump
 Jump  
 Jump
 
-still alive
+Still alive
 
 Enough

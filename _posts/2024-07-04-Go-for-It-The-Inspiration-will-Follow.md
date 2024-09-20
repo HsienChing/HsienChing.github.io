@@ -91,7 +91,7 @@ categories:
 跟著  
 來!
 
----
+\-\-\-
 
 在結束這首詩時，突然想到這首歌:  
 
@@ -166,7 +166,7 @@ doing it,
 the so-called  
 "inspiration"  
 will become  
-"zero-feeling".
+"zero-feeling."
 
 Once  
 we start  
@@ -182,7 +182,7 @@ The inspiration
 will  
 follow!
 
----
+\-\-\-
 
 As I was finishing this poem, this song suddenly came to mind:
 

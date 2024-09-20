@@ -384,12 +384,12 @@ Since
 there is  
 no such thing  
 as a  
-"perfect self",  
+"perfect self,"  
 then  
 accept our  
-"present self",  
+"present self,"  
 cooperate with our  
-"present self",  
+"present self,"  
 and  
 live  
 a  

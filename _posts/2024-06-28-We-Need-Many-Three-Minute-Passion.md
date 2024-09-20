@@ -157,7 +157,7 @@ burned
 out  
 quickly!
 
-"Three-minute passion",  
+"Three-minute passion,"  
 to be  
 honest,  
 is  
@@ -181,7 +181,7 @@ Although,
 we  
 can  
 only  
-"Three-minute passion".  
+"Three-minute passion."  
 But  
 don't  
 think  
