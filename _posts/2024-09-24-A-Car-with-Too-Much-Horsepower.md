@@ -47,7 +47,7 @@ Blessings to use the vehicle correctly and safely.
 Bless!
 
 <!--
-2024-09-
+2024-09-22 星期日
 在科博館西屯路停車場，從B1要往平面道路的上坡，柵欄前那段上坡最陡，又下雨天。而BMW那台車，車輪轉太快，失去抓地力，車輪空轉冒白煙。
 
 FB: 
