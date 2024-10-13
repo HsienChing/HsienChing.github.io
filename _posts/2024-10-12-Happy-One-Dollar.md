@@ -20,7 +20,9 @@ categories:
 
 女生: "不是啦!"
 
-看她熊熊講不出來，我想，也許她是在玩什麼"社團的冒險遊戲"。
+看她熊熊講不出來，表情又有點緊張。
+
+我想，也許她是在玩什麼"社團的冒險遊戲"。
 
 那就幫她一把，贊助一元! ^_^
 
@@ -64,7 +66,9 @@ Ching: "Do you want to call?"
 
 Girl: "No!"
 
-Seeing that she couldn't speak clearly, I thought maybe she was playing some "social adventure game."
+Seeing that she couldn't speak clearly, her expression was a bit nervous.
+
+I thought maybe she was playing some "social adventure game."
 
 Then I helped her and sponsored one dollar.
 
