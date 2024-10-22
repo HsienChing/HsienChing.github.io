@@ -8,7 +8,7 @@ categories:
 # tags:
 ---
 
-高等教育其實很貴，特別是去已開發國家留學。
+高等教育其實很貴，特別是去已開發國家留學。例如: 美國、英國、西歐等先進國家。
 
 獻慶的一位長輩，為了供應他的兒子去美國留學，讀博士。燒掉1000多萬，後來是賣掉一棟房子才湊足這些錢。
 
@@ -89,7 +89,7 @@ categories:
 
 ---
 
-Higher education is actually costly, especially studying in developed countries.
+Higher education is actually costly, especially studying in developed countries. For example: the United States, the United Kingdom, Western Europe and other advanced countries.
 
 One of my elders wanted to provide for his son to study in the United States and get a Ph.D. To raise the money, more than 300,000 USD was burned, and a house was sold.
 
