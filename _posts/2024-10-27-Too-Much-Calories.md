@@ -20,10 +20,10 @@ categories:
 
 為了保持肌肉量，又加入了慢跑，一周跑幾次，一次30分鐘。
 
-2024年2月到10月
-體重由97kg降到88kg
-BMI由32降到29
-體脂率由30降到28
+2024年2月到10月  
+體重由97kg降到88kg  
+BMI由32降到29  
+體脂率由30降到28  
 肌肉比率維持30
 
 身體比較容易移動，頭腦也變得比較靈光。
@@ -48,10 +48,10 @@ So I stopped eating midnight snacks, and after a few months, my weight started t
 
 In order to maintain muscle mass, I added jogging several times a week for 30 minutes at a time.
 
-February to October 2024
-Weight dropped from 97kg to 88kg
-BMI dropped from 32 to 29
-Body fat percentage dropped from 30 to 28
+February to October 2024  
+Weight dropped from 97kg to 88kg  
+BMI dropped from 32 to 29  
+Body fat percentage dropped from 30 to 28  
 Muscle ratio maintained at 30
 
 The body becomes easier to move and the mind becomes more alert.
