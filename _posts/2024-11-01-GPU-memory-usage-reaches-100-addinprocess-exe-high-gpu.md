@@ -1,6 +1,6 @@
 ---
 title: "[電腦維修][掃毒][木馬] GPU記憶體使用率達到100% / addinprocess.exe high gpu / addinprocess.exe virus <br> [Computer Repair][Anti-Virus][Trojan] GPU memory usage reaches 100% / addinprocess.exe high gpu / addinprocess.exe virus"
-date: 2024-06-13 00:11:00 +0800
+date: 2024-11-01 18:00:00 +0800
 excerpt: "紀錄處理木馬的過程。後來發現是木馬造成GPU記憶體使用率達到100%。 <br> Record the process of handling Trojans. It was later discovered that a Trojan caused the GPU memory usage to reach 100%."
 categories:
   - Solving issues
