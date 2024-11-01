@@ -64,7 +64,10 @@ Bless us!
 
 <!--
 FB: 
+https://www.facebook.com/hsienching.chung/posts/pfbid0SLYWnB4zU58nH1KNqo8ccLxEmRLhv9NtmjJWRANFTWETUPYKXBxjmMU21bkf9ZMjl
 
-Twitter:
+Twitter: 
+https://x.com/HsienChing_/status/1850362984754995481
+https://x.com/HsienChing_/status/1850363250510283199
 
 -->
