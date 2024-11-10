@@ -170,8 +170,18 @@ Windows Defender發現1隻木馬"Trojan:Win32/AgentTesla!ml"
 
 開始用筆電進行平常的文書工作。經過小時測試，根據使用的軟體，GPU記憶體使用率會稍微提升 (0.5/8.0 GB)，但沒有暴衝的狀況發生了 (8.0/8.0 GB)，看來已經處理掉問題了。
 
+筆電使用上，也順暢了許多! ^_^
+
 # 感想
 
 運氣不錯，在感冒的狀況下，還順利處理完畢!
 
 可以好好休息一下了! 感恩!
+
+<!--
+FB: 
+https://www.facebook.com/hsienching.chung/posts/pfbid02S1eqZmid9GQYFxByTqJK2vkWXcYfdPRsvy6SUun822DYn13VmmpWwZSZYvRdSgQgl
+
+Twitter: 
+https://x.com/HsienChing_/status/1852302331867738288
+-->
