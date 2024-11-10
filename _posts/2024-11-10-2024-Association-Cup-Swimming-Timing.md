@@ -1,7 +1,7 @@
 ---
 title: "[2024協會盃游泳計時] 鍾安得紀錄 <br> [2024 Association Cup Swimming Timing] Andrew Chung's Records"
 date: 2024-11-10 17:00:00 +0800
-excerpt: "恭喜鍾安得小朋友勇奪游泳項目比賽，世界排名前幾十億名，歷史排名幾百億名! <br> Congratulations to the child Andrew Chung for winning the swimming competition, ranking among the top billions in the world, and ranking among the tens of billions in history!"
+excerpt: "恭喜鍾安得小朋友在游泳項目，獲得世界排名前幾十億名，歷史排名幾百億名! <br> Congratulations to the child Andrew Chung for winning the swimming competition, ranking among the top billions in the world, and ranking among the tens of billions in history!"
 categories:
   - Swimming
   - 游泳
