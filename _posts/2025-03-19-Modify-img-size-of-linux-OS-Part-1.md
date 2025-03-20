@@ -1,6 +1,6 @@
 ---
 title: "縮小樹莓派作業系統使用的硬碟空間，並製作容量較小的img檔 <br> Reduce the hard disk space used by the Raspberry Pi operating system and create an img file with a smaller capacity"
-date: 2025-01-19 23:30:00 +0800
+date: 2025-03-19 23:30:00 +0800
 excerpt: "將樹莓派的 8 GB 的 OS image 檔寫入 128 GB 的 micro SD 後，使用一陣子後，再來製作這個 micro SD 卡的 img 檔，發現檔案大小就是這張 micro SD 卡的容量。明明系統只有使用 8 GB 的空間，怎麼 img 檔變成 128 GB 這麼大。該如何瘦身?"
 categories:
   - Linux
