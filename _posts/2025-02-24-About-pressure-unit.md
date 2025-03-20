@@ -31,6 +31,7 @@ Symbol: bar
 1 bar ≈  
 0.98692327 atm  
 14.503774 psi  
+10206.4 mmH<sub>2</sub>O  
 29.529983 inHg  
 750.06158 mmHg  
 750.06168 Torr

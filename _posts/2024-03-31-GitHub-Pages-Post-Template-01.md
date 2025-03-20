@@ -574,6 +574,8 @@ Result:
 console.log('Hello world');
 ~~~
 
+REF: [markdown_supported_languages](<https://github.com/jincheng9/markdown_supported_languages>)
+
 # 5. Hyperlinks
 
 Markdown supports two style of links: inline and reference.
