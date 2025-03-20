@@ -25,9 +25,8 @@ toc_icon: "columns"
 
 NOTE: 樹莓派的 OS image 檔，有太多種了，一般而言，容量大小從2到16 GB都有。
 
-<!--
-NOTE: 如果樹莓派的 Linux OS 系統已經經過 raspi-config 的空間擴展，將使用空間擴展到整片 micro SD 卡，請看本Po文。如果樹莓派的 Linux OS 系統沒有經過空間擴展，只是想單純將小容量的作業系統製作 img 檔，請看此Po文 ([不改變樹莓派作業系統使用的硬碟空間，並製作容量較小的img檔]({{ site.baseurl }}{% link _posts/2025-03-20-Modify-img-size-of-linux-OS-Part-2.md %}))。
--->
+NOTE: 如果樹莓派的 Linux OS 系統已經經過 raspi-config 的空間擴展，將使用空間擴展到整片 micro SD 卡，請看此Po文 ([縮小樹莓派作業系統使用的硬碟空間，並製作容量較小的img檔]({{ site.baseurl }}{% link _posts/2025-03-19-Modify-img-size-of-linux-OS-Part-1.md %}))。如果樹莓派的 Linux OS 系統沒有經過空間擴展，只是想單純將小容量的作業系統製作 img 檔，請看本Po文。
+
 # 2. 處理方式
 
 ## 2.1. 軟硬體環境
@@ -261,9 +260,8 @@ PS: `dd` 的原意為 data duplicator，但由於 `dd` 屬於較低階的資料�
 
 進入系統後，執行其他應用程式，測試系統是否可正常運作。
 
-<!--
-詳細測試，請參考Po文 ( [縮小樹莓派作業系統使用的硬碟空間，並製作容量較小的img檔]({{ site.baseurl }}{% link _posts/2025-03-20-Modify-img-size-of-linux-OS-Part-1.md %}) )
--->
+詳細測試，請參考Po文 ( [縮小樹莓派作業系統使用的硬碟空間，並製作容量較小的img檔]({{ site.baseurl }}{% link _posts/2025-03-19-Modify-img-size-of-linux-OS-Part-1.md %}) )
+
 # 4. 瘦身比例計算
 
 整張 32 GB 的 micro SD 卡，其 img 檔大小為 29.8 GB   
