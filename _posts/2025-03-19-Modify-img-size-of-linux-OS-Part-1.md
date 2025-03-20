@@ -24,9 +24,9 @@ toc_icon: "columns"
 該如何瘦身?
 
 NOTE: 樹莓派的 OS image 檔，有太多種了，一般而言，容量大小從2到16 GB都有。
-
+<!--
 NOTE: 如果樹莓派的 Linux OS 系統已經經過 raspi-config 的空間擴展，將使用空間擴展到整片 micro SD 卡，請看本Po文。如果樹莓派的 Linux OS 系統沒有經過空間擴展，只是想單純將小容量的作業系統製作 img 檔，請看此Po文 ([不改變樹莓派作業系統使用的硬碟空間，並製作容量較小的img檔]({{ site.baseurl }}{% link _posts/2025-03-20-Modify-img-size-of-linux-OS-Part-2.md %}))。
-
+-->
 # 2. 處理方式
 
 ## 2.1. 軟硬體環境
