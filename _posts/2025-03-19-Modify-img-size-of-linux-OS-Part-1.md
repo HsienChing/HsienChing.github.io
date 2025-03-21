@@ -143,8 +143,8 @@ The filesystem on /dev/sdb2 is now 4475657 (4k) blocks long.
 可以換算為 17.07 GB。表示 `sdb2` 的使用空間已經由上百GB縮小到 17 GB左右。
 
 計算方式:  
-4475657*4=17902628 (kB)  
-17902628/1024/1024=17.07 (GB)
+4475657 * 4 = 17902628 (kB)  
+17902628 / 1024 / 1024 = 17.07 (GB)
 
 ## 2.8. 執行指令 `sudo fdisk /dev/sdb`
 
@@ -186,17 +186,34 @@ Device     Boot   Start       End   Sectors   Size Id Type
 
 之前用 `resize2fs` 調整文件系統為 17.07 GB (17902628 kB)  
 這裡手動計算結束sector  
+
+### 2.9.1. 保守計算
+
 以17.1GB來進行計算(17.1 GB > 17.07 GB 較安全)
 
 17.1 GB所需sector為  
 17.1 GB * 1024 (MB/GB) * 1024 (kB/MB) * 1024 (B/kB) * (1/512) (sector/B)   
 = 17.1 * 1024 * 1024 * 1024 / 512  
-= 35861299.2 sectors  
-~ 35861300 sectors (無條件進位)
+= 35861299.2 (sector)   
+~ 35861300 (sector) (無條件進位)
 
 可算得 `sdb2` 的結束sector為  
 = `sdb2` 開始的sector + 17.1 GB所需sector  
-= 1056768 + 35861300 = 36918068
+= 1056768 + 35861300  
+= 36918068 (sector)
+
+### 2.9.2. 極限計算
+
+以17902628 kB來計算以512B為1單位的sector數量
+
+17902628 kB * 1024 (B/kB) * (1/512) (sector/B)  
+= 17902628 * 1024 / 512  
+= 35805256 (sector)  
+
+可算得 `sdb2` 的結束sector為  
+= `sdb2` 開始的sector + (17902628 kB的sector數量) - 1  
+= 1056768 + 35805256 -1  
+= 36862023 (sector)
 
 ## 2.10. 繼續執行指令 `sudo fdisk /dev/sdb`
 
@@ -212,7 +229,7 @@ Device     Boot   Start       End   Sectors   Size Id Type
 6. 輸入2，設置分區號為2
 7. 輸入分區開始位置:  1056768，抄原來的開始sector位置
 8. Do you want to remove the signature? [Y]es/[N]o: n
-9. 輸入分區結束位置: 35861300，结束sector是手算出來的
+9. 輸入分區結束位置: 36918068，结束sector是手算出來的。可填入保守計算值36918068，或是極限計算值36862023。這次選擇保守計算值。
 10. 輸入p，再次查看分區情况
 11. 輸入w，保存設置並退出
 
@@ -390,7 +407,7 @@ mmcblk0     179:0    0 29.8G  0 disk
 
 17.1 GB的 `mmcblk0p2` 區塊就是我們之前在Linux系統中瘦身成功的硬碟區塊 `sdb2`。
 
-## 3.2. 執行指令 `df`
+## 3.3. 執行指令 `df`
 
 會看到下面的資訊
 
@@ -457,7 +474,7 @@ tmpfs           5.0M   48K  5.0M   1% /run/lock
 tmpfs           806M  192K  806M   1% /run/user/1000
 ```
 
-## 3.3. 執行指令 `sudo apt-get update` 及 `sudo apt-get upgrade`
+## 3.4. 執行指令 `sudo apt-get update` 及 `sudo apt-get upgrade`
 
 更新Linux作業系統。
 
@@ -465,7 +482,7 @@ tmpfs           806M  192K  806M   1% /run/user/1000
 
 這時候就會突然了解到，為何不要瘦身太極限。如果我們將 `mmcblk0p2` 這個區塊瘦到極限，那就沒有空間去運作Linux作業系統，甚至是update。
 
-## 3.4. 執行其他應用程式
+## 3.5. 執行其他應用程式
 
 執行一些自己平常在使用的應用程式，看看是否都運作正常。
 
