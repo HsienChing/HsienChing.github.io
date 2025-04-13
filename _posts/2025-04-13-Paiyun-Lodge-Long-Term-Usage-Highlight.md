@@ -1,6 +1,6 @@
 ---
 title: "[工程研究][論文亮點] 離網型太陽能系統與鋰離子電池儲能系統於高山上的長期使用: 台灣玉山排雲山莊案例研究 <br> [Engineering research][Highlights] The Long-Term Usage of an Off-Grid Photovoltaic System with a Lithium-Ion Battery-Based Energy Storage System on High Mountains: A Case Study in Paiyun Lodge on Mt. Jade in Taiwan"
-date: 2024-06-13 19:00:00 +0800
+date: 2025-04-13 19:00:00 +0800
 excerpt: "紀錄這篇論文的一些亮點，跟引用的狀況 <br> Record some highlights of this article and the citation status"
 categories:
   - Engineering research
@@ -239,9 +239,13 @@ Link: <https://www.researchgate.net/publication/381415157>
 
 # 4. 總結 (Summary)
 
+該研究確實驗證了太陽能儲能系統可長時間且穩定地於高海拔地區實際應用。也驗證了鋰離子電池儲能系統在高山低氣壓狀況下的耐用性。
+
 想要了解一篇學術文章在發表後，對世界影響的狀況，其實不太容易。
 
 這次也只能僅憑一些資料庫、新聞等了解狀況。而且耗費了相當多的時間去看。
+
+This study has indeed verified that solar energy storage systems can be used in high-altitude areas for a long time with stably. It also verified the durability of lithium-ion battery energy storage systems in high mountain and low air pressure conditions.
 
 It is actually not easy to understand the impact of an academic article on the world after it is published.
 
