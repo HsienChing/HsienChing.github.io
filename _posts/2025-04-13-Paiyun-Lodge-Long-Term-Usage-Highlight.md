@@ -192,7 +192,7 @@ When searching on 2024-07-09, it was found that both the video and image abstrac
 <figure>
 <center>
   <img src="{{ site.baseurl }}{% link /assets/images/2025/Battery_publisher_e-mail-f-2025-02-25.jpg %}" alt="" style="width:90%">
-  <figcaption>Batteries Highly Accessed Articles</figcaption>
+  <figcaption>The letter from Batteries Editorial Office (Date: 2025-02-25)</figcaption>
 </center>
 </figure>
 
