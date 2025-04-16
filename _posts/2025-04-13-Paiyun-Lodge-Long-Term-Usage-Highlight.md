@@ -206,6 +206,12 @@ Invited to participate in the 40th anniversary celebration of the Yushan Nationa
 
 Link: <https://dream-and-creation.blogspot.com/2025/04/40-2025-04-10.html>
 
+<!--
+FB: https://www.facebook.com/YuShanNationalPark/posts/pfbid0m7aCkRBFTr2RscBmpZUDUQbzsYYEN2CbpXja9XSS5rqqoNoG95AbjDPkPer3ycvel
+
+FB: https://www.facebook.com/YuShanNationalPark/posts/pfbid02i4ymHUsWricp16yDomFdybwEvCvzYi19N2uEUxe5RDHm4FcGdisYRXzhtoXyAKy1l
+-->
+
 
 # 3. 引用評論 (Citing comments)
 
