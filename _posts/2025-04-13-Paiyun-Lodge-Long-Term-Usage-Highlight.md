@@ -196,6 +196,16 @@ When searching on 2024-07-09, it was found that both the video and image abstrac
 </center>
 </figure>
 
+### 2.5.2. 2025-04-16 建議變更文章類型 (Suggested article type change)
+ 
+出版社通知這篇文章的文章類型，其實比較屬於 Regular Article 而不是 Case Report，希望作者同意變更文章類型。我同意變更。
+
+在 2025-04-17 文章類型就由 Case Report 變更為 Regular Article。
+
+The publisher informed the author that the article type is actually more like a Regular Article than a Case Report, and hopes that the author will agree to change the article type. I agree with the changes.
+
+On 2025-04-17, the article type was changed from Case Report to Regular Article.
+
 ## 2.6. 政府機關邀請展覽 (Invited by government agencies to hold exhibitions)
 
 ### 2.6.1. 受邀參與玉管處40周年處慶 (Invited to participate in the 40th anniversary celebration of the Yushan National Park Headquarters)
