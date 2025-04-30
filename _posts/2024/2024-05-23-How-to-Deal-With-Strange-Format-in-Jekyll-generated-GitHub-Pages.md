@@ -75,4 +75,4 @@ title: "使用Jekyll架網站時，\"GitHub Pages\"網頁的顯示會出現奇�
 
 # 相關Po文
 
-[GitHub Pages Post - Markdown File Template 01/#11-backslash-escapes]({{ site.baseurl }}{% link _posts/2024-03-31-GitHub-Pages-Post-Template-01.md %}#11-backslash-escapes)
+[GitHub Pages Post - Markdown File Template 01/#11-backslash-escapes]({{ site.baseurl }}{% link _posts/2024/2024-03-31-GitHub-Pages-Post-Template-01.md %}#11-backslash-escapes)
