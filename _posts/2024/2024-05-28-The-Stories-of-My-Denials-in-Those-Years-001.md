@@ -87,7 +87,7 @@ categories:
 
 # 相關Po文
 
-[[教授名言003] 人一生通常至少要換三次工作!]({{ site.baseurl }}{% link _posts/2024-04-06-Professor-Talk-003.md %})
+[[教授名言003] 人一生通常至少要換三次工作!]({{ site.baseurl }}{% link _posts/2024/2024-04-06-Professor-Talk-003.md %})
 
 # 相關連結
 

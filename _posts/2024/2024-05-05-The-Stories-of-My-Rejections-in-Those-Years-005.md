@@ -114,6 +114,6 @@ categories:
 
 # 相關Po文
 
-[關於這個系列 - 那些年，我被拒絕的故事 / About the Series - The Stories of My Rejections in Those Years.]({{ site.baseurl }}{% link _posts/2024-04-22-About-the-Series-the-Stories-of-My-Rejections-in-Those-Years.md %})
+[關於這個系列 - 那些年，我被拒絕的故事 / About the Series - The Stories of My Rejections in Those Years.]({{ site.baseurl }}{% link _posts/2024/2024-04-22-About-the-Series-the-Stories-of-My-Rejections-in-Those-Years.md %})
 
 文章列表: [那些年，我被拒絕的故事](https://hsienching.github.io/categories/#%E9%82%A3%E4%BA%9B%E5%B9%B4-%E6%88%91%E8%A2%AB%E6%8B%92%E7%B5%95%E7%9A%84%E6%95%85%E4%BA%8B) 
