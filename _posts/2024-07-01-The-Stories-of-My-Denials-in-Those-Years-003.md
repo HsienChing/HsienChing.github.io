@@ -104,6 +104,6 @@ categories:
 
 # 相關Po文
 
-[那些年，我被否定的故事 1 <br> The Stories of My Denials in Those Years. 1]({{ site.baseurl }}{% link _posts/2024/2024-05-28-The-Stories-of-My-Denials-in-Those-Years-001.md %})
+[那些年，我被否定的故事 1 <br> The Stories of My Denials in Those Years. 1]({{ site.baseurl }}{% link _posts/2024-05-28-The-Stories-of-My-Denials-in-Those-Years-001.md %})
 
-[那些年，我被否定的故事 2 <br> The Stories of My Denials in Those Years. 2]({{ site.baseurl }}{% link _posts/2024/2024-06-21-The-Stories-of-My-Denials-in-Those-Years-002.md %})
+[那些年，我被否定的故事 2 <br> The Stories of My Denials in Those Years. 2]({{ site.baseurl }}{% link _posts/2024-06-21-The-Stories-of-My-Denials-in-Those-Years-002.md %})

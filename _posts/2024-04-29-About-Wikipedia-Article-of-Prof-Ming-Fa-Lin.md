@@ -188,7 +188,7 @@ Wikipedia: [Category:21st-century Taiwanese scientists](https://en.wikipedia.org
 
 # 相關Po文
 
-[[林明發] 關於林明發特聘教授的ORCiD]({{ site.baseurl }}{% link _posts/2024/2024-04-11-ORCiD-Prof-Ming-Fa-Lin.md %})
+[[林明發] 關於林明發特聘教授的ORCiD]({{ site.baseurl }}{% link _posts/2024-04-11-ORCiD-Prof-Ming-Fa-Lin.md %})
 
 # 相關連結
 

@@ -41,4 +41,3 @@ Very smart white Mercedes-Benz SUV, bye, I'm leaving first!
 <!--
 2024-10-25 星期五 早上9點左右
 我在台中市五權西路跟惠中路交叉口的，中油直營加油站加油時，發生的事情。
--->

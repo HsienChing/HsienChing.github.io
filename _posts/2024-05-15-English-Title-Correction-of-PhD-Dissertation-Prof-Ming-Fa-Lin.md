@@ -114,9 +114,9 @@ Wikipedia: [Talk:Ming-Fa_Lin](https://en.wikipedia.org/wiki/Talk:Ming-Fa_Lin)
 
 # 相關Po文
 
-[[林明發] 關於林明發特聘教授的ORCiD]({{ site.baseurl }}{% link _posts/2024/2024-04-11-ORCiD-Prof-Ming-Fa-Lin.md %})
+[[林明發] 關於林明發特聘教授的ORCiD]({{ site.baseurl }}{% link _posts/2024-04-11-ORCiD-Prof-Ming-Fa-Lin.md %})
 
-[關於林明發特聘教授的英文維基百科]({{ site.baseurl }}{% link _posts/2024/2024-04-29-About-Wikipedia-Article-of-Prof-Ming-Fa-Lin.md %})
+[關於林明發特聘教授的英文維基百科]({{ site.baseurl }}{% link _posts/2024-04-29-About-Wikipedia-Article-of-Prof-Ming-Fa-Lin.md %})
 
 Blogger: [[臺灣博碩士論文知識加值系統] 單層與雙層奈米石墨帶的電子及光學性質，英文姓名錯誤更正](https://dream-and-creation.blogspot.com/2023/12/blog-post.html)  
 這是類似的問題，發生在獻慶的博士論文。只不過這次是英文姓名錯誤。

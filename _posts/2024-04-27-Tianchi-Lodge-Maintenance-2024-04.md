@@ -87,7 +87,7 @@ toc_icon: "columns"
 
 # 相關Po文
 
-[[職業安全衛生] 挑選登山頭盔/岩盔/登山安全帽。3M™ SecureFit™ X5000 系列安全帽。]({{ site.baseurl }}{% link _posts/2024/2024-04-17-Choosing-a-Mountaineering-Helmet-3M-SecureFit-Safety-Helmet-X5000-Series.md %})
+[[職業安全衛生] 挑選登山頭盔/岩盔/登山安全帽。3M™ SecureFit™ X5000 系列安全帽。]({{ site.baseurl }}{% link _posts/2024-04-17-Choosing-a-Mountaineering-Helmet-3M-SecureFit-Safety-Helmet-X5000-Series.md %})
 
 # 相關連結
 
