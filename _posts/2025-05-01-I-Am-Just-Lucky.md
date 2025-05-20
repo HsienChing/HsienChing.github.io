@@ -28,13 +28,13 @@ categories:
 
 哈!
 
-看來人會選擇自己認為的真相!
+看來人會選擇自己認為的 "真相"!
 
 後來，這種事，在我的生命中不斷發生!
 
-我也懶得解釋太多了!
+我也難以解釋太多!
 
-總之，我這個人就是運氣好!
+也許，我這個人就是運氣好!
 
 無論真相如何!
 
@@ -66,13 +66,13 @@ Maybe they don't want to accept "I can get perfect marks even if I look stupid!"
 
 Ha!
 
-It seems that people will choose what they think is the truth!
+It seems that people will choose what they think is the "truth!"
 
 Later, this kind of thing kept happening in my life!
 
-I'm too lazy to explain too much!
+I'm too hard to explain in detail!
 
-In short, I am just lucky!
+Perhaps, I am just lucky!
 
 No matter what the truth is!
 
