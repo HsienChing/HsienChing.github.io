@@ -40,6 +40,8 @@ categories:
 
 你們相信就好!
 
+運氣確實是成功的要素之一!
+
 祝福我們的運氣都很好!
 
 祝福大家!
@@ -77,6 +79,8 @@ Perhaps, I am just lucky!
 No matter what the truth is!
 
 Just believe it!
+
+Luck is indeed an element of success!
 
 Wish us all good luck!
 
