@@ -62,8 +62,7 @@ Humans are omnivorous "top consumers" (or top predators) in ecosystems because t
 
 # 科博館: 《出發吧!野虎》繪本推廣活動 (National Museum of Natural Science: Promotion of the picture book "Let's Go! Wild Tiger")
 
-REF:  
-[科博館: 《出發吧!野虎》繪本推廣](https://apply.nmns.edu.tw/public/activity/2299/actContent.asp?actId=2299)
+REF: [科博館: 《出發吧!野虎》繪本推廣](https://apply.nmns.edu.tw/public/activity/2299/actContent.asp?actId=2299)
 
 # 關於《出發吧!野虎》繪本
 
@@ -92,12 +91,7 @@ REF:
 帶小朋友去科博館參加 "《出發吧!野虎》繪本推廣" 活動。
 -->
 
-
-
-
 <!--
-FB: 
-Twitter:
+FB: https://www.facebook.com/hsienching.chung/posts/pfbid025LVuxzHdxLnzTaeYzGWYeNTczC553KmKLv89N3kXMUaqJv7kaPGwBXd1whAfcotKl
+Twitter: https://x.com/HsienChing_/status/1975918098835476715
 -->
-
-
