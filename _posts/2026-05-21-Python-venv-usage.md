@@ -174,7 +174,7 @@ deactivate
 
 以 `git` 為例，在 `.gitignore` 檔案中，加入下列內容。
 
-```gitignore
+```
 # Python virtual environment
 venv/
 .env/
