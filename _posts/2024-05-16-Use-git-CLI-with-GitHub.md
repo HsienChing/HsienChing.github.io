@@ -138,7 +138,7 @@ Changes to be committed:
 
 這時`Changes to be committed`的檔案就新增了一個`index.html`
 
-NOTE: 若嫌一個檔案一個檔案慢慢加很慢，可以用`git add --add`或`git add .`，一次全部加入。
+NOTE: 若嫌一個檔案一個檔案慢慢加很慢，可以用`git add --all`或`git add .`，一次全部加入。
 
 ## Command: git rm --cached <file>
 
