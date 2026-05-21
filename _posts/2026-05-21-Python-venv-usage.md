@@ -15,10 +15,10 @@ toc_icon: "columns"
 
 # 1. 為什麼要用 Python 的虛擬環境 venv ?
 
-Python 的虛擬環境 (virtual environment) 能夠讓每個專案 (project) 或是 應用程式 (Application) 使用獨立的 Python 套件版本，避免以下問題:
+Python 的虛擬環境 (virtual environment) 能夠讓每個專案 (project) 或是 應用程式 (application) 使用獨立的 Python 套件版本，避免以下問題:
 
 1. 避免安裝污染及版本衝突。不同專案可能需要不同版本的套件。例如: A 專案要用 Numpy==1.0.0，B 專案要用 Numpy==2.4.0，如果都裝在同一個地方會打架。
-2. 容易部署。requirements.txt 可以用來還原乾淨的環境。
+2. 容易部署。 `requirements.txt` 可以用來還原乾淨的環境。
 
 # 2. 使用方式 - 懶人包
 
@@ -45,7 +45,7 @@ venv\Scripts\activate
 3. 安裝套件
 
 ```bash
-python pip install <application>
+python -m pip install <application>
 ```
 
 其中，`<application>` 為套件名稱。
@@ -86,7 +86,7 @@ python -m venv /path/to/new/virtual/environment
 
 # 5. 如何啟用 Python 的虛擬環境 venv
 
-Python 的虛擬環境可以透過位於二進位檔案目錄中的腳本「啟用」(在 Linux/macOS 上為 `bin`；在 Windows 上為 `Scripts`) 這會將該目錄加入到你的 `PATH`，當你運行 python 時就會叫用該環境的直譯器並且執行已安裝的腳本，而不需要使用完整的路徑。
+Python 的虛擬環境可以透過位於二進位檔案目錄中的腳本「啟用」(在 Linux/macOS 上為 `bin`；在 Windows 上為 `Scripts`) 這會將該目錄加入到你的 `PATH`，當我們運行 python 時就會叫用該環境的直譯器並且執行已安裝的腳本，而不需要使用完整的路徑。
 
 啟動腳本的方式因作業系統平台而異（其中指令中的 `<venv>` 需要替換成包含虛擬環境的目錄路徑）
 
@@ -97,12 +97,12 @@ source <venv>/bin/activate
 
 在 Windows 系統中，使用 `cmd`:
 ```bash
-venv\Scripts\activate
+venv/Scripts/activate
 ```
 
 在 Windows 系統中，使用 `PowerShell`:
 ```bash
-venv\Scripts\Activate.ps1
+venv/Scripts/Activate.ps1
 ```
 
 PS:  
@@ -133,21 +133,22 @@ PS: 可使用 `where pip` 指令，來確定套件安裝資料夾。若正常狀
 
 # 7. 依賴列表
 
-在 Python 虛擬環境中，pip 不要求我們逐一安裝套件，而是允許在 requirements.txt 檔案中聲明所有依賴套件。例如，我們可以建立一個名為 `requirements.txt` 的文件 (或使用其他自訂名字)，該文件的內容如下:
+在 Python 虛擬環境中， `pip` 不要求我們逐一安裝套件，而是允許在 requirements.txt 檔案中聲明所有依賴套件。例如，我們可以建立一個名為 `requirements.txt` 的文件 (或使用其他自訂名字)，該文件的內容如下:
 
 ```
+numpy==2.4.0
 requests==2.18.4
 google-auth==1.1.0
 ```
 
 使用以下指令建立依賴列表
 ```bash
-pip freeze > requirements.txt
+python -m pip freeze > requirements.txt
 ```
 
 然後使用 `-r` 標誌告訴 pip 安裝此檔案中列出的所有套件:
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 這樣有個好處，只需將 `requirements.txt` 加入版本控制，其他人也能重建環境。
 
@@ -173,7 +174,7 @@ deactivate
 
 以 `git` 為例，在 `.gitignore` 檔案中，加入下列內容。
 
-```
+```gitignore
 # Python virtual environment
 venv/
 .env/
