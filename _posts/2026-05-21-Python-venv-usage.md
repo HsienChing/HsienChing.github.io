@@ -1,6 +1,6 @@
 ---
 title: "[Python] 如何建立並使用 Python 的虛擬環境 venv"
-date: 2026-05-21 23:30:00 +0800
+date: 2026-05-21 16:00:00 +0800
 excerpt: "建立 Python 的虛擬環境 venv，並討論常遭遇到的安裝錯誤狀況。"
 categories: 
   - Study
