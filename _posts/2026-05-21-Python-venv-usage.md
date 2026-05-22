@@ -39,7 +39,7 @@ source <venv>/bin/activate
 
 在 Windows 系統中，使用 cmd:
 ```bash
-venv\Scripts\activate
+venv/Scripts/activate
 ```
 
 3. 安裝套件
