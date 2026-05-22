@@ -95,3 +95,7 @@ git merge origin/<分支名稱>
 ```
 
 合併後，就可以繼續專案處理。當有檔案要存檔，並更新 GitHub 上時，就回到 "情境2" 的操作。
+
+# 相關Po文
+1. [[學習] 使用git CLI並與GitHub共同運作(基礎篇)](https://hsienching.github.io/2024/05/16/Use-git-CLI-with-GitHub/)
+2. [[學習] 使用.gitignore檔案讓git忽略特定的檔案或資料夾，不要進行版本管理。](https://hsienching.github.io/2024/05/18/Use-.gitignore-File-to-Let-git-Ignore-Files/)
