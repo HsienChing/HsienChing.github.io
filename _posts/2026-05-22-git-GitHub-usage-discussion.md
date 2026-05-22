@@ -8,6 +8,7 @@ categories:
 tags:
   - Git
   - GitHub
+  - Multi-computer
 toc: true
 toc_sticky: false
 toc_label: "Table of contents"
