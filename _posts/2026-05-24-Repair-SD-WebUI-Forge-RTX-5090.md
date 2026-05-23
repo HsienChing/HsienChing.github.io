@@ -295,5 +295,5 @@ RTX 5090 Laptop 屬於：
     先關掉，之後再慢慢處理。
 
 # 相關資源
-stable-diffusion-webui-forge 的 GitHub:  
-https://github.com/lllyasviel/stable-diffusion-webui-forge
+stable-diffusion-webui-forge 的官方 GitHub:  
+<https://github.com/lllyasviel/stable-diffusion-webui-forge>
