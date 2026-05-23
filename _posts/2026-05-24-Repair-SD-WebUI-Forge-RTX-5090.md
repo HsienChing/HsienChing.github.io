@@ -28,7 +28,7 @@ toc_icon: "columns"
 當然，事情沒那麼順利，直接出現一堆 error code。
 
 error code 案例:
-```
+```bash
 D:\SdForge\webui_forge_cu121_torch231\webui\venv\lib\site-packages\torch\cuda\__init__.py:209: UserWarning: NVIDIA GeForce RTX 5090 Laptop GPU with CUDA capability sm_120 is not compatible with the current PyTorch installation. The current PyTorch install supports CUDA capabilities sm_50 sm_60 sm_61 sm_70 sm_75 sm_80 sm_86 sm_90. If you want to use the NVIDIA GeForce RTX 5090 Laptop GPU GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
 ```
 
@@ -76,132 +76,132 @@ RTX 5090 Laptop 屬於：
 
 1. 升級 NVIDIA Driver。
 
-該步驟在 Windows 直接按右下角的 NVIDIA 符號，進去找驅動程式更新就搞定了。
+    該步驟在 Windows 直接按右下角的 NVIDIA 符號，進去找驅動程式更新就搞定了。
 
 2. 進入 `Forge` 的安裝資料夾後，使用 `cmd`。
 
-```bash
-D:\SdForge\webui_forge_cu121_torch231maxnb\webui
-```
+    ```bash
+    D:\SdForge\webui_forge_cu121_torch231maxnb\webui
+    ```
 
 3. 先確認 `pip` 的位置
 
-先確認 `pip` 的位置。
+    先確認 `pip` 的位置。
 
-PS: 這點很重要，因為沒有先確認，讓筆者整整浪費一天在不斷重複安裝，結果只是安裝到錯誤位置。
+    PS: 這點很重要，因為沒有先確認，讓筆者整整浪費一天在不斷重複安裝，結果只是安裝到錯誤位置。
 
-```bash
-where pip
-```
+    ```bash
+    where pip
+    ```
 
-結果顯示
-```bash
-D:\SdForge\webui_forge_cu128_torch211\webui>where pip
-C:\Users\hsien\AppData\Local\Programs\Python\Python310\Scripts\pip.exe
-```
-這表示，路徑連結到主系統的 Python 了。(主系統 Python 安裝在 C 槽)
+    結果顯示
+    ```bash
+    D:\SdForge\webui_forge_cu128_torch211\webui>where pip
+    C:\Users\hsien\AppData\Local\Programs\Python\Python310\Scripts\pip.exe
+    ```
+    這表示，路徑連結到主系統的 Python 了。(主系統 Python 安裝在 C 槽)
 
-必須看到 `pip` 是出現在 Python 虛擬環境中的資料夾才對 (類似下面的訊息)。如果不是，代表還沒進 venv。
-```bash
-D:\SdForge\webui_forge_cu121_torch231\webui\venv\Scripts\pip.exe
-```
-( Python 的虛擬環境 `venv` 安裝在 D 槽)
+    必須看到 `pip` 是出現在 Python 虛擬環境中的資料夾才對 (類似下面的訊息)。如果不是，代表還沒進 `venv`。
+    ```bash
+    D:\SdForge\webui_forge_cu121_torch231\webui\venv\Scripts\pip.exe
+    ```
+    ( Python 的虛擬環境 `venv` 安裝在 D 槽)
 
-由於沒有看到 `pip` 是出現在 Python 虛擬環境中的資料夾，因此接下來的安裝動作，前面都要加上 `python -m`，強制將 Python 套件安裝在該虛擬環境下。
+    由於沒有看到 `pip` 是出現在 Python 虛擬環境中的資料夾，因此接下來的安裝動作，前面都要加上 `python -m`，強制將 Python 套件安裝在該虛擬環境下。
 
-NOTE: 
-為何要加上 `python -m`，可參考Po文:  
-[[Python] 如何建立並使用 Python 的虛擬環境 venv](https://hsienching.github.io/2026/05/21/Python-venv-usage/)
+    NOTE: 
+    為何要加上 `python -m`，可參考Po文:  
+    [[Python] 如何建立並使用 Python 的虛擬環境 venv](https://hsienching.github.io/2026/05/21/Python-venv-usage/)
 
 4. 啟動 Python 的 `venv`：
-```bash
-venv\Scripts\activate
-```
+    ```bash
+    venv\Scripts\activate
+    ```
 
 5. 移除舊版 PyTorch
-```
-python -m pip uninstall torch torchvision torchaudio xformers -y
-```
+    ```
+    python -m pip uninstall torch torchvision torchaudio xformers -y
+    ```
 
 6. 安裝新版 PyTorch（重要）
 
-針對 RTX 50 系列，目前建議：
-```bash
-python -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
-```
+    針對 RTX 50 系列，目前建議：
+    ```bash
+    python -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+    ```
 
-這會安裝：
-- CUDA 12.8 版 Torch
-- 支援 RTX 5090 / sm_120
+    這會安裝：
+    - CUDA 12.8 版 Torch
+    - 支援 RTX 5090 / sm_120
 
 7. 移除 `xformers`
 
-原來有裝 `xformers`，但後來發現會造成 `Forge` 啟動錯誤。經過測試，直接移除 `xformers` 就對了。
+    原來有裝 `xformers`，但後來發現會造成 `Forge` 啟動錯誤。經過測試，直接移除 `xformers` 就對了。
 
-使用下面指令移除 `xformers`
-```bash
-python -m pip install uninstall xformers -y
-```
+    使用下面指令移除 `xformers`
+    ```bash
+    python -m pip install uninstall xformers -y
+    ```
 
-完全停用 `xformers`。讓 Torch 2.11 使用原生 SDP attention。這才是 RTX 5090 目前最穩方案。
+    完全停用 `xformers`。讓 Torch 2.11 使用原生 SDP attention。這才是 RTX 5090 目前最穩方案。
 
 8. 確認 `xformers` 已移除
 
-執行:
-```bash
-venv\Scripts\python.exe -m pip list
-```
+    執行:
+    ```bash
+    venv\Scripts\python.exe -m pip list
+    ```
 
-確認 `xformers` 不在列表裡。
+    確認 `xformers` 不在列表裡。
 
 9. 驗證 PyTorch 安裝狀況
 
-使用指令:
-```bash
-venv\Scripts\python.exe -c "import torch; print(torch.__version__)"
-```
+    使用指令:
+    ```bash
+    venv\Scripts\python.exe -c "import torch; print(torch.__version__)"
+    ```
 
-應該會看到:
-```bash
-2.x.x+cu128
-```
+    應該會看到:
+    ```bash
+    2.x.x+cu128
+    ```
 
-筆者的狀況:
-```bash
-D:\SdForge\webui_forge_cu121_torch231\webui>venv\Scripts\python.exe -c "import torch; print(torch.__version__)"
-2.11.0+cu128
-```
+    筆者的狀況:
+    ```bash
+    D:\SdForge\webui_forge_cu121_torch231\webui>venv\Scripts\python.exe -c "import torch; print(torch.__version__)"
+    2.11.0+cu128
+    ```
 
 10. 驗證 CUDA 支援
 
-使用指令:
-```bash
-venv\Scripts\python.exe -c "import torch; print(torch.cuda.get_device_name(0))"
-```
+    使用指令:
+    ```bash
+    venv\Scripts\python.exe -c "import torch; print(torch.cuda.get_device_name(0))"
+    ```
 
-應該會看到：
-```bash
-NVIDIA GeForce RTX 5090 Laptop GPU
-```
+    應該會看到：
+    ```bash
+    NVIDIA GeForce RTX 5090 Laptop GPU
+    ```
 
-```bash
-D:\SdForge\webui_forge_cu121_torch231\webui>venv\Scripts\python.exe -c "import torch; print(torch.cuda.get_device_name(0))"
-NVIDIA GeForce RTX 5090 Laptop GPU
-```
+    ```bash
+    D:\SdForge\webui_forge_cu121_torch231\webui>venv\Scripts\python.exe -c "import torch; print(torch.cuda.get_device_name(0))"
+    NVIDIA GeForce RTX 5090 Laptop GPU
+    ```
 
 11. 修改 `webui-user.bat` 檔案
 
-在 `webui-user.bat` 檔案中的 `COMMANDLINE_ARGS=`，改成
-```bat
-set COMMANDLINE_ARGS=--cuda-malloc --opt-sdp-attention --opt-channelslast
-```
+    在 `webui-user.bat` 檔案中的 `COMMANDLINE_ARGS=`，改成
+    ```bat
+    set COMMANDLINE_ARGS=--cuda-malloc --opt-sdp-attention --opt-channelslast
+    ```
 
 12. 重新啟動 `Forge`
 
-正常情況下:
-- 不會再出現 sm_120 錯誤
-- CUDA 可正常啟用
-- 5090 能正常推圖
+    正常情況下:
+    - 不會再出現 sm_120 錯誤
+    - CUDA 可正常啟用
+    - 5090 能正常推圖
 
 筆者做到這裡，已經可以正常出圖了。
 
@@ -211,16 +211,16 @@ set COMMANDLINE_ARGS=--cuda-malloc --opt-sdp-attention --opt-channelslast
 
 ## 關於不裝 `xformers`
 
-因為 Torch 2.11 本身已內建超強 attention
+因為 Torch 2.11 本身已內建超強 attention。
 
 在 RTX 5090 上:
 
 | 技術	             | 狀態                          |
 | ----------------- | ----------------------------- |
-| xformers          | 很多 kernel 尚未支援 Blackwell |
+| `xformers`          | 很多 kernel 尚未支援 Blackwell |
 | Torch SDP	        | 官方原生支援                   |
 | Flash Attention 2	| 部分支援                       |
-| Triton            | 還在成熟中                     |
+| `Triton`            | 還在成熟中                     |
 
 所以現在， RTX 5090 最穩定方案其實是，不用 `xformers`。
 
@@ -230,7 +230,7 @@ set COMMANDLINE_ARGS=--cuda-malloc --opt-sdp-attention --opt-channelslast
 
 ## 關於不裝 `Triton`
 
-Triton 也先不要裝
+`Triton` 也先不要裝
 
 因為 Blackwell Windows 生態還在變，目前最重要的是穩定。
 
@@ -256,43 +256,43 @@ Triton 也先不要裝
 
 1. `xformers` 爆炸
 
-如果遇到 error code:
-```bash
-xformers not available
-```
+    如果遇到 error code:
+    ```bash
+    xformers not available
+    ```
 
-可先在 `webui-user.bat` 檔案中的 `COMMANDLINE_ARGS=` 加入 `--disable-xformers`
-```bat
-set COMMANDLINE_ARGS=--disable-xformers
-```
+    可先在 `webui-user.bat` 檔案中的 `COMMANDLINE_ARGS=` 加入 `--disable-xformers`
+    ```bat
+    set COMMANDLINE_ARGS=--disable-xformers
+    ```
 
-之後再慢慢處理。
+    之後再慢慢處理。
 
 2. `Triton` 問題
 
-若啟動 `Forge` 時，出現警告訊息:
-```bash
-No module named triton
-```
+    若啟動 `Forge` 時，出現警告訊息:
+    ```bash
+    No module named triton
+    ```
 
-則安裝:
-```bash
-pip install triton-windows
-```
+    則安裝:
+    ```bash
+    pip install triton-windows
+    ```
 
 3. Flash Attention 問題
 
-50 系列顯卡有時會出現警告訊息:
-```bash
-FlashAttention not supported
-```
+    50 系列顯卡有時會出現警告訊息:
+    ```bash
+    FlashAttention not supported
+    ```
 
-可先在 `webui-user.bat` 檔案中的 `COMMANDLINE_ARGS=` 加入 `--opt-sdp-no-mem-attention`
-```bat
-set COMMANDLINE_ARGS=--opt-sdp-no-mem-attention
-```
+    可先在 `webui-user.bat` 檔案中的 `COMMANDLINE_ARGS=` 加入 `--opt-sdp-no-mem-attention`
+    ```bat
+    set COMMANDLINE_ARGS=--opt-sdp-no-mem-attention
+    ```
 
-先關掉，之後再慢慢處理。
+    先關掉，之後再慢慢處理。
 
 # 相關資源
 stable-diffusion-webui-forge 的 GitHub:  
