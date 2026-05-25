@@ -69,35 +69,35 @@ git push
 
 1. 同步並合併 (最常用)。但自己得非常確認 GitHub 上的檔案是最新版本。
 
-直接抓取 GitHub 上的最新版本並合併到 B 電腦中目前的本地分支:
+    直接抓取 GitHub 上的最新版本並合併到 B 電腦中目前的本地分支:
 
-```bash
-git pull origin <分支名稱>
-```
-(例如：git pull origin main 或 git pull origin master)
+    ```bash
+    git pull origin <分支名稱>
+    ```
+    (例如：git pull origin main 或 git pull origin master)
 
 2. 僅抓取不合併 (最安全)。
 
-若想先確認遠端進度再決定是否合併
+    若想先確認遠端進度再決定是否合併
 
-先抓取 GitHub 上的最新版本，但此時尚未合併檔案。
-```bash
-git fetch origin
-```
+    先抓取 GitHub 上的最新版本，但此時尚未合併檔案。
+    ```bash
+    git fetch origin
+    ```
 
-使用以下指令比對遠端與本地的差異
-```bash
-git diff origin/<分支名稱>
-```
+    使用以下指令比對遠端與本地的差異
+    ```bash
+    git diff origin/<分支名稱>
+    ```
 
-看完差異後，按 `q` 退出。
+    看完差異後，按 `q` 退出。
 
-若確認無誤，再將其合併
-```bash
-git merge origin/<分支名稱>
-```
+    若確認無誤，再將其合併
+    ```bash
+    git merge origin/<分支名稱>
+    ```
 
-合併後，就可以繼續專案處理。當有檔案要存檔，並更新 GitHub 上時，就回到 "情境2" 的操作。
+    合併後，就可以繼續專案處理。當有檔案要存檔，並更新 GitHub 上時，就回到 "情境2" 的操作。
 
 PS: 上述指令，其實沒打 <分支名稱> 也可以執行。
 
