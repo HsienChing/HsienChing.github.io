@@ -330,6 +330,7 @@ Using pytorch attention for VAE
 記憶體 VARM 使用方面， `use 95.81% GPU memory` ， `Forge` 會很積極吃 VRAM。這是正常的。
 
 目前的最佳實務，保持以下列出的狀況
+
 | 元件         | 建議        |
 | ------------ | ---------- |
 | Torch	       | 2.11 cu128 |
@@ -401,4 +402,4 @@ Using pytorch attention for VAE
 
 # 相關資源
 stable-diffusion-webui-forge 的 GitHub:  
-https://github.com/lllyasviel/stable-diffusion-webui-forge
+<https://github.com/lllyasviel/stable-diffusion-webui-forge>
