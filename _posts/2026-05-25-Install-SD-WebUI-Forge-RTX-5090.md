@@ -350,7 +350,7 @@ Using pytorch attention for VAE
 - 高解析度
 - Inpaint
 
-# 額外建議（可選）
+# 額外建議 (可選)
 
 1. 之後可以考慮 `webui-user.bat` 的 `COMMANDLINE_ARGS=` 再加 `--pin-shared-memory`。
 
