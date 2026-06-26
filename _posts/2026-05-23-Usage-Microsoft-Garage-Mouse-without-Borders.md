@@ -67,7 +67,7 @@ PS: 要注意，要在同一個區域網路下才行。
 
 (第6點，記錄日期: 2026-06-25)
 6. 若使用高 DPI 的有線滑鼠，到另一台電腦時的卡頓感會降低一些。例如: 使用華碩的 ROG Strix IMPACT 電競滑鼠，具備 5000 DPI。  
-REF: [ROG Strix IMPACT 電競滑鼠【開箱文】](https://www.eclife.com.tw/wiseman/cont582.htm?srsltid=AfmBOopniie_xXf-uhgDcfmylBfE9L0wifPxRjRa5zcY0ZZT3gTfeBA3)
+REF: [ROG Strix IMPACT 電競滑鼠【開箱文】](https://www.eclife.com.tw/wiseman/cont582.htm)
 
 # 其他的類似軟體
 
